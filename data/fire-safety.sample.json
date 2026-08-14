@@ -1,0 +1,3544 @@
+{
+  "category": "消防安全",
+  "source_url": "https://gdse.guet.edu.cn/#/learn/fireSafety",
+  "collection_mode": "browser_feedback_sample",
+  "collected_at": "2026-08-13",
+  "answer_source": "platform_feedback_after_selection_and_next",
+  "verification_status": "platform_feedback_adopted_after_reverification",
+  "items": [
+    {
+      "number": 1,
+      "type": "单选题",
+      "question": "高楼火灾逃生原则是？",
+      "options": [
+        "A、乘电梯",
+        "B、向下疏散",
+        "C、跳楼求生",
+        "D、向上躲避"
+      ],
+      "selected_options": [
+        "B、向下疏散"
+      ],
+      "answer": "B、向下疏散",
+      "answer_labels": [
+        "B"
+      ],
+      "selected_options_labels": [
+        "B"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "verification_note": "Platform feedback B compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "B"
+      ],
+      "platform_answer": [
+        "B、向下疏散"
+      ]
+    },
+    {
+      "number": 45,
+      "type": "多选题",
+      "question": "燃烧三要素是（ ）。",
+      "options": [
+        "A、可燃物",
+        "B、助燃物",
+        "C、着火源",
+        "D、二氧化碳"
+      ],
+      "selected_options": [
+        "A、可燃物",
+        "B、助燃物",
+        "C、着火源"
+      ],
+      "answer": [
+        "A、可燃物",
+        "B、助燃物",
+        "C、着火源"
+      ],
+      "answer_labels": [
+        "A",
+        "B",
+        "C"
+      ],
+      "selected_options_labels": [
+        "A",
+        "B",
+        "C"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "verification_note": "Platform feedback ABC compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "A",
+        "B",
+        "C"
+      ],
+      "platform_answer": [
+        "A、可燃物",
+        "B、助燃物",
+        "C、着火源"
+      ]
+    },
+    {
+      "number": 44,
+      "type": "单选题",
+      "question": "室内消火栓箱内通常没有？",
+      "options": [
+        "A、水带",
+        "B、水枪",
+        "C、阀门",
+        "D、防毒面具"
+      ],
+      "selected_options": [
+        "D、防毒面具"
+      ],
+      "answer": "D、防毒面具",
+      "answer_labels": [
+        "D"
+      ],
+      "selected_options_labels": [
+        "D"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "verification_note": "Platform feedback D compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "D"
+      ],
+      "platform_answer": [
+        "D、防毒面具"
+      ]
+    },
+    {
+      "number": 43,
+      "type": "多选题",
+      "question": "占用消防车通道的处罚？",
+      "options": [
+        "A、单位最高罚5万元",
+        "B、个人警告或500元以下罚款",
+        "C、强制拖离车辆",
+        "D、拘留10日",
+        "E、纳入信用记录"
+      ],
+      "selected_options": [
+        "A、单位最高罚5万元",
+        "B、个人警告或500元以下罚款",
+        "C、强制拖离车辆",
+        "E、纳入信用记录"
+      ],
+      "answer": [
+        "A、单位最高罚5万元",
+        "B、个人警告或500元以下罚款",
+        "C、强制拖离车辆",
+        "E、纳入信用记录"
+      ],
+      "answer_labels": [
+        "A",
+        "B",
+        "C",
+        "E"
+      ],
+      "selected_options_labels": [
+        "A",
+        "B",
+        "C",
+        "E"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "verification_note": "Platform feedback adopted as final answer after repeated re-verification; original candidate answer preserved in previous_candidate_answer.",
+      "platform_answer_labels": [
+        "A",
+        "B",
+        "C",
+        "E"
+      ],
+      "platform_answer": [
+        "A、单位最高罚5万元",
+        "B、个人警告或500元以下罚款",
+        "C、强制拖离车辆",
+        "E、纳入信用记录"
+      ],
+      "previous_candidate_answer": [
+        "A、单位最高罚5万元",
+        "B、个人警告或500元以下罚款",
+        "C、强制拖离车辆"
+      ]
+    },
+    {
+      "number": 42,
+      "type": "单选题",
+      "question": "使用灭火器灭火时，喷嘴应对准火焰的（）",
+      "options": [
+        "A、上部",
+        "B、中部",
+        "C、根部"
+      ],
+      "selected_options": [
+        "C、根部"
+      ],
+      "answer": "C、根部",
+      "answer_labels": [
+        "C"
+      ],
+      "selected_options_labels": [
+        "C"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "verification_note": "Platform feedback C compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "C"
+      ],
+      "platform_answer": [
+        "C、根部"
+      ]
+    },
+    {
+      "number": 41,
+      "type": "单选题",
+      "question": "火场逃生的原则是（ ）。",
+      "options": [
+        "A、抢救国家财产为上",
+        "B、先带上日后生活必需钱财要紧",
+        "C、安全撤离、救助结合",
+        "D、 逃命要紧"
+      ],
+      "selected_options": [
+        "C、安全撤离、救助结合"
+      ],
+      "answer": "C、安全撤离、救助结合",
+      "answer_labels": [
+        "C"
+      ],
+      "selected_options_labels": [
+        "C"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "verification_note": "Platform feedback adopted as final answer after repeated re-verification; original candidate answer preserved in previous_candidate_answer.",
+      "platform_answer_labels": [
+        "C"
+      ],
+      "platform_answer": [
+        "C、安全撤离、救助结合"
+      ],
+      "previous_candidate_answer": "D、 逃命要紧"
+    },
+    {
+      "number": 40,
+      "type": "单选题",
+      "question": "使用干粉灭火器扑救易燃液体火灾时，应对准（ ）扫射，直至火焰全部扑灭。",
+      "options": [
+        "A、火焰根部",
+        "B、火焰顶部",
+        "C、火焰中部",
+        "D、朝天喷射"
+      ],
+      "selected_options": [
+        "A、火焰根部"
+      ],
+      "answer": "A、火焰根部",
+      "answer_labels": [
+        "A"
+      ],
+      "selected_options_labels": [
+        "A"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "verification_note": "Platform feedback A compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "A"
+      ],
+      "platform_answer": [
+        "A、火焰根部"
+      ]
+    },
+    {
+      "number": 39,
+      "type": "单选题",
+      "question": "当发现燃气泄漏时，首先应做的是（ ）",
+      "options": [
+        "A、立即打电话报警",
+        "B、迅速打开门窗通风",
+        "C、使用明火测试泄漏点",
+        "D、关闭电器设备"
+      ],
+      "selected_options": [
+        "B、迅速打开门窗通风"
+      ],
+      "answer": "B、迅速打开门窗通风",
+      "answer_labels": [
+        "B"
+      ],
+      "selected_options_labels": [
+        "B"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "verification_note": "Platform feedback B compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "B"
+      ],
+      "platform_answer": [
+        "B、迅速打开门窗通风"
+      ]
+    },
+    {
+      "number": 38,
+      "type": "多选题",
+      "question": "防烟面具（自救呼吸器）失效特征？",
+      "options": [
+        "A、滤毒罐密封破损",
+        "B、头带弹性下降",
+        "C、有效期超过3年",
+        "D、透明视窗轻微划痕",
+        "E、包装盒变形"
+      ],
+      "selected_options": [
+        "A、滤毒罐密封破损",
+        "B、头带弹性下降",
+        "C、有效期超过3年",
+        "E、包装盒变形"
+      ],
+      "answer": [
+        "A、滤毒罐密封破损",
+        "B、头带弹性下降",
+        "C、有效期超过3年",
+        "E、包装盒变形"
+      ],
+      "answer_labels": [
+        "A",
+        "B",
+        "C",
+        "E"
+      ],
+      "selected_options_labels": [
+        "A",
+        "B",
+        "C",
+        "E"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "verification_note": "Platform feedback adopted as final answer after repeated re-verification; original candidate answer preserved in previous_candidate_answer.",
+      "platform_answer_labels": [
+        "A",
+        "B",
+        "C",
+        "E"
+      ],
+      "platform_answer": [
+        "A、滤毒罐密封破损",
+        "B、头带弹性下降",
+        "C、有效期超过3年",
+        "E、包装盒变形"
+      ],
+      "previous_candidate_answer": [
+        "A、滤毒罐密封破损",
+        "B、头带弹性下降",
+        "C、有效期超过3年"
+      ]
+    },
+    {
+      "number": 37,
+      "type": "单选题",
+      "question": "宿舍内发生火灾时，以下哪种逃生方法是错误的?",
+      "options": [
+        "A、低姿势逃生",
+        "B、使用湿毛巾捂住口鼻",
+        "C、乘坐电梯逃生",
+        "D、沿着疏散指示标志逃生"
+      ],
+      "selected_options": [
+        "C、乘坐电梯逃生"
+      ],
+      "answer": "C、乘坐电梯逃生",
+      "answer_labels": [
+        "C"
+      ],
+      "selected_options_labels": [
+        "C"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "verification_note": "Platform feedback C compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "C"
+      ],
+      "platform_answer": [
+        "C、乘坐电梯逃生"
+      ]
+    },
+    {
+      "number": 36,
+      "type": "单选题",
+      "question": "高层建筑发生火灾时，正确的逃生方法是（ ）",
+      "options": [
+        "A、乘坐普通电梯逃生",
+        "B、顺着烟火蔓延的方向快速跑",
+        "C、寻找安全出口，沿着疏散指示标志逃生",
+        "D、跳楼逃生"
+      ],
+      "selected_options": [
+        "C、寻找安全出口，沿着疏散指示标志逃生"
+      ],
+      "answer": "C、寻找安全出口，沿着疏散指示标志逃生",
+      "answer_labels": [
+        "C"
+      ],
+      "selected_options_labels": [
+        "C"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "verification_note": "Platform feedback C compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "C"
+      ],
+      "platform_answer": [
+        "C、寻找安全出口，沿着疏散指示标志逃生"
+      ]
+    },
+    {
+      "number": 35,
+      "type": "单选题",
+      "question": "二氧化碳灭火器强制报废年限为？",
+      "options": [
+        "A、5年",
+        "B、12年",
+        "C、15年",
+        "D、20年"
+      ],
+      "selected_options": [
+        "B、12年"
+      ],
+      "answer": "B、12年",
+      "answer_labels": [
+        "B"
+      ],
+      "selected_options_labels": [
+        "B"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "verification_note": "Platform feedback B compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "B"
+      ],
+      "platform_answer": [
+        "B、12年"
+      ]
+    },
+    {
+      "number": 34,
+      "type": "多选题",
+      "question": "进入公共场所，应注意观察哪些部位，以便于发生火灾时能够紧急逃生（ ）。",
+      "options": [
+        "A、进出口位",
+        "B、安全出口",
+        "C、疏散楼梯",
+        "D、电梯"
+      ],
+      "selected_options": [
+        "A、进出口位",
+        "B、安全出口",
+        "C、疏散楼梯"
+      ],
+      "answer": [
+        "A、进出口位",
+        "B、安全出口",
+        "C、疏散楼梯"
+      ],
+      "answer_labels": [
+        "A",
+        "B",
+        "C"
+      ],
+      "selected_options_labels": [
+        "A",
+        "B",
+        "C"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "verification_note": "Platform feedback ABC compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "A",
+        "B",
+        "C"
+      ],
+      "platform_answer": [
+        "A、进出口位",
+        "B、安全出口",
+        "C、疏散楼梯"
+      ]
+    },
+    {
+      "number": 33,
+      "type": "单选题",
+      "question": "消火栓按钮的作用是？",
+      "options": [
+        "A、报警",
+        "B、启动消防泵",
+        "C、开启排烟系统",
+        "D、切断电源"
+      ],
+      "selected_options": [
+        "B、启动消防泵"
+      ],
+      "answer": "B、启动消防泵",
+      "answer_labels": [
+        "B"
+      ],
+      "selected_options_labels": [
+        "B"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "verification_note": "Platform feedback B compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "B"
+      ],
+      "platform_answer": [
+        "B、启动消防泵"
+      ]
+    },
+    {
+      "number": 32,
+      "type": "单选题",
+      "question": "扑灭电器火灾时，应首先做的是（ ）",
+      "options": [
+        "A、用水浇灭",
+        "B、切断电源",
+        "C、使用泡沫灭火器",
+        "D、直接用湿棉被覆盖"
+      ],
+      "selected_options": [
+        "B、切断电源"
+      ],
+      "answer": "B、切断电源",
+      "answer_labels": [
+        "B"
+      ],
+      "selected_options_labels": [
+        "B"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "verification_note": "Platform feedback B compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "B"
+      ],
+      "platform_answer": [
+        "B、切断电源"
+      ]
+    },
+    {
+      "number": 31,
+      "type": "单选题",
+      "question": "当遇到火灾时，通常情况下，应向 逃生。 ( )",
+      "options": [
+        "A、着火相反的方向",
+        "B、人多的方向",
+        "C、未受火势威胁的安全出口方向",
+        "D、就地趴下来"
+      ],
+      "selected_options": [
+        "C、未受火势威胁的安全出口方向"
+      ],
+      "answer": "C、未受火势威胁的安全出口方向",
+      "answer_labels": [
+        "C"
+      ],
+      "selected_options_labels": [
+        "C"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "verification_note": "Platform feedback C compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "C"
+      ],
+      "platform_answer": [
+        "C、未受火势威胁的安全出口方向"
+      ]
+    },
+    {
+      "number": 30,
+      "type": "单选题",
+      "question": "在公共场所遇到火灾时，以下哪种做法是错误的?",
+      "options": [
+        "A、保持冷静，迅速判断火情",
+        "B、沿着疏散指示标志逃生",
+        "C、跳楼逃生",
+        "D、使用灭火器灭火"
+      ],
+      "selected_options": [
+        "C、跳楼逃生"
+      ],
+      "answer": "C、跳楼逃生",
+      "answer_labels": [
+        "C"
+      ],
+      "selected_options_labels": [
+        "C"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "verification_note": "Platform feedback C compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "C"
+      ],
+      "platform_answer": [
+        "C、跳楼逃生"
+      ]
+    },
+    {
+      "number": 29,
+      "type": "单选题",
+      "question": "消防车通道宽度不应小于？",
+      "options": [
+        "A、3米",
+        "B、4米",
+        "C、5米",
+        "D、6米"
+      ],
+      "selected_options": [
+        "B、4米"
+      ],
+      "answer": "B、4米",
+      "answer_labels": [
+        "B"
+      ],
+      "selected_options_labels": [
+        "B"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "verification_note": "Platform feedback B compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "B"
+      ],
+      "platform_answer": [
+        "B、4米"
+      ]
+    },
+    {
+      "number": 28,
+      "type": "多选题",
+      "question": "火场逃生错误行为？",
+      "options": [
+        "A、乘普通电梯",
+        "B、盲目跳楼",
+        "C、用湿毛巾捂口鼻低姿撤离",
+        "D、返回取贵重物品",
+        "E、堵住门缝等待救援"
+      ],
+      "selected_options": [
+        "A、乘普通电梯",
+        "B、盲目跳楼",
+        "D、返回取贵重物品"
+      ],
+      "answer": [
+        "A、乘普通电梯",
+        "B、盲目跳楼",
+        "D、返回取贵重物品"
+      ],
+      "answer_labels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "selected_options_labels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "verification_note": "Platform feedback ABD compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "platform_answer": [
+        "A、乘普通电梯",
+        "B、盲目跳楼",
+        "D、返回取贵重物品"
+      ]
+    },
+    {
+      "number": 27,
+      "type": "单选题",
+      "question": "水基灭火器不能扑救？",
+      "options": [
+        "A、棉布火灾",
+        "B、带电设备火灾",
+        "C、食用油火灾",
+        "D、木材火灾"
+      ],
+      "selected_options": [
+        "B、带电设备火灾"
+      ],
+      "answer": "B、带电设备火灾",
+      "answer_labels": [
+        "B"
+      ],
+      "selected_options_labels": [
+        "B"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "verification_note": "Platform feedback B compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "B"
+      ],
+      "platform_answer": [
+        "B、带电设备火灾"
+      ]
+    },
+    {
+      "number": 26,
+      "type": "单选题",
+      "question": "使用燃气灶具时，下列（ ）说法是正确的。",
+      "options": [
+        "A、应先开气阀后点火，即“气等火”",
+        "B、应先点火后再开气阀，即“火等气”",
+        "C、先点火还是先开气阀都无所谓",
+        "D、点火、开气阀同时进行"
+      ],
+      "selected_options": [
+        "B、应先点火后再开气阀，即“火等气”"
+      ],
+      "answer": "B、应先点火后再开气阀，即“火等气”",
+      "answer_labels": [
+        "B"
+      ],
+      "selected_options_labels": [
+        "B"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "verification_note": "Platform feedback B compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "B"
+      ],
+      "platform_answer": [
+        "B、应先点火后再开气阀，即“火等气”"
+      ]
+    },
+    {
+      "number": 25,
+      "type": "单选题",
+      "question": "当遇到火灾时，通常情况下，应向（ ）逃生。",
+      "options": [
+        "A、着火相反的方向",
+        "B、人多的方向",
+        "C、未受火势威胁的安全出口方向",
+        "D、就地趴下来"
+      ],
+      "selected_options": [
+        "C、未受火势威胁的安全出口方向"
+      ],
+      "answer": "C、未受火势威胁的安全出口方向",
+      "answer_labels": [
+        "C"
+      ],
+      "selected_options_labels": [
+        "C"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "verification_note": "Platform feedback C compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "C"
+      ],
+      "platform_answer": [
+        "C、未受火势威胁的安全出口方向"
+      ]
+    },
+    {
+      "number": 24,
+      "type": "单选题",
+      "question": "宿舍内使用充电设备时，以下哪种做法是正确的?",
+      "options": [
+        "A、长时间充电不拔插头",
+        "B、使用非原装充电器",
+        "C、充电设备周围放置易燃物品",
+        "D、充电完成后及时拔掉插头"
+      ],
+      "selected_options": [
+        "D、充电完成后及时拔掉插头"
+      ],
+      "answer": "D、充电完成后及时拔掉插头",
+      "answer_labels": [
+        "D"
+      ],
+      "selected_options_labels": [
+        "D"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "verification_note": "Platform feedback D compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "D"
+      ],
+      "platform_answer": [
+        "D、充电完成后及时拔掉插头"
+      ]
+    },
+    {
+      "number": 23,
+      "type": "多选题",
+      "question": "灭火器压力表指示含义？",
+      "options": [
+        "A、红区：失效",
+        "B、绿区：正常",
+        "C、黄区：超压",
+        "D、蓝区：需充装",
+        "E、白区：报废"
+      ],
+      "selected_options": [
+        "A、红区：失效",
+        "B、绿区：正常",
+        "C、黄区：超压"
+      ],
+      "answer": [
+        "A、红区：失效",
+        "B、绿区：正常",
+        "C、黄区：超压"
+      ],
+      "answer_labels": [
+        "A",
+        "B",
+        "C"
+      ],
+      "selected_options_labels": [
+        "A",
+        "B",
+        "C"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "verification_note": "Platform feedback ABC compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "A",
+        "B",
+        "C"
+      ],
+      "platform_answer": [
+        "A、红区：失效",
+        "B、绿区：正常",
+        "C、黄区：超压"
+      ]
+    },
+    {
+      "number": 22,
+      "type": "单选题",
+      "question": "插线板超负荷使用的表现是？",
+      "options": [
+        "A、指示灯亮",
+        "B、发热变形",
+        "C、轻微声响",
+        "D、外壳褪色"
+      ],
+      "selected_options": [
+        "B、发热变形"
+      ],
+      "answer": "B、发热变形",
+      "answer_labels": [
+        "B"
+      ],
+      "selected_options_labels": [
+        "B"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "verification_note": "Platform feedback B compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "B"
+      ],
+      "platform_answer": [
+        "B、发热变形"
+      ]
+    },
+    {
+      "number": 21,
+      "type": "多选题",
+      "question": "穿过浓烟区的正确做法？",
+      "options": [
+        "A、用浸湿织物捂口鼻",
+        "B、弯腰贴近地面",
+        "C、快速奔跑冲出",
+        "D、沿墙摸索前进",
+        "E、大声呼喊求救"
+      ],
+      "selected_options": [
+        "A、用浸湿织物捂口鼻",
+        "B、弯腰贴近地面",
+        "D、沿墙摸索前进"
+      ],
+      "answer": [
+        "A、用浸湿织物捂口鼻",
+        "B、弯腰贴近地面",
+        "D、沿墙摸索前进"
+      ],
+      "answer_labels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "selected_options_labels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "verification_note": "Platform feedback ABD compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "platform_answer": [
+        "A、用浸湿织物捂口鼻",
+        "B、弯腰贴近地面",
+        "D、沿墙摸索前进"
+      ]
+    },
+    {
+      "number": 20,
+      "type": "单选题",
+      "question": "在做化学实验时，（）离开实验现场。",
+      "options": [
+        "A、可以视情",
+        "B、不可以",
+        "C、感觉没有危险的实验可以",
+        "D、老师不在场可以"
+      ],
+      "selected_options": [
+        "B、不可以"
+      ],
+      "answer": "B、不可以",
+      "answer_labels": [
+        "B"
+      ],
+      "selected_options_labels": [
+        "B"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "verification_note": "Platform feedback B compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "B"
+      ],
+      "platform_answer": [
+        "B、不可以"
+      ]
+    },
+    {
+      "number": 19,
+      "type": "单选题",
+      "question": "以下哪种电器在宿舍中使用时最容易引发火灾?",
+      "options": [
+        "A、电风扇",
+        "B、电热水壶",
+        "C、电脑",
+        "D、手机充电器"
+      ],
+      "selected_options": [
+        "B、电热水壶"
+      ],
+      "answer": "B、电热水壶",
+      "answer_labels": [
+        "B"
+      ],
+      "selected_options_labels": [
+        "B"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "verification_note": "Platform feedback B compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "B"
+      ],
+      "platform_answer": [
+        "B、电热水壶"
+      ]
+    },
+    {
+      "number": 18,
+      "type": "单选题",
+      "question": "乱扔烟蒂容易引发火灾，是因为烟蒂的温度比毛织物、纸张等可燃物的燃点要高，请问烟头的中心温度可以达到 ( )",
+      "options": [
+        "A、200-300 度",
+        "B、600-700 度",
+        "C、700-800 度",
+        "D、400-500 度"
+      ],
+      "selected_options": [
+        "C、700-800 度"
+      ],
+      "answer": "C、700-800 度",
+      "answer_labels": [
+        "C"
+      ],
+      "selected_options_labels": [
+        "C"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "verification_note": "Platform feedback adopted as final answer after repeated re-verification; original candidate answer preserved in previous_candidate_answer.",
+      "platform_answer_labels": [
+        "C"
+      ],
+      "platform_answer": [
+        "C、700-800 度"
+      ],
+      "previous_candidate_answer": "B、600-700 度"
+    },
+    {
+      "number": 17,
+      "type": "单选题",
+      "question": "油锅起火时，最安全的扑救方法是？",
+      "options": [
+        "A、泼水灭火",
+        "B、盖紧锅盖",
+        "C、用泡沫灭火器",
+        "D、倒入冷油"
+      ],
+      "selected_options": [
+        "B、盖紧锅盖"
+      ],
+      "answer": "B、盖紧锅盖",
+      "answer_labels": [
+        "B"
+      ],
+      "selected_options_labels": [
+        "B"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "verification_note": "Platform feedback B compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "B"
+      ],
+      "platform_answer": [
+        "B、盖紧锅盖"
+      ]
+    },
+    {
+      "number": 16,
+      "type": "单选题",
+      "question": "有人认为现在的小家电都要经过安全检测，所以离开宿舍时充电器等不需拔下。以下说法正确的是 ( )",
+      "options": [
+        "A、要拔下",
+        "B、可以不要拔下",
+        "C、小功率电器可以不拔下",
+        "D、无所谓"
+      ],
+      "selected_options": [
+        "A、要拔下"
+      ],
+      "answer": "A、要拔下",
+      "answer_labels": [
+        "A"
+      ],
+      "selected_options_labels": [
+        "A"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "verification_note": "Platform feedback A compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "A"
+      ],
+      "platform_answer": [
+        "A、要拔下"
+      ]
+    },
+    {
+      "number": 15,
+      "type": "单选题",
+      "question": "以下哪种行为可能导致校园火灾?",
+      "options": [
+        "A、在宿舍内使用电磁炉",
+        "B、定期检查电器线路",
+        "C、遵守校园消防安全规定",
+        "D、在楼道内安装烟雾报警器"
+      ],
+      "selected_options": [
+        "A、在宿舍内使用电磁炉"
+      ],
+      "answer": "A、在宿舍内使用电磁炉",
+      "answer_labels": [
+        "A"
+      ],
+      "selected_options_labels": [
+        "A"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "verification_note": "Platform feedback A compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "A"
+      ],
+      "platform_answer": [
+        "A、在宿舍内使用电磁炉"
+      ]
+    },
+    {
+      "number": 14,
+      "type": "多选题",
+      "question": "锂电池起火的危险特性？",
+      "options": [
+        "A、易复燃",
+        "B、释放有毒气体",
+        "C、可用水扑救",
+        "D、温度可达约800℃",
+        "E、爆炸风险低"
+      ],
+      "selected_options": [
+        "A、易复燃",
+        "B、释放有毒气体",
+        "D、温度可达约800℃"
+      ],
+      "answer": [
+        "A、易复燃",
+        "B、释放有毒气体",
+        "D、温度可达约800℃"
+      ],
+      "answer_labels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "selected_options_labels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "verification_note": "Platform feedback ABD compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "platform_answer": [
+        "A、易复燃",
+        "B、释放有毒气体",
+        "D、温度可达约800℃"
+      ]
+    },
+    {
+      "number": 13,
+      "type": "单选题",
+      "question": "在实验室进行化学实验时，以下哪项操作是安全的?",
+      "options": [
+        "A、随意丢弃实验废弃物",
+        "B、独自进行实验，不与他人交流",
+        "C、严格按照实验规程操作",
+        "D、使用明火加热易燃易爆物品"
+      ],
+      "selected_options": [
+        "C、严格按照实验规程操作"
+      ],
+      "answer": "C、严格按照实验规程操作",
+      "answer_labels": [
+        "C"
+      ],
+      "selected_options_labels": [
+        "C"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "verification_note": "Platform feedback C compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "C"
+      ],
+      "platform_answer": [
+        "C、严格按照实验规程操作"
+      ]
+    },
+    {
+      "number": 12,
+      "type": "多选题",
+      "question": "配合学校做好安全保卫工作应做到 ( ) 。",
+      "options": [
+        "A、有情况及时汇报",
+        "B、严格遵守请销假制度",
+        "C、不破坏安全保卫及消防设施",
+        "D、与同学或学校工作人员发生矛盾通过组织解决"
+      ],
+      "selected_options": [
+        "A、有情况及时汇报",
+        "B、严格遵守请销假制度",
+        "C、不破坏安全保卫及消防设施",
+        "D、与同学或学校工作人员发生矛盾通过组织解决"
+      ],
+      "answer": [
+        "A、有情况及时汇报",
+        "B、严格遵守请销假制度",
+        "C、不破坏安全保卫及消防设施",
+        "D、与同学或学校工作人员发生矛盾通过组织解决"
+      ],
+      "answer_labels": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "selected_options_labels": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "verification_note": "Platform feedback ABCD compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "platform_answer": [
+        "A、有情况及时汇报",
+        "B、严格遵守请销假制度",
+        "C、不破坏安全保卫及消防设施",
+        "D、与同学或学校工作人员发生矛盾通过组织解决"
+      ]
+    },
+    {
+      "number": 11,
+      "type": "单选题",
+      "question": "灭火器压力表指针在绿色区表示？",
+      "options": [
+        "A、失效",
+        "B、正常",
+        "C、超压",
+        "D、需更换"
+      ],
+      "selected_options": [
+        "B、正常"
+      ],
+      "answer": "B、正常",
+      "answer_labels": [
+        "B"
+      ],
+      "selected_options_labels": [
+        "B"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "verification_note": "Platform feedback B compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "B"
+      ],
+      "platform_answer": [
+        "B、正常"
+      ]
+    },
+    {
+      "number": 10,
+      "type": "单选题",
+      "question": "在学校宿舍内使用大功率电器，容易引发（ ）危险。",
+      "options": [
+        "A、水灾",
+        "B、火灾",
+        "C、触电",
+        "D、盗窃"
+      ],
+      "selected_options": [
+        "B、火灾"
+      ],
+      "answer": "B、火灾",
+      "answer_labels": [
+        "B"
+      ],
+      "selected_options_labels": [
+        "B"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "verification_note": "Platform feedback B compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "B"
+      ],
+      "platform_answer": [
+        "B、火灾"
+      ]
+    },
+    {
+      "number": 9,
+      "type": "多选题",
+      "question": "以下选项，哪些是预防电气火灾的行为？",
+      "options": [
+        "A、定期更换老化电线",
+        "B、避免多台大功率电器共用插座",
+        "C、用铜丝代替保险丝",
+        "D、电暖器与沙发保持1米距离"
+      ],
+      "selected_options": [
+        "A、定期更换老化电线",
+        "B、避免多台大功率电器共用插座",
+        "D、电暖器与沙发保持1米距离"
+      ],
+      "answer": [
+        "A、定期更换老化电线",
+        "B、避免多台大功率电器共用插座",
+        "D、电暖器与沙发保持1米距离"
+      ],
+      "answer_labels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "selected_options_labels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "verification_note": "Platform feedback ABD compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "platform_answer": [
+        "A、定期更换老化电线",
+        "B、避免多台大功率电器共用插座",
+        "D、电暖器与沙发保持1米距离"
+      ]
+    },
+    {
+      "number": 8,
+      "type": "单选题",
+      "question": "二氧化碳灭火器使用时要防止？",
+      "options": [
+        "A、爆炸",
+        "B、冻伤手部",
+        "C、中毒",
+        "D、触电"
+      ],
+      "selected_options": [
+        "B、冻伤手部"
+      ],
+      "answer": "B、冻伤手部",
+      "answer_labels": [
+        "B"
+      ],
+      "selected_options_labels": [
+        "B"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "verification_note": "Platform feedback B compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "B"
+      ],
+      "platform_answer": [
+        "B、冻伤手部"
+      ]
+    },
+    {
+      "number": 7,
+      "type": "多选题",
+      "question": "高层建筑发生火灾时，人员可通过（ ）渠道逃生。",
+      "options": [
+        "A、疏散楼梯",
+        "B、普通电梯",
+        "C、逃向避难层",
+        "D、通过建筑连廊逃向另一单元"
+      ],
+      "selected_options": [
+        "A、疏散楼梯",
+        "C、逃向避难层",
+        "D、通过建筑连廊逃向另一单元"
+      ],
+      "answer": [
+        "A、疏散楼梯",
+        "C、逃向避难层",
+        "D、通过建筑连廊逃向另一单元"
+      ],
+      "answer_labels": [
+        "A",
+        "C",
+        "D"
+      ],
+      "selected_options_labels": [
+        "A",
+        "C",
+        "D"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "verification_note": "Platform feedback ACD compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "A",
+        "C",
+        "D"
+      ],
+      "platform_answer": [
+        "A、疏散楼梯",
+        "C、逃向避难层",
+        "D、通过建筑连廊逃向另一单元"
+      ]
+    },
+    {
+      "number": 6,
+      "type": "多选题",
+      "question": "以下选项，哪些是应受消防行政处罚的行为？",
+      "options": [
+        "A、堵塞疏散通道",
+        "B、损坏灭火器",
+        "C、谎报火警",
+        "D、占用消防车道",
+        "E、组织疏散演练"
+      ],
+      "selected_options": [
+        "A、堵塞疏散通道",
+        "B、损坏灭火器",
+        "C、谎报火警",
+        "D、占用消防车道"
+      ],
+      "answer": [
+        "A、堵塞疏散通道",
+        "B、损坏灭火器",
+        "C、谎报火警",
+        "D、占用消防车道"
+      ],
+      "answer_labels": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "selected_options_labels": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "verification_note": "Platform feedback ABCD compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "platform_answer": [
+        "A、堵塞疏散通道",
+        "B、损坏灭火器",
+        "C、谎报火警",
+        "D、占用消防车道"
+      ]
+    },
+    {
+      "number": 5,
+      "type": "多选题",
+      "question": "灭火的基本方法是（ ）。",
+      "options": [
+        "A、冷却灭火法",
+        "B、隔离灭火法",
+        "C、窒息灭火法",
+        "D、化学抑制法"
+      ],
+      "selected_options": [
+        "A、冷却灭火法",
+        "B、隔离灭火法",
+        "C、窒息灭火法",
+        "D、化学抑制法"
+      ],
+      "answer": [
+        "A、冷却灭火法",
+        "B、隔离灭火法",
+        "C、窒息灭火法",
+        "D、化学抑制法"
+      ],
+      "answer_labels": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "selected_options_labels": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "verification_note": "Platform feedback ABCD compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "platform_answer": [
+        "A、冷却灭火法",
+        "B、隔离灭火法",
+        "C、窒息灭火法",
+        "D、化学抑制法"
+      ]
+    },
+    {
+      "number": 4,
+      "type": "单选题",
+      "question": "实验室内使用酒精灯时，以下哪种做法是正确的?",
+      "options": [
+        "A、酒精灯旁边放置易燃物品",
+        "B、用嘴吹灭酒精灯",
+        "C、使用酒精灯加热封闭容器",
+        "D、使用灭火盖盖灭酒精灯"
+      ],
+      "selected_options": [
+        "D、使用灭火盖盖灭酒精灯"
+      ],
+      "answer": "D、使用灭火盖盖灭酒精灯",
+      "answer_labels": [
+        "D"
+      ],
+      "selected_options_labels": [
+        "D"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "verification_note": "Platform feedback D compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "D"
+      ],
+      "platform_answer": [
+        "D、使用灭火盖盖灭酒精灯"
+      ]
+    },
+    {
+      "number": 3,
+      "type": "单选题",
+      "question": "我国火灾报警电话是？",
+      "options": [
+        "A、110",
+        "B、120",
+        "C、119",
+        "D、911"
+      ],
+      "selected_options": [
+        "C、119"
+      ],
+      "answer": "C、119",
+      "answer_labels": [
+        "C"
+      ],
+      "selected_options_labels": [
+        "C"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "verification_note": "Platform feedback C compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "C"
+      ],
+      "platform_answer": [
+        "C、119"
+      ]
+    },
+    {
+      "number": 2,
+      "type": "单选题",
+      "question": "厨房燃气泄漏的典型气味是？",
+      "options": [
+        "A、无味",
+        "B、香味",
+        "C、臭鸡蛋味",
+        "D、酸味"
+      ],
+      "selected_options": [
+        "C、臭鸡蛋味"
+      ],
+      "answer": "C、臭鸡蛋味",
+      "answer_labels": [
+        "C"
+      ],
+      "selected_options_labels": [
+        "C"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "verification_note": "Platform feedback C compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "C"
+      ],
+      "platform_answer": [
+        "C、臭鸡蛋味"
+      ]
+    },
+    {
+      "number": 47,
+      "type": "单选题",
+      "question": "在实验室进行化学实验时，以下哪种做法是错误的?",
+      "options": [
+        "A、穿戴实验服和护目镜",
+        "B、随意混合化学试剂",
+        "C、严格按照实验规程操作",
+        "D、使用灭火器灭火"
+      ],
+      "selected_options": [
+        "B、随意混合化学试剂"
+      ],
+      "answer": "B、随意混合化学试剂",
+      "answer_labels": [
+        "B"
+      ],
+      "selected_options_labels": [
+        "B"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "verification_note": "Platform feedback B compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "B"
+      ],
+      "platform_answer": [
+        "B、随意混合化学试剂"
+      ]
+    },
+    {
+      "number": 48,
+      "type": "单选题",
+      "question": "穿过浓烟时应？",
+      "options": [
+        "A、快速奔跑",
+        "B、湿毛巾捂口鼻低姿前行",
+        "C、大声呼救",
+        "D、直立行走"
+      ],
+      "selected_options": [
+        "B、湿毛巾捂口鼻低姿前行"
+      ],
+      "answer": "B、湿毛巾捂口鼻低姿前行",
+      "answer_labels": [
+        "B"
+      ],
+      "selected_options_labels": [
+        "B"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "verification_note": "Platform feedback B compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "B"
+      ],
+      "platform_answer": [
+        "B、湿毛巾捂口鼻低姿前行"
+      ]
+    },
+    {
+      "number": 49,
+      "type": "多选题",
+      "question": "报警人或知情人应协助消防人员开展以下哪些工作（ ）。",
+      "options": [
+        "A、引导消防车辆和救援人员到达火灾现场",
+        "B、介绍起火位置（建筑）的有关情况和有无人员被困",
+        "C、介绍周边可利用的消防水源",
+        "D、与消防救援人员一起进入火场灭火救人"
+      ],
+      "selected_options": [
+        "A、引导消防车辆和救援人员到达火灾现场",
+        "B、介绍起火位置（建筑）的有关情况和有无人员被困",
+        "C、介绍周边可利用的消防水源"
+      ],
+      "answer": [
+        "A、引导消防车辆和救援人员到达火灾现场",
+        "B、介绍起火位置（建筑）的有关情况和有无人员被困",
+        "C、介绍周边可利用的消防水源"
+      ],
+      "answer_labels": [
+        "A",
+        "B",
+        "C"
+      ],
+      "selected_options_labels": [
+        "A",
+        "B",
+        "C"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "verification_note": "Platform feedback ABC compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "A",
+        "B",
+        "C"
+      ],
+      "platform_answer": [
+        "A、引导消防车辆和救援人员到达火灾现场",
+        "B、介绍起火位置（建筑）的有关情况和有无人员被困",
+        "C、介绍周边可利用的消防水源"
+      ]
+    },
+    {
+      "number": 50,
+      "type": "单选题",
+      "question": "电气火灾应首先？",
+      "options": [
+        "A、用水扑灭",
+        "B、切断电源",
+        "C、用干粉灭火器",
+        "D、呼叫邻居"
+      ],
+      "selected_options": [
+        "B、切断电源"
+      ],
+      "answer": "B、切断电源",
+      "answer_labels": [
+        "B"
+      ],
+      "selected_options_labels": [
+        "B"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "verification_note": "Platform feedback B compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "B"
+      ],
+      "platform_answer": [
+        "B、切断电源"
+      ]
+    },
+    {
+      "number": 51,
+      "type": "多选题",
+      "question": "灭火的基本原理有（ ）。",
+      "options": [
+        "A、窒息",
+        "B、隔离",
+        "C、化学抑制",
+        "D、冷却"
+      ],
+      "selected_options": [
+        "A、窒息",
+        "B、隔离",
+        "C、化学抑制",
+        "D、冷却"
+      ],
+      "answer": [
+        "A、窒息",
+        "B、隔离",
+        "C、化学抑制",
+        "D、冷却"
+      ],
+      "answer_labels": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "selected_options_labels": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "verification_note": "Platform feedback ABCD compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "platform_answer": [
+        "A、窒息",
+        "B、隔离",
+        "C、化学抑制",
+        "D、冷却"
+      ]
+    },
+    {
+      "number": 52,
+      "type": "单选题",
+      "question": "燃气泄漏时应？",
+      "options": [
+        "A、开灯检查",
+        "B、关阀通风禁火电",
+        "C、点火测试",
+        "D、开启抽油烟机"
+      ],
+      "selected_options": [
+        "B、关阀通风禁火电"
+      ],
+      "answer": "B、关阀通风禁火电",
+      "answer_labels": [
+        "B"
+      ],
+      "selected_options_labels": [
+        "B"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "verification_note": "Platform feedback B compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "B"
+      ],
+      "platform_answer": [
+        "B、关阀通风禁火电"
+      ]
+    },
+    {
+      "number": 53,
+      "type": "单选题",
+      "question": "校园内发现火情时，以下哪项是最佳的应对措施?",
+      "options": [
+        "A、自行扑灭",
+        "B、惊慌失措，四处奔跑",
+        "C、立即拨打119火警电话并通知他人",
+        "D、拿起贵重物品逃生"
+      ],
+      "selected_options": [
+        "C、立即拨打119火警电话并通知他人"
+      ],
+      "answer": "C、立即拨打119火警电话并通知他人",
+      "answer_labels": [
+        "C"
+      ],
+      "selected_options_labels": [
+        "C"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "verification_note": "Platform feedback C compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "C"
+      ],
+      "platform_answer": [
+        "C、立即拨打119火警电话并通知他人"
+      ]
+    },
+    {
+      "number": 54,
+      "type": "单选题",
+      "question": "无法逃离火场时应？",
+      "options": [
+        "A、跳窗",
+        "B、堵门缝待援",
+        "C、躲床底",
+        "D、打开所有门窗"
+      ],
+      "selected_options": [
+        "B、堵门缝待援"
+      ],
+      "answer": "B、堵门缝待援",
+      "answer_labels": [
+        "B"
+      ],
+      "selected_options_labels": [
+        "B"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "verification_note": "Platform feedback B compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "B"
+      ],
+      "platform_answer": [
+        "B、堵门缝待援"
+      ]
+    },
+    {
+      "number": 55,
+      "type": "单选题",
+      "question": "检查燃气接口处是否漏气，可采用（ ）简便方法检漏。",
+      "options": [
+        "A、明火",
+        "B、肥皂水",
+        "C、鼻子闻",
+        "D、打火机"
+      ],
+      "selected_options": [
+        "B、肥皂水"
+      ],
+      "answer": "B、肥皂水",
+      "answer_labels": [
+        "B"
+      ],
+      "selected_options_labels": [
+        "B"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "verification_note": "Platform feedback B compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "B"
+      ],
+      "platform_answer": [
+        "B、肥皂水"
+      ]
+    },
+    {
+      "number": 56,
+      "type": "多选题",
+      "question": "我国火灾等级分为（ ）。",
+      "options": [
+        "A、特别重大火灾",
+        "B、重大火灾",
+        "C、较大火灾",
+        "D、一般火灾"
+      ],
+      "selected_options": [
+        "A、特别重大火灾",
+        "B、重大火灾",
+        "C、较大火灾",
+        "D、一般火灾"
+      ],
+      "answer": [
+        "A、特别重大火灾",
+        "B、重大火灾",
+        "C、较大火灾",
+        "D、一般火灾"
+      ],
+      "answer_labels": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "selected_options_labels": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "verification_note": "Platform feedback ABCD compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "platform_answer": [
+        "A、特别重大火灾",
+        "B、重大火灾",
+        "C、较大火灾",
+        "D、一般火灾"
+      ]
+    },
+    {
+      "number": 57,
+      "type": "多选题",
+      "question": "普通ABC干粉灭火器可扑救的火灾类别？",
+      "options": [
+        "A、木材火灾（A类）",
+        "B、汽油火灾（B类）",
+        "C、甲烷火灾（C类）",
+        "D、钠金属火灾（D类）",
+        "E、带电设备火灾（E类）"
+      ],
+      "selected_options": [
+        "A、木材火灾（A类）",
+        "B、汽油火灾（B类）",
+        "C、甲烷火灾（C类）",
+        "E、带电设备火灾（E类）"
+      ],
+      "answer": [
+        "A、木材火灾（A类）",
+        "B、汽油火灾（B类）",
+        "C、甲烷火灾（C类）",
+        "E、带电设备火灾（E类）"
+      ],
+      "answer_labels": [
+        "A",
+        "B",
+        "C",
+        "E"
+      ],
+      "selected_options_labels": [
+        "A",
+        "B",
+        "C",
+        "E"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "verification_note": "Platform feedback ABCE compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "A",
+        "B",
+        "C",
+        "E"
+      ],
+      "platform_answer": [
+        "A、木材火灾（A类）",
+        "B、汽油火灾（B类）",
+        "C、甲烷火灾（C类）",
+        "E、带电设备火灾（E类）"
+      ]
+    },
+    {
+      "number": 58,
+      "type": "多选题",
+      "question": "发生火灾后沿疏散通道逃生时，以下哪些做法是错误的（ ）。",
+      "options": [
+        "A、沿疏散通道右侧有序快走",
+        "B、沿疏散通道猛跑",
+        "C、疏散时大声喊叫",
+        "D、疏散时年轻力壮的走在后面，年幼体弱的走在前面"
+      ],
+      "selected_options": [
+        "B、沿疏散通道猛跑",
+        "C、疏散时大声喊叫",
+        "D、疏散时年轻力壮的走在后面，年幼体弱的走在前面"
+      ],
+      "answer": [
+        "B、沿疏散通道猛跑",
+        "C、疏散时大声喊叫",
+        "D、疏散时年轻力壮的走在后面，年幼体弱的走在前面"
+      ],
+      "answer_labels": [
+        "B",
+        "C",
+        "D"
+      ],
+      "selected_options_labels": [
+        "B",
+        "C",
+        "D"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "verification_note": "Platform feedback adopted as final answer after repeated re-verification; original candidate answer preserved in previous_candidate_answer.",
+      "platform_answer_labels": [
+        "B",
+        "C",
+        "D"
+      ],
+      "platform_answer": [
+        "B、沿疏散通道猛跑",
+        "C、疏散时大声喊叫",
+        "D、疏散时年轻力壮的走在后面，年幼体弱的走在前面"
+      ],
+      "previous_candidate_answer": [
+        "B、沿疏散通道猛跑",
+        "C、疏散时大声喊叫"
+      ]
+    },
+    {
+      "number": 59,
+      "type": "单选题",
+      "question": "手机充电时不应该？",
+      "options": [
+        "A、使用原装充电器",
+        "B、放在床上充电",
+        "C、远离水源",
+        "D、避免过度充电"
+      ],
+      "selected_options": [
+        "B、放在床上充电"
+      ],
+      "answer": "B、放在床上充电",
+      "answer_labels": [
+        "B"
+      ],
+      "selected_options_labels": [
+        "B"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "verification_note": "Platform feedback B compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "B"
+      ],
+      "platform_answer": [
+        "B、放在床上充电"
+      ]
+    },
+    {
+      "number": 60,
+      "type": "单选题",
+      "question": "在学校宿舍内使用大功率电器，容易引发（ ）危险",
+      "options": [
+        "A、水灾",
+        "B、火灾",
+        "C、触电",
+        "D、盗窃"
+      ],
+      "selected_options": [
+        "B、火灾"
+      ],
+      "answer": "B、火灾",
+      "answer_labels": [
+        "B"
+      ],
+      "selected_options_labels": [
+        "B"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "verification_note": "Platform feedback B compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "B"
+      ],
+      "platform_answer": [
+        "B、火灾"
+      ]
+    },
+    {
+      "number": 61,
+      "type": "单选题",
+      "question": "防烟面罩（自救呼吸器）有效期通常是？",
+      "options": [
+        "A、1年",
+        "B、3年",
+        "C、5年",
+        "D、10年"
+      ],
+      "selected_options": [
+        "B、3年"
+      ],
+      "answer": "B、3年",
+      "answer_labels": [
+        "B"
+      ],
+      "selected_options_labels": [
+        "B"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "verification_note": "Platform feedback B compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "B"
+      ],
+      "platform_answer": [
+        "B、3年"
+      ]
+    },
+    {
+      "number": 62,
+      "type": "单选题",
+      "question": "以下属于A类火灾的是？",
+      "options": [
+        "A、汽油起火",
+        "B、木材起火",
+        "C、锂电池起火",
+        "D、厨房油脂起火"
+      ],
+      "selected_options": [
+        "B、木材起火"
+      ],
+      "answer": "B、木材起火",
+      "answer_labels": [
+        "B"
+      ],
+      "selected_options_labels": [
+        "B"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "verification_note": "Platform feedback B compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "B"
+      ],
+      "platform_answer": [
+        "B、木材起火"
+      ]
+    },
+    {
+      "number": 63,
+      "type": "单选题",
+      "question": "公共场所疏散门的开启方向应为？",
+      "options": [
+        "A、向内开",
+        "B、向外开",
+        "C、侧拉式",
+        "D、无要求"
+      ],
+      "selected_options": [
+        "B、向外开"
+      ],
+      "answer": "B、向外开",
+      "answer_labels": [
+        "B"
+      ],
+      "selected_options_labels": [
+        "B"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "verification_note": "Platform feedback B compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "B"
+      ],
+      "platform_answer": [
+        "B、向外开"
+      ]
+    },
+    {
+      "number": 64,
+      "type": "多选题",
+      "question": "灭火器维修后必须标注？",
+      "options": [
+        "A、维修机构名称",
+        "B、维修日期",
+        "C、总质量",
+        "D、出厂编号",
+        "E、使用责任人"
+      ],
+      "selected_options": [
+        "A、维修机构名称",
+        "B、维修日期"
+      ],
+      "answer": [
+        "A、维修机构名称",
+        "B、维修日期"
+      ],
+      "answer_labels": [
+        "A",
+        "B"
+      ],
+      "selected_options_labels": [
+        "A",
+        "B"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "verification_note": "Platform feedback adopted as final answer after repeated re-verification; original candidate answer preserved in previous_candidate_answer.",
+      "platform_answer_labels": [
+        "A",
+        "B"
+      ],
+      "platform_answer": [
+        "A、维修机构名称",
+        "B、维修日期"
+      ],
+      "previous_candidate_answer": [
+        "A、维修机构名称",
+        "B、维修日期",
+        "C、总质量",
+        "D、出厂编号"
+      ]
+    },
+    {
+      "number": 65,
+      "type": "单选题",
+      "question": "发生火灾时，如果逃生路线被大火封锁，应该（ ）",
+      "options": [
+        "A、迅速冲过火场",
+        "B、退回室内，关闭通往火区的门窗，并向门窗上浇水",
+        "C、躲进衣柜里等待救援",
+        "D、从楼上跳下"
+      ],
+      "selected_options": [
+        "B、退回室内，关闭通往火区的门窗，并向门窗上浇水"
+      ],
+      "answer": "B、退回室内，关闭通往火区的门窗，并向门窗上浇水",
+      "answer_labels": [
+        "B"
+      ],
+      "selected_options_labels": [
+        "B"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "verification_note": "Platform feedback B compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "B"
+      ],
+      "platform_answer": [
+        "B、退回室内，关闭通往火区的门窗，并向门窗上浇水"
+      ]
+    },
+    {
+      "number": 66,
+      "type": "单选题",
+      "question": "火灾初起阶段是扑救火灾（ ）的阶段。",
+      "options": [
+        "A、最不利",
+        "B、最有利",
+        "C、较不利",
+        "D、较有利"
+      ],
+      "selected_options": [
+        "B、最有利"
+      ],
+      "answer": "B、最有利",
+      "answer_labels": [
+        "B"
+      ],
+      "selected_options_labels": [
+        "B"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "verification_note": "Platform feedback B compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "B"
+      ],
+      "platform_answer": [
+        "B、最有利"
+      ]
+    },
+    {
+      "number": 67,
+      "type": "多选题",
+      "question": "防火门的正确管理？",
+      "options": [
+        "A、保持常闭状态",
+        "B、闭门器功能完好",
+        "C、门缝≤3mm",
+        "D、门后堆放清洁工具",
+        "E、拆除影响开启的障碍物"
+      ],
+      "selected_options": [
+        "A、保持常闭状态",
+        "B、闭门器功能完好",
+        "C、门缝≤3mm",
+        "E、拆除影响开启的障碍物"
+      ],
+      "answer": [
+        "A、保持常闭状态",
+        "B、闭门器功能完好",
+        "C、门缝≤3mm",
+        "E、拆除影响开启的障碍物"
+      ],
+      "answer_labels": [
+        "A",
+        "B",
+        "C",
+        "E"
+      ],
+      "selected_options_labels": [
+        "A",
+        "B",
+        "C",
+        "E"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "verification_note": "Platform feedback ABCE compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "A",
+        "B",
+        "C",
+        "E"
+      ],
+      "platform_answer": [
+        "A、保持常闭状态",
+        "B、闭门器功能完好",
+        "C、门缝≤3mm",
+        "E、拆除影响开启的障碍物"
+      ]
+    },
+    {
+      "number": 68,
+      "type": "单选题",
+      "question": "下列（ ）灭火剂，是扑救精密仪器火灾的最佳选择。",
+      "options": [
+        "A、二氧化碳",
+        "B、干粉",
+        "C、泡沫",
+        "D、清水"
+      ],
+      "selected_options": [
+        "A、二氧化碳"
+      ],
+      "answer": "A、二氧化碳",
+      "answer_labels": [
+        "A"
+      ],
+      "selected_options_labels": [
+        "A"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "verification_note": "Platform feedback A compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "A"
+      ],
+      "platform_answer": [
+        "A、二氧化碳"
+      ]
+    },
+    {
+      "number": 69,
+      "type": "单选题",
+      "question": "宿舍内使用电吹风时，以下哪种做法是错误的?",
+      "options": [
+        "A、使用后及时拔掉插头",
+        "B、将电吹风放在床上使用",
+        "C、使用时远离易燃物品",
+        "D、检查电源线是否破损"
+      ],
+      "selected_options": [
+        "B、将电吹风放在床上使用"
+      ],
+      "answer": "B、将电吹风放在床上使用",
+      "answer_labels": [
+        "B"
+      ],
+      "selected_options_labels": [
+        "B"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "verification_note": "Platform feedback B compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "B"
+      ],
+      "platform_answer": [
+        "B、将电吹风放在床上使用"
+      ]
+    },
+    {
+      "number": 70,
+      "type": "单选题",
+      "question": "宿舍内发生电器火灾时，首先应采取的措施是?",
+      "options": [
+        "A、用水灭火",
+        "B、切断电源",
+        "C、打开门窗通风",
+        "D、拿湿毛巾扑灭"
+      ],
+      "selected_options": [
+        "B、切断电源"
+      ],
+      "answer": "B、切断电源",
+      "answer_labels": [
+        "B"
+      ],
+      "selected_options_labels": [
+        "B"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "verification_note": "Platform feedback B compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "B"
+      ],
+      "platform_answer": [
+        "B、切断电源"
+      ]
+    },
+    {
+      "number": 71,
+      "type": "多选题",
+      "question": "发现宿舍起火初期的正确处理？",
+      "options": [
+        "A、用灭火器扑救",
+        "B、切断总电源",
+        "C、开门窗通风",
+        "D、疏散同楼层同学",
+        "E、先收拾贵重物品"
+      ],
+      "selected_options": [
+        "A、用灭火器扑救",
+        "B、切断总电源",
+        "D、疏散同楼层同学"
+      ],
+      "answer": [
+        "A、用灭火器扑救",
+        "B、切断总电源",
+        "D、疏散同楼层同学"
+      ],
+      "answer_labels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "selected_options_labels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "verification_note": "Platform feedback ABD compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "platform_answer": [
+        "A、用灭火器扑救",
+        "B、切断总电源",
+        "D、疏散同楼层同学"
+      ]
+    },
+    {
+      "number": 72,
+      "type": "单选题",
+      "question": "全国消防日是每年的（ ）。",
+      "options": [
+        "A、11月9日",
+        "B、11月21日",
+        "C、12月10日",
+        "D、10月11日"
+      ],
+      "selected_options": [
+        "A、11月9日"
+      ],
+      "answer": "A、11月9日",
+      "answer_labels": [
+        "A"
+      ],
+      "selected_options_labels": [
+        "A"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "verification_note": "Platform feedback A compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "A"
+      ],
+      "platform_answer": [
+        "A、11月9日"
+      ]
+    },
+    {
+      "number": 73,
+      "type": "多选题",
+      "question": "对于消防器材和设施，我们应该（ ）。",
+      "options": [
+        "A、火灾很少发生，消防设施一般很少用到，在周围可以临时堆放物品",
+        "B、不遮挡消防器材设施",
+        "C、定期维护和保养",
+        "D、不挪作它用"
+      ],
+      "selected_options": [
+        "B、不遮挡消防器材设施",
+        "C、定期维护和保养",
+        "D、不挪作它用"
+      ],
+      "answer": [
+        "B、不遮挡消防器材设施",
+        "C、定期维护和保养",
+        "D、不挪作它用"
+      ],
+      "answer_labels": [
+        "B",
+        "C",
+        "D"
+      ],
+      "selected_options_labels": [
+        "B",
+        "C",
+        "D"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "verification_note": "Platform feedback BCD compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "B",
+        "C",
+        "D"
+      ],
+      "platform_answer": [
+        "B、不遮挡消防器材设施",
+        "C、定期维护和保养",
+        "D、不挪作它用"
+      ]
+    },
+    {
+      "number": 74,
+      "type": "单选题",
+      "question": "乱扔烟蒂容易引发火灾，是因为烟蒂的温度比毛织物、纸张等可燃物的燃点要高，请问烟头的中心温度可以达到（ ）。",
+      "options": [
+        "A、200-300度",
+        "B、600-700度",
+        "C、700-800度",
+        "D、400-500度"
+      ],
+      "selected_options": [
+        "C、700-800度"
+      ],
+      "answer": "C、700-800度",
+      "answer_labels": [
+        "C"
+      ],
+      "selected_options_labels": [
+        "C"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "verification_note": "Platform feedback C compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "C"
+      ],
+      "platform_answer": [
+        "C、700-800度"
+      ]
+    },
+    {
+      "number": 75,
+      "type": "单选题",
+      "question": "故意损坏建筑内设置的防火门、应急照明灯、疏散指示标志等消防设施、器材，是（ ）行为。",
+      "options": [
+        "A、是违纪行为",
+        "B、是违法行为",
+        "C、既不是违纪，也不是违法行为",
+        "D、只能算是恶作剧"
+      ],
+      "selected_options": [
+        "B、是违法行为"
+      ],
+      "answer": "B、是违法行为",
+      "answer_labels": [
+        "B"
+      ],
+      "selected_options_labels": [
+        "B"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "verification_note": "Platform feedback B compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "B"
+      ],
+      "platform_answer": [
+        "B、是违法行为"
+      ]
+    },
+    {
+      "number": 76,
+      "type": "单选题",
+      "question": "过滤式消防自救呼吸器不适用于？",
+      "options": [
+        "A、火灾初期",
+        "B、一氧化碳浓度超过1%或氧气浓度低于17%的环境",
+        "C、疏散通道",
+        "D、缺氧环境"
+      ],
+      "selected_options": [
+        "B、一氧化碳浓度超过1%或氧气浓度低于17%的环境"
+      ],
+      "answer": "B、一氧化碳浓度超过1%或氧气浓度低于17%的环境",
+      "answer_labels": [
+        "B"
+      ],
+      "selected_options_labels": [
+        "B"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "verification_note": "Platform feedback B compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "B"
+      ],
+      "platform_answer": [
+        "B、一氧化碳浓度超过1%或氧气浓度低于17%的环境"
+      ]
+    },
+    {
+      "number": 77,
+      "type": "多选题",
+      "question": "宿舍内严禁存放易燃易爆物品，以下哪些属于易燃易爆物品（ ）。",
+      "options": [
+        "A、1个打火机",
+        "B、烟花爆竹",
+        "C、甲烷",
+        "D、酒精、汽油"
+      ],
+      "selected_options": [
+        "B、烟花爆竹",
+        "C、甲烷",
+        "D、酒精、汽油"
+      ],
+      "answer": [
+        "B、烟花爆竹",
+        "C、甲烷",
+        "D、酒精、汽油"
+      ],
+      "answer_labels": [
+        "B",
+        "C",
+        "D"
+      ],
+      "selected_options_labels": [
+        "B",
+        "C",
+        "D"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "verification_note": "Platform feedback adopted as final answer after repeated re-verification; original candidate answer preserved in previous_candidate_answer.",
+      "platform_answer_labels": [
+        "B",
+        "C",
+        "D"
+      ],
+      "platform_answer": [
+        "B、烟花爆竹",
+        "C、甲烷",
+        "D、酒精、汽油"
+      ],
+      "previous_candidate_answer": [
+        "A、1个打火机",
+        "B、烟花爆竹",
+        "C、甲烷",
+        "D、酒精、汽油"
+      ]
+    },
+    {
+      "number": 78,
+      "type": "单选题",
+      "question": "家庭防火“三清三关”中的“三关”指？",
+      "options": [
+        "A、关窗、关门、关空调",
+        "B、关火、关电、关气",
+        "C、关电视、关灯、关水",
+        "D、关手机、关电脑、关WiFi"
+      ],
+      "selected_options": [
+        "B、关火、关电、关气"
+      ],
+      "answer": "B、关火、关电、关气",
+      "answer_labels": [
+        "B"
+      ],
+      "selected_options_labels": [
+        "B"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "verification_note": "Platform feedback B compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "B"
+      ],
+      "platform_answer": [
+        "B、关火、关电、关气"
+      ]
+    },
+    {
+      "number": 79,
+      "type": "多选题",
+      "question": "扑救废纸篓里的纸片等初起小火时，以下正确的做法是（ ）。",
+      "options": [
+        "A、用手拍灭火灾",
+        "B、用水灭火",
+        "C、用湿毛巾覆盖",
+        "D、用灭火器灭火"
+      ],
+      "selected_options": [
+        "B、用水灭火",
+        "C、用湿毛巾覆盖",
+        "D、用灭火器灭火"
+      ],
+      "answer": [
+        "B、用水灭火",
+        "C、用湿毛巾覆盖",
+        "D、用灭火器灭火"
+      ],
+      "answer_labels": [
+        "B",
+        "C",
+        "D"
+      ],
+      "selected_options_labels": [
+        "B",
+        "C",
+        "D"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "verification_note": "Platform feedback adopted as final answer after repeated re-verification; original candidate answer preserved in previous_candidate_answer.",
+      "platform_answer_labels": [
+        "B",
+        "C",
+        "D"
+      ],
+      "platform_answer": [
+        "B、用水灭火",
+        "C、用湿毛巾覆盖",
+        "D、用灭火器灭火"
+      ],
+      "previous_candidate_answer": [
+        "A、用手拍灭火灾",
+        "B、用水灭火",
+        "C、用湿毛巾覆盖",
+        "D、用灭火器灭火"
+      ]
+    },
+    {
+      "number": 80,
+      "type": "单选题",
+      "question": "火灾中，下列逃生方法中不正确的是 ( )",
+      "options": [
+        "A、用湿毛巾捂住嘴巴",
+        "B、用湿毛巾捂住口鼻",
+        "C、披上用水浸湿的衣物向安全出口逃生",
+        "D、关闭门窗、阻隔火源、等待救援"
+      ],
+      "selected_options": [
+        "C、披上用水浸湿的衣物向安全出口逃生"
+      ],
+      "answer": "C、披上用水浸湿的衣物向安全出口逃生",
+      "answer_labels": [
+        "C"
+      ],
+      "selected_options_labels": [
+        "C"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "verification_note": "Platform feedback adopted as final answer after repeated re-verification; original candidate answer preserved in previous_candidate_answer.",
+      "platform_answer_labels": [
+        "C"
+      ],
+      "platform_answer": [
+        "C、披上用水浸湿的衣物向安全出口逃生"
+      ],
+      "previous_candidate_answer": "A、用湿毛巾捂住嘴巴"
+    },
+    {
+      "number": 81,
+      "type": "多选题",
+      "question": "《消防法》规定个人义务？",
+      "options": [
+        "A、维护公共消防设施",
+        "B、参加有组织的灭火工作",
+        "C、报告火警",
+        "D、扑救所有火灾",
+        "E、学习消防知识"
+      ],
+      "selected_options": [
+        "A、维护公共消防设施",
+        "B、参加有组织的灭火工作",
+        "C、报告火警",
+        "E、学习消防知识"
+      ],
+      "answer": [
+        "A、维护公共消防设施",
+        "B、参加有组织的灭火工作",
+        "C、报告火警",
+        "E、学习消防知识"
+      ],
+      "answer_labels": [
+        "A",
+        "B",
+        "C",
+        "E"
+      ],
+      "selected_options_labels": [
+        "A",
+        "B",
+        "C",
+        "E"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "verification_note": "Platform feedback ABCE compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "A",
+        "B",
+        "C",
+        "E"
+      ],
+      "platform_answer": [
+        "A、维护公共消防设施",
+        "B、参加有组织的灭火工作",
+        "C、报告火警",
+        "E、学习消防知识"
+      ]
+    },
+    {
+      "number": 82,
+      "type": "单选题",
+      "question": "依据我国消防规范要求，从接警到消防车驶出车库需要多少时间？",
+      "options": [
+        "A、白天30秒，夜晚45秒",
+        "B、白天45秒，夜晚60秒",
+        "C、白天60秒，夜晚90秒",
+        "D、白天60秒，夜晚60秒"
+      ],
+      "selected_options": [
+        "B、白天45秒，夜晚60秒"
+      ],
+      "answer": "B、白天45秒，夜晚60秒",
+      "answer_labels": [
+        "B"
+      ],
+      "selected_options_labels": [
+        "B"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "verification_note": "Platform feedback B compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "B"
+      ],
+      "platform_answer": [
+        "B、白天45秒，夜晚60秒"
+      ]
+    },
+    {
+      "number": 83,
+      "type": "单选题",
+      "question": "干粉灭火器不适用于扑救？",
+      "options": [
+        "A、纸张火灾",
+        "B、柴油火灾",
+        "C、精密仪器火灾",
+        "D、塑料火灾"
+      ],
+      "selected_options": [
+        "C、精密仪器火灾"
+      ],
+      "answer": "C、精密仪器火灾",
+      "answer_labels": [
+        "C"
+      ],
+      "selected_options_labels": [
+        "C"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "verification_note": "Platform feedback C compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "C"
+      ],
+      "platform_answer": [
+        "C、精密仪器火灾"
+      ]
+    },
+    {
+      "number": 84,
+      "type": "单选题",
+      "question": "当身上衣服着火时，可立即（ ）。",
+      "options": [
+        "A、离开火场，灭掉身上明火",
+        "B、用手扑打身上明火",
+        "C、就地打滚，压灭身上明火",
+        "D、请他人灭火"
+      ],
+      "selected_options": [
+        "C、就地打滚，压灭身上明火"
+      ],
+      "answer": "C、就地打滚，压灭身上明火",
+      "answer_labels": [
+        "C"
+      ],
+      "selected_options_labels": [
+        "C"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "verification_note": "Platform feedback C compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "C"
+      ],
+      "platform_answer": [
+        "C、就地打滚，压灭身上明火"
+      ]
+    },
+    {
+      "number": 85,
+      "type": "多选题",
+      "question": "电动车违规充电行为？",
+      "options": [
+        "A、在楼道内充电",
+        "B、飞线充电",
+        "C、电池带入户充电",
+        "D、使用原厂充电器",
+        "E、在指定车棚充电"
+      ],
+      "selected_options": [
+        "A、在楼道内充电",
+        "B、飞线充电",
+        "C、电池带入户充电"
+      ],
+      "answer": [
+        "A、在楼道内充电",
+        "B、飞线充电",
+        "C、电池带入户充电"
+      ],
+      "answer_labels": [
+        "A",
+        "B",
+        "C"
+      ],
+      "selected_options_labels": [
+        "A",
+        "B",
+        "C"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "verification_note": "Platform feedback ABC compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "A",
+        "B",
+        "C"
+      ],
+      "platform_answer": [
+        "A、在楼道内充电",
+        "B、飞线充电",
+        "C、电池带入户充电"
+      ]
+    },
+    {
+      "number": 86,
+      "type": "单选题",
+      "question": "有人认为符合安全认证的充电器可长期插电，离开宿舍时无需拔下。以下说法正确的是（ ）。",
+      "options": [
+        "A、都要拔下",
+        "B、可以不要拔下",
+        "C、小功率电器可以不拔下",
+        "D、无所谓"
+      ],
+      "selected_options": [
+        "A、都要拔下"
+      ],
+      "answer": "A、都要拔下",
+      "answer_labels": [
+        "A"
+      ],
+      "selected_options_labels": [
+        "A"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "verification_note": "Platform feedback A compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "A"
+      ],
+      "platform_answer": [
+        "A、都要拔下"
+      ]
+    },
+    {
+      "number": 87,
+      "type": "单选题",
+      "question": "安全出口标志的颜色是？",
+      "options": [
+        "A、红色",
+        "B、蓝色",
+        "C、绿色",
+        "D、黄色"
+      ],
+      "selected_options": [
+        "C、绿色"
+      ],
+      "answer": "C、绿色",
+      "answer_labels": [
+        "C"
+      ],
+      "selected_options_labels": [
+        "C"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "verification_note": "Platform feedback C compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "C"
+      ],
+      "platform_answer": [
+        "C、绿色"
+      ]
+    },
+    {
+      "number": 88,
+      "type": "多选题",
+      "question": "用电时要注意防火安全。下面哪些说法是正确的（ ）。",
+      "options": [
+        "A、不乱接乱拉电线，不超负荷用电",
+        "B、不乱接乱拉电线，不超负荷用电",
+        "C、外出时要关闭电源开关",
+        "D、尽量减少电灯的开关次数"
+      ],
+      "selected_options": [
+        "A、不乱接乱拉电线，不超负荷用电",
+        "B、不乱接乱拉电线，不超负荷用电",
+        "C、外出时要关闭电源开关"
+      ],
+      "answer": [
+        "A、不乱接乱拉电线，不超负荷用电",
+        "B、不乱接乱拉电线，不超负荷用电",
+        "C、外出时要关闭电源开关"
+      ],
+      "answer_labels": [
+        "A",
+        "B",
+        "C"
+      ],
+      "selected_options_labels": [
+        "A",
+        "B",
+        "C"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_multiset",
+      "verification_note": "Platform feedback adopted as final answer after repeated re-verification; original candidate answer preserved in previous_candidate_answer.",
+      "platform_answer_labels": [
+        "A",
+        "B",
+        "C"
+      ],
+      "platform_answer": [
+        "A、不乱接乱拉电线，不超负荷用电",
+        "B、不乱接乱拉电线，不超负荷用电",
+        "C、外出时要关闭电源开关"
+      ],
+      "previous_candidate_answer": [
+        "A、不乱接乱拉电线，不超负荷用电",
+        "B、不乱接乱拉电线，不超负荷用电",
+        "C、外出时要关闭电源开关",
+        "D、尽量减少电灯的开关次数"
+      ]
+    },
+    {
+      "number": 89,
+      "type": "单选题",
+      "question": "夜间听到火警警报应？",
+      "options": [
+        "A、继续睡觉",
+        "B、触摸门把手试探温度",
+        "C、立即开门查看",
+        "D、打电话询问物业"
+      ],
+      "selected_options": [
+        "B、触摸门把手试探温度"
+      ],
+      "answer": "B、触摸门把手试探温度",
+      "answer_labels": [
+        "B"
+      ],
+      "selected_options_labels": [
+        "B"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "verification_note": "Platform feedback B compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "B"
+      ],
+      "platform_answer": [
+        "B、触摸门把手试探温度"
+      ]
+    },
+    {
+      "number": 90,
+      "type": "单选题",
+      "question": "使用灭火器的口诀是？",
+      "options": [
+        "A、看、摇、拔、喷",
+        "B、提、拔、握、压",
+        "C、拉、瞄、扫、压",
+        "D、开、对、按、扫"
+      ],
+      "selected_options": [
+        "B、提、拔、握、压"
+      ],
+      "answer": "B、提、拔、握、压",
+      "answer_labels": [
+        "B"
+      ],
+      "selected_options_labels": [
+        "B"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "verification_note": "Platform feedback B compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "B"
+      ],
+      "platform_answer": [
+        "B、提、拔、握、压"
+      ]
+    },
+    {
+      "number": 91,
+      "type": "单选题",
+      "question": "以下哪项措施有助于预防宿舍火灾?",
+      "options": [
+        "A、在宿舍内私拉乱接电线",
+        "B、在宿舍内使用大功率电器",
+        "C、定期检查电器线路和插座",
+        "D、在宿舍内堆放易燃易爆物品"
+      ],
+      "selected_options": [
+        "C、定期检查电器线路和插座"
+      ],
+      "answer": "C、定期检查电器线路和插座",
+      "answer_labels": [
+        "C"
+      ],
+      "selected_options_labels": [
+        "C"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "verification_note": "Platform feedback C compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "C"
+      ],
+      "platform_answer": [
+        "C、定期检查电器线路和插座"
+      ]
+    },
+    {
+      "number": 92,
+      "type": "多选题",
+      "question": "以下哪些行为易引起火灾（ ）。",
+      "options": [
+        "A、台灯贴近枕头和被褥",
+        "B、躺在床上吸烟",
+        "C、在蚊帐内点蜡烛看书",
+        "D、在室内焚烧杂物"
+      ],
+      "selected_options": [
+        "A、台灯贴近枕头和被褥",
+        "B、躺在床上吸烟",
+        "C、在蚊帐内点蜡烛看书",
+        "D、在室内焚烧杂物"
+      ],
+      "answer": [
+        "A、台灯贴近枕头和被褥",
+        "B、躺在床上吸烟",
+        "C、在蚊帐内点蜡烛看书",
+        "D、在室内焚烧杂物"
+      ],
+      "answer_labels": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "selected_options_labels": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "verification_note": "Platform feedback ABCD compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "platform_answer": [
+        "A、台灯贴近枕头和被褥",
+        "B、躺在床上吸烟",
+        "C、在蚊帐内点蜡烛看书",
+        "D、在室内焚烧杂物"
+      ]
+    },
+    {
+      "number": 93,
+      "type": "单选题",
+      "question": "检查燃气接口处是否漏气，可采用 简便方法检漏。( )",
+      "options": [
+        "A、明火",
+        "B、肥皂水",
+        "C、鼻子闻",
+        "D、打火机"
+      ],
+      "selected_options": [
+        "B、肥皂水"
+      ],
+      "answer": "B、肥皂水",
+      "answer_labels": [
+        "B"
+      ],
+      "selected_options_labels": [
+        "B"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "verification_note": "Platform feedback B compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "B"
+      ],
+      "platform_answer": [
+        "B、肥皂水"
+      ]
+    },
+    {
+      "number": 95,
+      "type": "单选题",
+      "question": "在宿舍楼道内，以下哪种行为是禁止的？",
+      "options": [
+        "A、随意堆放杂物",
+        "B、在紧急疏散通道上摆放个人物品",
+        "C、熄灭楼道内的应急照明灯",
+        "D、所有以上行为"
+      ],
+      "selected_options": [
+        "D、所有以上行为"
+      ],
+      "answer": "D、所有以上行为",
+      "answer_labels": [
+        "D"
+      ],
+      "selected_options_labels": [
+        "D"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "verification_note": "Platform feedback D compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "D"
+      ],
+      "platform_answer": [
+        "D、所有以上行为"
+      ]
+    },
+    {
+      "number": 97,
+      "type": "多选题",
+      "question": "下列哪些选项是家庭应该采取的消防安全措施（ ）。",
+      "options": [
+        "A、配备必要的消防器材并掌握正确的使用方法",
+        "B、制定家庭健身计划",
+        "C、绘制家庭逃生疏散路线",
+        "D、经常检查和消除家庭火灾隐患"
+      ],
+      "selected_options": [
+        "A、配备必要的消防器材并掌握正确的使用方法",
+        "C、绘制家庭逃生疏散路线",
+        "D、经常检查和消除家庭火灾隐患"
+      ],
+      "answer": [
+        "A、配备必要的消防器材并掌握正确的使用方法",
+        "C、绘制家庭逃生疏散路线",
+        "D、经常检查和消除家庭火灾隐患"
+      ],
+      "answer_labels": [
+        "A",
+        "C",
+        "D"
+      ],
+      "selected_options_labels": [
+        "A",
+        "C",
+        "D"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "verification_note": "Platform feedback ACD compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "A",
+        "C",
+        "D"
+      ],
+      "platform_answer": [
+        "A、配备必要的消防器材并掌握正确的使用方法",
+        "C、绘制家庭逃生疏散路线",
+        "D、经常检查和消除家庭火灾隐患"
+      ]
+    },
+    {
+      "number": 98,
+      "type": "多选题",
+      "question": "下列选项中，哪些会引起A类火灾？",
+      "options": [
+        "A、甲醇",
+        "B、纸张",
+        "C、毛绒玩具",
+        "D、钠"
+      ],
+      "selected_options": [
+        "B、纸张",
+        "C、毛绒玩具"
+      ],
+      "answer": [
+        "B、纸张",
+        "C、毛绒玩具"
+      ],
+      "answer_labels": [
+        "B",
+        "C"
+      ],
+      "selected_options_labels": [
+        "B",
+        "C"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "verification_note": "Platform feedback BC compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "B",
+        "C"
+      ],
+      "platform_answer": [
+        "B、纸张",
+        "C、毛绒玩具"
+      ]
+    },
+    {
+      "number": 99,
+      "type": "单选题",
+      "question": "在图书馆等公共场所遇到火灾时，以下哪项做法是正确的?",
+      "options": [
+        "A、抢夺他人的逃生工具",
+        "B、沿着人流的方向快速逃离",
+        "C、使用湿毛巾捂住口鼻，低姿势逃生",
+        "D、乘坐电梯逃生"
+      ],
+      "selected_options": [
+        "C、使用湿毛巾捂住口鼻，低姿势逃生"
+      ],
+      "answer": "C、使用湿毛巾捂住口鼻，低姿势逃生",
+      "answer_labels": [
+        "C"
+      ],
+      "selected_options_labels": [
+        "C"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "verification_note": "Platform feedback C compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "C"
+      ],
+      "platform_answer": [
+        "C、使用湿毛巾捂住口鼻，低姿势逃生"
+      ]
+    },
+    {
+      "number": 100,
+      "type": "单选题",
+      "question": "火场中导致死亡的主因是？",
+      "options": [
+        "A、烧伤",
+        "B、有毒烟气",
+        "C、踩踏",
+        "D、爆炸"
+      ],
+      "selected_options": [
+        "B、有毒烟气"
+      ],
+      "answer": "B、有毒烟气",
+      "answer_labels": [
+        "B"
+      ],
+      "selected_options_labels": [
+        "B"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "verification_note": "Platform feedback B compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "B"
+      ],
+      "platform_answer": [
+        "B、有毒烟气"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4068 @@
+{
+  "category": "交通安全",
+  "source_url": "https://gdse.guet.edu.cn/#/learn/trafficSafety",
+  "collection_mode": "browser_feedback_learning",
+  "collected_at": "2026-08-13",
+  "answer_source": "platform_feedback_after_selection_and_next",
+  "verification_status": "platform_displayed",
+  "items": [
+    {
+      "number": 1,
+      "type": "多选题",
+      "question": "1、高速公路故障处置?",
+      "options": [
+        "A、开双闪灯",
+        "B、车后150米放三角牌",
+        "C、人员撤离护栏外",
+        "D、行检修车辆"
+      ],
+      "selected_options": [
+        "A、开双闪灯",
+        "B、车后150米放三角牌",
+        "C、人员撤离护栏外"
+      ],
+      "answer": [
+        "A、开双闪灯",
+        "B、车后150米放三角牌",
+        "C、人员撤离护栏外"
+      ],
+      "answer_labels": [
+        "A",
+        "B",
+        "C"
+      ],
+      "selected_options_labels": [
+        "A",
+        "B",
+        "C"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "A",
+        "B",
+        "C"
+      ],
+      "platform_answer": [
+        "A、开双闪灯",
+        "B、车后150米放三角牌",
+        "C、人员撤离护栏外"
+      ],
+      "candidate_selected_options": [
+        "A、开双闪灯",
+        "B、车后150米放三角牌",
+        "C、人员撤离护栏外",
+        "D、行检修车辆"
+      ]
+    },
+    {
+      "number": 2,
+      "type": "单选题",
+      "question": "2、通过减速带时应:",
+      "options": [
+        "A、垂直方向低速通过",
+        "B、斜向通过减少颠簸",
+        "C、加速冲过减少震动",
+        "D、绕行至无减速带区域"
+      ],
+      "selected_options": [
+        "A、垂直方向低速通过"
+      ],
+      "answer": [
+        "A、垂直方向低速通过"
+      ],
+      "answer_labels": [
+        "A"
+      ],
+      "selected_options_labels": [
+        "A"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "A"
+      ],
+      "platform_answer": [
+        "A、垂直方向低速通过"
+      ],
+      "candidate_selected_options": [
+        "A、垂直方向低速通过",
+        "B、斜向通过减少颠簸",
+        "C、加速冲过减少震动",
+        "D、绕行至无减速带区域"
+      ]
+    },
+    {
+      "number": 3,
+      "type": "单选题",
+      "question": "3、在校园内骑自行车时,应遵守以下哪项交通规则?",
+      "options": [
+        "A、可以在教学楼的走廊内快速骑行",
+        "B、可以在人行道上与行人抢道",
+        "C、应在指定的自行车道或不影响行人的道路上缓慢骑行",
+        "D、无须遵守任何交通规则"
+      ],
+      "selected_options": [
+        "C、应在指定的自行车道或不影响行人的道路上缓慢骑行"
+      ],
+      "answer": [
+        "C、应在指定的自行车道或不影响行人的道路上缓慢骑行"
+      ],
+      "answer_labels": [
+        "C"
+      ],
+      "selected_options_labels": [
+        "C"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "C"
+      ],
+      "platform_answer": [
+        "C、应在指定的自行车道或不影响行人的道路上缓慢骑行"
+      ],
+      "candidate_selected_options": [
+        "A、可以在教学楼的走廊内快速骑行",
+        "B、可以在人行道上与行人抢道",
+        "C、应在指定的自行车道或不影响行人的道路上缓慢骑行",
+        "D、无须遵守任何交通规则"
+      ]
+    },
+    {
+      "number": 4,
+      "type": "单选题",
+      "question": "4、骑自行车至路口准备左转弯时,应( ),不能突然猛拐",
+      "options": [
+        "A、伸左手示意",
+        "B、伸右手示意",
+        "C、语言示意",
+        "D、扭头示意"
+      ],
+      "selected_options": [
+        "A、伸左手示意"
+      ],
+      "answer": [
+        "A、伸左手示意"
+      ],
+      "answer_labels": [
+        "A"
+      ],
+      "selected_options_labels": [
+        "A"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "A"
+      ],
+      "platform_answer": [
+        "A、伸左手示意"
+      ],
+      "candidate_selected_options": [
+        "A、伸左手示意",
+        "B、伸右手示意",
+        "C、语言示意",
+        "D、扭头示意"
+      ]
+    },
+    {
+      "number": 5,
+      "type": "单选题",
+      "question": "5、篡改共享电动车限速装置属于:",
+      "options": [
+        "A、技术创新",
+        "B、危害公共安全罪",
+        "C、合理改装",
+        "D、平台奖励行为"
+      ],
+      "selected_options": [
+        "B、危害公共安全罪"
+      ],
+      "answer": [
+        "B、危害公共安全罪"
+      ],
+      "answer_labels": [
+        "B"
+      ],
+      "selected_options_labels": [
+        "B"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "B"
+      ],
+      "platform_answer": [
+        "B、危害公共安全罪"
+      ],
+      "candidate_selected_options": [
+        "A、技术创新",
+        "B、危害公共安全罪",
+        "C、合理改装",
+        "D、平台奖励行为"
+      ]
+    },
+    {
+      "number": 6,
+      "type": "单选题",
+      "question": "6、骑自行车至路口准备左转弯时,应( ),不能突然猛拐。",
+      "options": [
+        "A、伸左手示意",
+        "B、伸右手示意",
+        "C、语言示意",
+        "D、扭头示意"
+      ],
+      "selected_options": [
+        "A、伸左手示意"
+      ],
+      "answer": [
+        "A、伸左手示意"
+      ],
+      "answer_labels": [
+        "A"
+      ],
+      "selected_options_labels": [
+        "A"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "A"
+      ],
+      "platform_answer": [
+        "A、伸左手示意"
+      ],
+      "candidate_selected_options": [
+        "A、伸左手示意",
+        "B、伸右手示意",
+        "C、语言示意",
+        "D、扭头示意"
+      ]
+    },
+    {
+      "number": 7,
+      "type": "单选题",
+      "question": "7、下雨天可以单手撑伞,单手骑车。",
+      "options": [
+        "A、正确",
+        "B、错误"
+      ],
+      "selected_options": [
+        "B、错误"
+      ],
+      "answer": [
+        "B、错误"
+      ],
+      "answer_labels": [
+        "B"
+      ],
+      "selected_options_labels": [
+        "B"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "B"
+      ],
+      "platform_answer": [
+        "B、错误"
+      ],
+      "candidate_selected_options": [
+        "A、正确",
+        "B、错误"
+      ]
+    },
+    {
+      "number": 8,
+      "type": "单选题",
+      "question": "8、校园内骑行电动车时,应当保持的安全距离是多少米?",
+      "options": [
+        "A、无具体规定，视情况而定",
+        "B、与前车保持至少1米距离",
+        "C、与前车保持至少2米距离",
+        "D、越近越好，以便及时反应"
+      ],
+      "selected_options": [
+        "B、与前车保持至少1米距离"
+      ],
+      "answer": [
+        "B、与前车保持至少1米距离"
+      ],
+      "answer_labels": [
+        "B"
+      ],
+      "selected_options_labels": [
+        "B"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "B"
+      ],
+      "platform_answer": [
+        "B、与前车保持至少1米距离"
+      ],
+      "candidate_selected_options": [
+        "A、无具体规定，视情况而定",
+        "B、与前车保持至少1米距离",
+        "C、与前车保持至少2米距离",
+        "D、越近越好，以便及时反应"
+      ]
+    },
+    {
+      "number": 9,
+      "type": "多选题",
+      "question": "9、酒驾处罚包含哪些?",
+      "options": [
+        "A、暂扣驾驶证6个月",
+        "B、1000-2000元罚款",
+        "C、醉驾追究刑事责任",
+        "D、口头警告"
+      ],
+      "selected_options": [
+        "A、暂扣驾驶证6个月",
+        "B、1000-2000元罚款",
+        "C、醉驾追究刑事责任"
+      ],
+      "answer": [
+        "A、暂扣驾驶证6个月",
+        "B、1000-2000元罚款",
+        "C、醉驾追究刑事责任"
+      ],
+      "answer_labels": [
+        "A",
+        "B",
+        "C"
+      ],
+      "selected_options_labels": [
+        "A",
+        "B",
+        "C"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "A",
+        "B",
+        "C"
+      ],
+      "platform_answer": [
+        "A、暂扣驾驶证6个月",
+        "B、1000-2000元罚款",
+        "C、醉驾追究刑事责任"
+      ],
+      "candidate_selected_options": [
+        "A、暂扣驾驶证6个月",
+        "B、1000-2000元罚款",
+        "C、醉驾追究刑事责任",
+        "D、口头警告"
+      ]
+    },
+    {
+      "number": 10,
+      "type": "多选题",
+      "question": "10、驾驶自行车时不得有下列哪些行为?",
+      "options": [
+        "A、攀扶车辆",
+        "B、牵引或者被牵引",
+        "C、互相追逐",
+        "D、手中持物"
+      ],
+      "selected_options": [
+        "A、攀扶车辆",
+        "B、牵引或者被牵引",
+        "C、互相追逐",
+        "D、手中持物"
+      ],
+      "answer": [
+        "A、攀扶车辆",
+        "B、牵引或者被牵引",
+        "C、互相追逐",
+        "D、手中持物"
+      ],
+      "answer_labels": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "selected_options_labels": [],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "platform_answer": [
+        "A、攀扶车辆",
+        "B、牵引或者被牵引",
+        "C、互相追逐",
+        "D、手中持物"
+      ]
+    },
+    {
+      "number": 11,
+      "type": "单选题",
+      "question": "11、校园内遇到紧急情况需要紧急疏散时,应当",
+      "options": [
+        "A、逆着人流方向跑",
+        "B、保持冷静，听从指挥，沿着安全通道迅速撤离",
+        "C、迅速返回宿舍拿取个人物品",
+        "D、停留在原地等待帮助"
+      ],
+      "selected_options": [
+        "B、保持冷静，听从指挥，沿着安全通道迅速撤离"
+      ],
+      "answer": [
+        "B、保持冷静，听从指挥，沿着安全通道迅速撤离"
+      ],
+      "answer_labels": [
+        "B"
+      ],
+      "selected_options_labels": [
+        "B"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "B"
+      ],
+      "platform_answer": [
+        "B、保持冷静，听从指挥，沿着安全通道迅速撤离"
+      ],
+      "candidate_selected_options": [
+        "A、逆着人流方向跑",
+        "B、保持冷静，听从指挥，沿着安全通道迅速撤离",
+        "C、迅速返回宿舍拿取个人物品",
+        "D、停留在原地等待帮助"
+      ]
+    },
+    {
+      "number": 12,
+      "type": "单选题",
+      "question": "12、校园内禁止停放电动车的地点通常包括哪些?",
+      "options": [
+        "A、宿舍楼下指定的停车区域",
+        "B、教学楼前的消防通道",
+        "C、图书馆门口",
+        "D、食堂周边的空旷地带"
+      ],
+      "selected_options": [
+        "B、教学楼前的消防通道"
+      ],
+      "answer": [
+        "B、教学楼前的消防通道"
+      ],
+      "answer_labels": [
+        "B"
+      ],
+      "selected_options_labels": [
+        "B"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "B"
+      ],
+      "platform_answer": [
+        "B、教学楼前的消防通道"
+      ],
+      "candidate_selected_options": [
+        "A、宿舍楼下指定的停车区域",
+        "B、教学楼前的消防通道",
+        "C、图书馆门口",
+        "D、食堂周边的空旷地带"
+      ]
+    },
+    {
+      "number": 13,
+      "type": "多选题",
+      "question": "13、电动自行车合法上路必备条件?",
+      "options": [
+        "A、悬挂号牌",
+        "B、佩戴头盔",
+        "C、车速≤25km/h",
+        "D、安装手机支架"
+      ],
+      "selected_options": [
+        "A、悬挂号牌",
+        "B、佩戴头盔",
+        "C、车速≤25km/h"
+      ],
+      "answer": [
+        "A、悬挂号牌",
+        "B、佩戴头盔",
+        "C、车速≤25km/h"
+      ],
+      "answer_labels": [
+        "A",
+        "B",
+        "C"
+      ],
+      "selected_options_labels": [
+        "A",
+        "B",
+        "C"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "A",
+        "B",
+        "C"
+      ],
+      "platform_answer": [
+        "A、悬挂号牌",
+        "B、佩戴头盔",
+        "C、车速≤25km/h"
+      ],
+      "candidate_selected_options": [
+        "A、悬挂号牌",
+        "B、佩戴头盔",
+        "C、车速≤25km/h",
+        "D、安装手机支架"
+      ]
+    },
+    {
+      "number": 14,
+      "type": "单选题",
+      "question": "14、夜间骑行必备安全装置是:",
+      "options": [
+        "A、手机播放音乐提示",
+        "B、车尾反光板或主动车灯",
+        "C、开启手机闪光灯照明",
+        "D、紧靠汽车获取灯光"
+      ],
+      "selected_options": [
+        "B、车尾反光板或主动车灯"
+      ],
+      "answer": [
+        "B、车尾反光板或主动车灯"
+      ],
+      "answer_labels": [
+        "B"
+      ],
+      "selected_options_labels": [
+        "B"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "B"
+      ],
+      "platform_answer": [
+        "B、车尾反光板或主动车灯"
+      ],
+      "candidate_selected_options": [
+        "A、手机播放音乐提示",
+        "B、车尾反光板或主动车灯",
+        "C、开启手机闪光灯照明",
+        "D、紧靠汽车获取灯光"
+      ]
+    },
+    {
+      "number": 15,
+      "type": "单选题",
+      "question": "15、交通肇事罪侵犯的客体是( )。",
+      "options": [
+        "A、公共秩序",
+        "B、人身安全",
+        "C、财产安全",
+        "D、公共安全"
+      ],
+      "selected_options": [
+        "D、公共安全"
+      ],
+      "answer": [
+        "D、公共安全"
+      ],
+      "answer_labels": [
+        "D"
+      ],
+      "selected_options_labels": [
+        "D"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "D"
+      ],
+      "platform_answer": [
+        "D、公共安全"
+      ],
+      "candidate_selected_options": [
+        "A、公共秩序",
+        "B、人身安全",
+        "C、财产安全",
+        "D、公共安全"
+      ]
+    },
+    {
+      "number": 16,
+      "type": "单选题",
+      "question": "16、关于共享单车的使用,以下哪个说法是错误的?",
+      "options": [
+        "A、使用前应先检查车辆是否完好，刹车是否灵敏",
+        "B、使用完毕后应停放在指定区域，不得随意停放",
+        "C、可以将共享单车骑入教学楼内或宿舍楼内",
+        "D、不得私自改装或破坏共享单车"
+      ],
+      "selected_options": [
+        "C、可以将共享单车骑入教学楼内或宿舍楼内"
+      ],
+      "answer": [
+        "C、可以将共享单车骑入教学楼内或宿舍楼内"
+      ],
+      "answer_labels": [
+        "C"
+      ],
+      "selected_options_labels": [
+        "C"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "C"
+      ],
+      "platform_answer": [
+        "C、可以将共享单车骑入教学楼内或宿舍楼内"
+      ],
+      "candidate_selected_options": [
+        "A、使用前应先检查车辆是否完好，刹车是否灵敏",
+        "B、使用完毕后应停放在指定区域，不得随意停放",
+        "C、可以将共享单车骑入教学楼内或宿舍楼内",
+        "D、不得私自改装或破坏共享单车"
+      ]
+    },
+    {
+      "number": 17,
+      "type": "单选题",
+      "question": "17、造成交通事故后逃逸的,由公安机关交通管理部门吊销机动车驾驶证,( )不得重新取得机动车驾驶证。",
+      "options": [
+        "A、三年内",
+        "B、五年内",
+        "C、十年内",
+        "D、终生"
+      ],
+      "selected_options": [
+        "D、终生"
+      ],
+      "answer": [
+        "D、终生"
+      ],
+      "answer_labels": [
+        "D"
+      ],
+      "selected_options_labels": [
+        "D"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "D"
+      ],
+      "platform_answer": [
+        "D、终生"
+      ],
+      "candidate_selected_options": [
+        "A、三年内",
+        "B、五年内",
+        "C、十年内",
+        "D、终生"
+      ]
+    },
+    {
+      "number": 18,
+      "type": "多选题",
+      "question": "18、辆自燃初期可采取的扑救措施:",
+      "options": [
+        "A、熄火断电",
+        "B、打开引擎盖检查",
+        "C、用灭火器对准火源根部",
+        "D、撤离至安全区域"
+      ],
+      "selected_options": [
+        "A、熄火断电",
+        "C、用灭火器对准火源根部",
+        "D、撤离至安全区域"
+      ],
+      "answer": [
+        "A、熄火断电",
+        "C、用灭火器对准火源根部",
+        "D、撤离至安全区域"
+      ],
+      "answer_labels": [
+        "A",
+        "C",
+        "D"
+      ],
+      "selected_options_labels": [
+        "A",
+        "C",
+        "D"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "A",
+        "C",
+        "D"
+      ],
+      "platform_answer": [
+        "A、熄火断电",
+        "C、用灭火器对准火源根部",
+        "D、撤离至安全区域"
+      ],
+      "candidate_selected_options": [
+        "A、熄火断电",
+        "B、打开引擎盖检查",
+        "C、用灭火器对准火源根部",
+        "D、撤离至安全区域"
+      ]
+    },
+    {
+      "number": 19,
+      "type": "单选题",
+      "question": "19、发生交通事故,有人被压在车轮或货物下时,错误的救援方法是 ( )。",
+      "options": [
+        "A、设法抬升车辆",
+        "B、拨打急救电话",
+        "C、拉拽伤者的肢体",
+        "D、搬走货物"
+      ],
+      "selected_options": [
+        "C、拉拽伤者的肢体"
+      ],
+      "answer": [
+        "C、拉拽伤者的肢体"
+      ],
+      "answer_labels": [
+        "C"
+      ],
+      "selected_options_labels": [
+        "C"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "C"
+      ],
+      "platform_answer": [
+        "C、拉拽伤者的肢体"
+      ],
+      "candidate_selected_options": [
+        "A、设法抬升车辆",
+        "B、拨打急救电话",
+        "C、拉拽伤者的肢体",
+        "D、搬走货物"
+      ]
+    },
+    {
+      "number": 20,
+      "type": "多选题",
+      "question": "20、下列属于道路交通违法行为的处罚种类的是( )。",
+      "options": [
+        "A、警告",
+        "B、罚款",
+        "C、行政拘留",
+        "D、暂扣或吊销机动车驾驶证"
+      ],
+      "selected_options": [
+        "A、警告",
+        "B、罚款",
+        "C、行政拘留",
+        "D、暂扣或吊销机动车驾驶证"
+      ],
+      "answer": [
+        "A、警告",
+        "B、罚款",
+        "C、行政拘留",
+        "D、暂扣或吊销机动车驾驶证"
+      ],
+      "answer_labels": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "selected_options_labels": [],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "platform_answer": [
+        "A、警告",
+        "B、罚款",
+        "C、行政拘留",
+        "D、暂扣或吊销机动车驾驶证"
+      ]
+    },
+    {
+      "number": 21,
+      "type": "单选题",
+      "question": "21、骑行至路口遇绿灯倒计时3秒,应:",
+      "options": [
+        "A、加速冲过停止线",
+        "B、停车等待下次绿灯",
+        "C、鸣笛警示行人避让",
+        "D、绕行至人行道通过"
+      ],
+      "selected_options": [
+        "B、停车等待下次绿灯"
+      ],
+      "answer": [
+        "B、停车等待下次绿灯"
+      ],
+      "answer_labels": [
+        "B"
+      ],
+      "selected_options_labels": [
+        "B"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "B"
+      ],
+      "platform_answer": [
+        "B、停车等待下次绿灯"
+      ],
+      "candidate_selected_options": [
+        "A、加速冲过停止线",
+        "B、停车等待下次绿灯",
+        "C、鸣笛警示行人避让",
+        "D、绕行至人行道通过"
+      ]
+    },
+    {
+      "number": 22,
+      "type": "单选题",
+      "question": "22、机动车辆行驶时,行为不正确的是( )。",
+      "options": [
+        "A、驾驶人必须系安全带",
+        "B、乘坐人员必须系安全带",
+        "C、摩托车乘坐人可以不戴安全头盔",
+        "D、摩托车驾驶人及乘坐人员必须按照规定戴头盔"
+      ],
+      "selected_options": [
+        "C、摩托车乘坐人可以不戴安全头盔"
+      ],
+      "answer": [
+        "C、摩托车乘坐人可以不戴安全头盔"
+      ],
+      "answer_labels": [
+        "C"
+      ],
+      "selected_options_labels": [
+        "C"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "C"
+      ],
+      "platform_answer": [
+        "C、摩托车乘坐人可以不戴安全头盔"
+      ],
+      "candidate_selected_options": [
+        "A、驾驶人必须系安全带",
+        "B、乘坐人员必须系安全带",
+        "C、摩托车乘坐人可以不戴安全头盔",
+        "D、摩托车驾驶人及乘坐人员必须按照规定戴头盔"
+      ]
+    },
+    {
+      "number": 23,
+      "type": "多选题",
+      "question": "23、防御性驾驶核心原则?",
+      "options": [
+        "A、保持逃生空间",
+        "B、预判他人行为",
+        "C、全天候开启大灯",
+        "D、频繁鸣笛警示"
+      ],
+      "selected_options": [
+        "A、保持逃生空间",
+        "B、预判他人行为"
+      ],
+      "answer": [
+        "A、保持逃生空间",
+        "B、预判他人行为"
+      ],
+      "answer_labels": [
+        "A",
+        "B"
+      ],
+      "selected_options_labels": [
+        "A",
+        "B"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "A",
+        "B"
+      ],
+      "platform_answer": [
+        "A、保持逃生空间",
+        "B、预判他人行为"
+      ],
+      "candidate_selected_options": [
+        "A、保持逃生空间",
+        "B、预判他人行为",
+        "C、全天候开启大灯",
+        "D、频繁鸣笛警示"
+      ]
+    },
+    {
+      "number": 24,
+      "type": "单选题",
+      "question": "24、骑车肇事逃逸致人轻伤,可能面临:",
+      "options": [
+        "A、校内通报批评",
+        "B、拘留并处罚款",
+        "C、赔偿医疗费",
+        "D、暂扣自行车"
+      ],
+      "selected_options": [
+        "B、拘留并处罚款"
+      ],
+      "answer": [
+        "B、拘留并处罚款"
+      ],
+      "answer_labels": [
+        "B"
+      ],
+      "selected_options_labels": [
+        "B"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "B"
+      ],
+      "platform_answer": [
+        "B、拘留并处罚款"
+      ],
+      "candidate_selected_options": [
+        "A、校内通报批评",
+        "B、拘留并处罚款",
+        "C、赔偿医疗费",
+        "D、暂扣自行车"
+      ]
+    },
+    {
+      "number": 25,
+      "type": "单选题",
+      "question": "25、发生交通事故,有人被压在车轮或货物下时,错误的救援方法是",
+      "options": [
+        "A、设法抬升车辆",
+        "B、拨打急救电话",
+        "C、拉拽伤者的肢体",
+        "D、搬走货物"
+      ],
+      "selected_options": [
+        "C、拉拽伤者的肢体"
+      ],
+      "answer": [
+        "C、拉拽伤者的肢体"
+      ],
+      "answer_labels": [
+        "C"
+      ],
+      "selected_options_labels": [
+        "C"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "C"
+      ],
+      "platform_answer": [
+        "C、拉拽伤者的肢体"
+      ],
+      "candidate_selected_options": [
+        "A、设法抬升车辆",
+        "B、拨打急救电话",
+        "C、拉拽伤者的肢体",
+        "D、搬走货物"
+      ]
+    },
+    {
+      "number": 26,
+      "type": "单选题",
+      "question": "26、校园内的“禁停”标志通常用于",
+      "options": [
+        "A、指示车辆可以临时停放",
+        "B、禁止所有车辆停放",
+        "C、指示车辆可以在指定时间段内停放",
+        "D、仅为装饰，无实际意义"
+      ],
+      "selected_options": [
+        "B、禁止所有车辆停放"
+      ],
+      "answer": [
+        "B、禁止所有车辆停放"
+      ],
+      "answer_labels": [
+        "B"
+      ],
+      "selected_options_labels": [
+        "B"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "B"
+      ],
+      "platform_answer": [
+        "B、禁止所有车辆停放"
+      ],
+      "candidate_selected_options": [
+        "A、指示车辆可以临时停放",
+        "B、禁止所有车辆停放",
+        "C、指示车辆可以在指定时间段内停放",
+        "D、仅为装饰，无实际意义"
+      ]
+    },
+    {
+      "number": 27,
+      "type": "单选题",
+      "question": "27、机动车在高速公路上发生故障时,警告标志应当设置在故障车来车方向 ( ) 以外。",
+      "options": [
+        "A、五十米",
+        "B、一百米",
+        "C、一百五十米",
+        "D、二百米"
+      ],
+      "selected_options": [
+        "C、一百五十米"
+      ],
+      "answer": [
+        "C、一百五十米"
+      ],
+      "answer_labels": [
+        "C"
+      ],
+      "selected_options_labels": [
+        "C"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "C"
+      ],
+      "platform_answer": [
+        "C、一百五十米"
+      ],
+      "candidate_selected_options": [
+        "A、五十米",
+        "B、一百米",
+        "C、一百五十米",
+        "D、二百米"
+      ]
+    },
+    {
+      "number": 28,
+      "type": "单选题",
+      "question": "28、校园内的交通指示牌和标志的主要作用是",
+      "options": [
+        "A、美化校园环境",
+        "B、指示和警告交通参与者",
+        "C、限制学生出行",
+        "D、吸引游客注意"
+      ],
+      "selected_options": [
+        "B、指示和警告交通参与者"
+      ],
+      "answer": [
+        "B、指示和警告交通参与者"
+      ],
+      "answer_labels": [
+        "B"
+      ],
+      "selected_options_labels": [
+        "B"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "B"
+      ],
+      "platform_answer": [
+        "B、指示和警告交通参与者"
+      ],
+      "candidate_selected_options": [
+        "A、美化校园环境",
+        "B、指示和警告交通参与者",
+        "C、限制学生出行",
+        "D、吸引游客注意"
+      ]
+    },
+    {
+      "number": 29,
+      "type": "单选题",
+      "question": "29、下列哪种行为最容易导致校园内交通事故?",
+      "options": [
+        "A、遵守交通规则，使用安全设施",
+        "B、骑行中低头看手机、逆行、超速",
+        "C、在人行道上耐心等待绿灯",
+        "D、提醒同学注意交通安全"
+      ],
+      "selected_options": [
+        "B、骑行中低头看手机、逆行、超速"
+      ],
+      "answer": [
+        "B、骑行中低头看手机、逆行、超速"
+      ],
+      "answer_labels": [
+        "B"
+      ],
+      "selected_options_labels": [
+        "B"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "B"
+      ],
+      "platform_answer": [
+        "B、骑行中低头看手机、逆行、超速"
+      ],
+      "candidate_selected_options": [
+        "A、遵守交通规则，使用安全设施",
+        "B、骑行中低头看手机、逆行、超速",
+        "C、在人行道上耐心等待绿灯",
+        "D、提醒同学注意交通安全"
+      ]
+    },
+    {
+      "number": 30,
+      "type": "多选题",
+      "question": "30、下列说法正确的是( )。",
+      "options": [
+        "A、每年 5 月 25 日为“上海市无违章、无事故道路交通安全宣传日 ”",
+        "B、每年 12 月 2 日为“全国交通安全日 ”",
+        "C、每年 12 月 4 日为“全国法制宣传日 ”",
+        "D、每年 12 月 4 日为“全国交通安全日 ”"
+      ],
+      "selected_options": [
+        "A、每年 5 月 25 日为“上海市无违章、无事故道路交通安全宣传日 ”",
+        "B、每年 12 月 2 日为“全国交通安全日 ”",
+        "C、每年 12 月 4 日为“全国法制宣传日 ”"
+      ],
+      "answer": [
+        "A、每年 5 月 25 日为“上海市无违章、无事故道路交通安全宣传日 ”",
+        "B、每年 12 月 2 日为“全国交通安全日 ”",
+        "C、每年 12 月 4 日为“全国法制宣传日 ”"
+      ],
+      "answer_labels": [
+        "A",
+        "B",
+        "C"
+      ],
+      "selected_options_labels": [
+        "A",
+        "B",
+        "C"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "A",
+        "B",
+        "C"
+      ],
+      "platform_answer": [
+        "A、每年 5 月 25 日为“上海市无违章、无事故道路交通安全宣传日 ”",
+        "B、每年 12 月 2 日为“全国交通安全日 ”",
+        "C、每年 12 月 4 日为“全国法制宣传日 ”"
+      ],
+      "candidate_selected_options": [
+        "A、每年 5 月 25 日为“上海市无违章、无事故道路交通安全宣传日 ”",
+        "B、每年 12 月 2 日为“全国交通安全日 ”",
+        "C、每年 12 月 4 日为“全国法制宣传日 ”",
+        "D、每年 12 月 4 日为“全国交通安全日 ”"
+      ]
+    },
+    {
+      "number": 31,
+      "type": "多选题",
+      "question": "31、同车道行驶的机动车,后车应当与前车保持足以采取紧急制动措施的安全距离。有下列何情形之一的,不得超车( )。",
+      "options": [
+        "A、前车正在左转弯、掉头、超车的。",
+        "B、与对面来车有会车可能的。",
+        "C、前车为执行紧急任务的警车、消防车、救护车、工程救险车的。",
+        "D、行经铁路道口、交叉路口、窄桥、弯道、陡坡、隧道、人行横道、市区交通流量大的路段等没有超车条件的。"
+      ],
+      "selected_options": [
+        "A、前车正在左转弯、掉头、超车的。",
+        "B、与对面来车有会车可能的。",
+        "C、前车为执行紧急任务的警车、消防车、救护车、工程救险车的。",
+        "D、行经铁路道口、交叉路口、窄桥、弯道、陡坡、隧道、人行横道、市区交通流量大的路段等没有超车条件的。"
+      ],
+      "answer": [
+        "A、前车正在左转弯、掉头、超车的。",
+        "B、与对面来车有会车可能的。",
+        "C、前车为执行紧急任务的警车、消防车、救护车、工程救险车的。",
+        "D、行经铁路道口、交叉路口、窄桥、弯道、陡坡、隧道、人行横道、市区交通流量大的路段等没有超车条件的。"
+      ],
+      "answer_labels": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "selected_options_labels": [],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "platform_answer": [
+        "A、前车正在左转弯、掉头、超车的。",
+        "B、与对面来车有会车可能的。",
+        "C、前车为执行紧急任务的警车、消防车、救护车、工程救险车的。",
+        "D、行经铁路道口、交叉路口、窄桥、弯道、陡坡、隧道、人行横道、市区交通流量大的路段等没有超车条件的。"
+      ]
+    },
+    {
+      "number": 32,
+      "type": "单选题",
+      "question": "32、边看手机边过马路可能导致:",
+      "options": [
+        "A、错过重要消息提醒",
+        "B、忽视转弯车辆引发事故",
+        "C、手机屏幕反光看不清路",
+        "D、消耗过多手机电量"
+      ],
+      "selected_options": [
+        "B、忽视转弯车辆引发事故"
+      ],
+      "answer": [
+        "B、忽视转弯车辆引发事故"
+      ],
+      "answer_labels": [
+        "B"
+      ],
+      "selected_options_labels": [
+        "B"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "B"
+      ],
+      "platform_answer": [
+        "B、忽视转弯车辆引发事故"
+      ],
+      "candidate_selected_options": [
+        "A、错过重要消息提醒",
+        "B、忽视转弯车辆引发事故",
+        "C、手机屏幕反光看不清路",
+        "D、消耗过多手机电量"
+      ]
+    },
+    {
+      "number": 33,
+      "type": "多选题",
+      "question": "33、机动车右转向灯亮表示( )",
+      "options": [
+        "A、右转弯",
+        "B、左转弯",
+        "C、危险报警闪光",
+        "D、靠边停车"
+      ],
+      "selected_options": [
+        "A、右转弯",
+        "D、靠边停车"
+      ],
+      "answer": [
+        "A、右转弯",
+        "D、靠边停车"
+      ],
+      "answer_labels": [
+        "A",
+        "D"
+      ],
+      "selected_options_labels": [
+        "A",
+        "D"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "A",
+        "D"
+      ],
+      "platform_answer": [
+        "A、右转弯",
+        "D、靠边停车"
+      ],
+      "candidate_selected_options": [
+        "A、右转弯",
+        "B、左转弯",
+        "C、危险报警闪光",
+        "D、靠边停车"
+      ]
+    },
+    {
+      "number": 34,
+      "type": "单选题",
+      "question": "34、代替他人处理交通违法扣分,将面临:",
+      "options": [
+        "A、友情赞赏",
+        "B、拘留及罚款",
+        "C、平台积分奖励",
+        "D、交警口头教育"
+      ],
+      "selected_options": [
+        "B、拘留及罚款"
+      ],
+      "answer": [
+        "B、拘留及罚款"
+      ],
+      "answer_labels": [
+        "B"
+      ],
+      "selected_options_labels": [
+        "B"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "B"
+      ],
+      "platform_answer": [
+        "B、拘留及罚款"
+      ],
+      "candidate_selected_options": [
+        "A、友情赞赏",
+        "B、拘留及罚款",
+        "C、平台积分奖励",
+        "D、交警口头教育"
+      ]
+    },
+    {
+      "number": 35,
+      "type": "多选题",
+      "question": "35、在没有交通信号灯的路口横过马路时,应当( )。",
+      "options": [
+        "A、听从交通警察指挥",
+        "B、确认安全后通行",
+        "C、横冲直撞",
+        "D、加速跑过道路"
+      ],
+      "selected_options": [
+        "A、听从交通警察指挥",
+        "B、确认安全后通行"
+      ],
+      "answer": [
+        "A、听从交通警察指挥",
+        "B、确认安全后通行"
+      ],
+      "answer_labels": [
+        "A",
+        "B"
+      ],
+      "selected_options_labels": [
+        "A",
+        "B"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "A",
+        "B"
+      ],
+      "platform_answer": [
+        "A、听从交通警察指挥",
+        "B、确认安全后通行"
+      ],
+      "candidate_selected_options": [
+        "A、听从交通警察指挥",
+        "B、确认安全后通行",
+        "C、横冲直撞",
+        "D、加速跑过道路"
+      ]
+    },
+    {
+      "number": 36,
+      "type": "多选题",
+      "question": "36、交通技术监控资料记录的违法行为可以由( )的公安机关交通管理部门管辖。",
+      "options": [
+        "A、违法行为发生地",
+        "B、发现地",
+        "C、驾驶证登记地",
+        "D、机动车登记地"
+      ],
+      "selected_options": [
+        "A、违法行为发生地",
+        "B、发现地",
+        "D、机动车登记地"
+      ],
+      "answer": [
+        "A、违法行为发生地",
+        "B、发现地",
+        "D、机动车登记地"
+      ],
+      "answer_labels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "selected_options_labels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "platform_answer": [
+        "A、违法行为发生地",
+        "B、发现地",
+        "D、机动车登记地"
+      ],
+      "candidate_selected_options": [
+        "A、违法行为发生地",
+        "B、发现地",
+        "C、驾驶证登记地",
+        "D、机动车登记地"
+      ]
+    },
+    {
+      "number": 37,
+      "type": "单选题",
+      "question": "37、交通肇事后逃逸致人死亡的量刑级( )。",
+      "options": [
+        "A、处三年以下有期徒刑或拘役",
+        "B、处三年以上七年以下有期徒刑",
+        "C、处七年以上有期徒刑",
+        "D、处十年以上有期徒刑"
+      ],
+      "selected_options": [
+        "C、处七年以上有期徒刑"
+      ],
+      "answer": [
+        "C、处七年以上有期徒刑"
+      ],
+      "answer_labels": [
+        "C"
+      ],
+      "selected_options_labels": [
+        "C"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "C"
+      ],
+      "platform_answer": [
+        "C、处七年以上有期徒刑"
+      ],
+      "candidate_selected_options": [
+        "A、处三年以下有期徒刑或拘役",
+        "B、处三年以上七年以下有期徒刑",
+        "C、处七年以上有期徒刑",
+        "D、处十年以上有期徒刑"
+      ]
+    },
+    {
+      "number": 38,
+      "type": "单选题",
+      "question": "38、学习驾车期间,在没有教练陪同的情况下私自开车在路上练习,这种行为属于 ( )。",
+      "options": [
+        "A、行政违法",
+        "B、违规行为",
+        "C、合法行为",
+        "D、合理行为"
+      ],
+      "selected_options": [
+        "A、行政违法"
+      ],
+      "answer": [
+        "A、行政违法"
+      ],
+      "answer_labels": [
+        "A"
+      ],
+      "selected_options_labels": [
+        "A"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "A"
+      ],
+      "platform_answer": [
+        "A、行政违法"
+      ],
+      "candidate_selected_options": [
+        "A、行政违法",
+        "B、违规行为",
+        "C、合法行为",
+        "D、合理行为"
+      ]
+    },
+    {
+      "number": 39,
+      "type": "单选题",
+      "question": "39、乘客开车门致人伤亡,主要责任主体:",
+      "options": [
+        "A、车辆制造商",
+        "B、开门乘客及驾驶员",
+        "C、后方来车",
+        "D、道路养护部门"
+      ],
+      "selected_options": [
+        "B、开门乘客及驾驶员"
+      ],
+      "answer": [
+        "B、开门乘客及驾驶员"
+      ],
+      "answer_labels": [
+        "B"
+      ],
+      "selected_options_labels": [
+        "B"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "B"
+      ],
+      "platform_answer": [
+        "B、开门乘客及驾驶员"
+      ],
+      "candidate_selected_options": [
+        "A、车辆制造商",
+        "B、开门乘客及驾驶员",
+        "C、后方来车",
+        "D、道路养护部门"
+      ]
+    },
+    {
+      "number": 40,
+      "type": "单选题",
+      "question": "40、骑行时接打电话的正确处理:",
+      "options": [
+        "A、单手握把接听",
+        "B、靠边停车后操作",
+        "C、戴蓝牙耳机继续骑",
+        "D、加速到目的地再处理"
+      ],
+      "selected_options": [
+        "B、靠边停车后操作"
+      ],
+      "answer": [
+        "B、靠边停车后操作"
+      ],
+      "answer_labels": [
+        "B"
+      ],
+      "selected_options_labels": [
+        "B"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "B"
+      ],
+      "platform_answer": [
+        "B、靠边停车后操作"
+      ],
+      "candidate_selected_options": [
+        "A、单手握把接听",
+        "B、靠边停车后操作",
+        "C、戴蓝牙耳机继续骑",
+        "D、加速到目的地再处理"
+      ]
+    },
+    {
+      "number": 41,
+      "type": "单选题",
+      "question": "41、驾车突遇团雾的错误做法:",
+      "options": [
+        "A、开启雾灯和双闪",
+        "B、急踩刹车停车",
+        "C、减速保持车距",
+        "D、轻点刹车提醒后车"
+      ],
+      "selected_options": [
+        "B、急踩刹车停车"
+      ],
+      "answer": [
+        "B、急踩刹车停车"
+      ],
+      "answer_labels": [
+        "B"
+      ],
+      "selected_options_labels": [
+        "B"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "B"
+      ],
+      "platform_answer": [
+        "B、急踩刹车停车"
+      ],
+      "candidate_selected_options": [
+        "A、开启雾灯和双闪",
+        "B、急踩刹车停车",
+        "C、减速保持车距",
+        "D、轻点刹车提醒后车"
+      ]
+    },
+    {
+      "number": 42,
+      "type": "多选题",
+      "question": "42、可能承担刑事责任的行为包括:",
+      "options": [
+        "A、醉驾肇事致人重伤",
+        "B、骑行载人被罚款",
+        "C、肇事逃逸",
+        "D、伪造事故骗保超5万元"
+      ],
+      "selected_options": [
+        "A、醉驾肇事致人重伤",
+        "C、肇事逃逸",
+        "D、伪造事故骗保超5万元"
+      ],
+      "answer": [
+        "A、醉驾肇事致人重伤",
+        "C、肇事逃逸",
+        "D、伪造事故骗保超5万元"
+      ],
+      "answer_labels": [
+        "A",
+        "C",
+        "D"
+      ],
+      "selected_options_labels": [
+        "A",
+        "C",
+        "D"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "A",
+        "C",
+        "D"
+      ],
+      "platform_answer": [
+        "A、醉驾肇事致人重伤",
+        "C、肇事逃逸",
+        "D、伪造事故骗保超5万元"
+      ],
+      "candidate_selected_options": [
+        "A、醉驾肇事致人重伤",
+        "B、骑行载人被罚款",
+        "C、肇事逃逸",
+        "D、伪造事故骗保超5万元"
+      ]
+    },
+    {
+      "number": 43,
+      "type": "单选题",
+      "question": "43、乘坐大客车外出意外失火,车门无法打开,应( ),尽快逃生。",
+      "options": [
+        "A、砸碎前挡风玻璃",
+        "B、砸碎侧窗玻璃",
+        "C、撬开车门",
+        "D、先行灭火，再撬开车门"
+      ],
+      "selected_options": [
+        "B、砸碎侧窗玻璃"
+      ],
+      "answer": [
+        "B、砸碎侧窗玻璃"
+      ],
+      "answer_labels": [
+        "B"
+      ],
+      "selected_options_labels": [
+        "B"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "B"
+      ],
+      "platform_answer": [
+        "B、砸碎侧窗玻璃"
+      ],
+      "candidate_selected_options": [
+        "A、砸碎前挡风玻璃",
+        "B、砸碎侧窗玻璃",
+        "C、撬开车门",
+        "D、先行灭火，再撬开车门"
+      ]
+    },
+    {
+      "number": 44,
+      "type": "单选题",
+      "question": "44、骑自行车或电动车前往校外时,遇到没有自行车道的狭窄道路,应如何行驶?",
+      "options": [
+        "A、紧贴机动车道右侧行驶，以便超车",
+        "B、占用对向车道，与来车错开行驶",
+        "C、尽量靠道路边缘骑行，保持安全距离，注意观察四周",
+        "D、快速行驶，争取早点通过这段路"
+      ],
+      "selected_options": [
+        "C、尽量靠道路边缘骑行，保持安全距离，注意观察四周"
+      ],
+      "answer": [
+        "C、尽量靠道路边缘骑行，保持安全距离，注意观察四周"
+      ],
+      "answer_labels": [
+        "C"
+      ],
+      "selected_options_labels": [
+        "C"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "C"
+      ],
+      "platform_answer": [
+        "C、尽量靠道路边缘骑行，保持安全距离，注意观察四周"
+      ],
+      "candidate_selected_options": [
+        "A、紧贴机动车道右侧行驶，以便超车",
+        "B、占用对向车道，与来车错开行驶",
+        "C、尽量靠道路边缘骑行，保持安全距离，注意观察四周",
+        "D、快速行驶，争取早点通过这段路"
+      ]
+    },
+    {
+      "number": 45,
+      "type": "单选题",
+      "question": "45、在未设置停放点的地方停放自行车时,应在()停放",
+      "options": [
+        "A、不妨碍通行的地点",
+        "B、不经常使用的盲道",
+        "C、草坪绿地",
+        "D、任意地点"
+      ],
+      "selected_options": [
+        "A、不妨碍通行的地点"
+      ],
+      "answer": [
+        "A、不妨碍通行的地点"
+      ],
+      "answer_labels": [
+        "A"
+      ],
+      "selected_options_labels": [
+        "A"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "A"
+      ],
+      "platform_answer": [
+        "A、不妨碍通行的地点"
+      ],
+      "candidate_selected_options": [
+        "A、不妨碍通行的地点",
+        "B、不经常使用的盲道",
+        "C、草坪绿地",
+        "D、任意地点"
+      ]
+    },
+    {
+      "number": 46,
+      "type": "单选题",
+      "question": "46、醉酒驾驶机动车的,由公安机关交通管理部门约束至酒醒,吊销机动车驾驶证,依法追究刑事责任( )内不得重新取得机动车驾驶证。",
+      "options": [
+        "A、1年",
+        "B、2年",
+        "C、5年",
+        "D、10年"
+      ],
+      "selected_options": [
+        "C、5年"
+      ],
+      "answer": [
+        "C、5年"
+      ],
+      "answer_labels": [
+        "C"
+      ],
+      "selected_options_labels": [
+        "C"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "C"
+      ],
+      "platform_answer": [
+        "C、5年"
+      ],
+      "candidate_selected_options": [
+        "A、1年",
+        "B、2年",
+        "C、5年",
+        "D、10年"
+      ]
+    },
+    {
+      "number": 47,
+      "type": "单选题",
+      "question": "47、多人并排行走在狭窄人行道上时,应:",
+      "options": [
+        "A、保持并排继续聊天",
+        "B、主动排成单列避让行人",
+        "C、占用非机动车道行走",
+        "D、催促前方行人加速"
+      ],
+      "selected_options": [
+        "B、主动排成单列避让行人"
+      ],
+      "answer": [
+        "B、主动排成单列避让行人"
+      ],
+      "answer_labels": [
+        "B"
+      ],
+      "selected_options_labels": [
+        "B"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "B"
+      ],
+      "platform_answer": [
+        "B、主动排成单列避让行人"
+      ],
+      "candidate_selected_options": [
+        "A、保持并排继续聊天",
+        "B、主动排成单列避让行人",
+        "C、占用非机动车道行走",
+        "D、催促前方行人加速"
+      ]
+    },
+    {
+      "number": 48,
+      "type": "单选题",
+      "question": "48、交通事故的主观构成要件( )。",
+      "options": [
+        "A、过错或意外",
+        "B、恶意",
+        "C、间接故意",
+        "D、直接故意"
+      ],
+      "selected_options": [
+        "A、过错或意外"
+      ],
+      "answer": [
+        "A、过错或意外"
+      ],
+      "answer_labels": [
+        "A"
+      ],
+      "selected_options_labels": [
+        "A"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "A"
+      ],
+      "platform_answer": [
+        "A、过错或意外"
+      ],
+      "candidate_selected_options": [
+        "A、过错或意外",
+        "B、恶意",
+        "C、间接故意",
+        "D、直接故意"
+      ]
+    },
+    {
+      "number": 49,
+      "type": "单选题",
+      "question": "49、交通安全宣传中一盔一带指的是( ) 。",
+      "options": [
+        "A、安全头盔、安全带",
+        "B、防暴头盔、安全带",
+        "C、防暴头盔、束缚带",
+        "D、安全头盔、束缚带"
+      ],
+      "selected_options": [
+        "A、安全头盔、安全带"
+      ],
+      "answer": [
+        "A、安全头盔、安全带"
+      ],
+      "answer_labels": [
+        "A"
+      ],
+      "selected_options_labels": [
+        "A"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "A"
+      ],
+      "platform_answer": [
+        "A、安全头盔、安全带"
+      ],
+      "candidate_selected_options": [
+        "A、安全头盔、安全带",
+        "B、防暴头盔、安全带",
+        "C、防暴头盔、束缚带",
+        "D、安全头盔、束缚带"
+      ]
+    },
+    {
+      "number": 50,
+      "type": "单选题",
+      "question": "50、校园施工区域旁通行,应如何行动?",
+      "options": [
+        "A、绕行安全警戒线外围",
+        "B、紧跟工程车减少暴露时间",
+        "C、戴头盔快速穿过施工区",
+        "D、拍照发朋友圈提醒同学"
+      ],
+      "selected_options": [
+        "A、绕行安全警戒线外围"
+      ],
+      "answer": [
+        "A、绕行安全警戒线外围"
+      ],
+      "answer_labels": [
+        "A"
+      ],
+      "selected_options_labels": [
+        "A"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "A"
+      ],
+      "platform_answer": [
+        "A、绕行安全警戒线外围"
+      ],
+      "candidate_selected_options": [
+        "A、绕行安全警戒线外围",
+        "B、紧跟工程车减少暴露时间",
+        "C、戴头盔快速穿过施工区",
+        "D、拍照发朋友圈提醒同学"
+      ]
+    },
+    {
+      "number": 51,
+      "type": "多选题",
+      "question": "51、避让特种车辆(救护车/消防车)的规则:",
+      "options": [
+        "A、加速通过路口",
+        "B、加速通过路口",
+        "C、保持原车道减速",
+        "D、不占用应急车道"
+      ],
+      "selected_options": [
+        "B、加速通过路口",
+        "D、不占用应急车道"
+      ],
+      "answer": [
+        "B、加速通过路口",
+        "D、不占用应急车道"
+      ],
+      "answer_labels": [
+        "B",
+        "D"
+      ],
+      "selected_options_labels": [
+        "B",
+        "D"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "B",
+        "D"
+      ],
+      "platform_answer": [
+        "B、加速通过路口",
+        "D、不占用应急车道"
+      ],
+      "candidate_selected_options": [
+        "A、加速通过路口",
+        "B、加速通过路口",
+        "C、保持原车道减速",
+        "D、不占用应急车道"
+      ]
+    },
+    {
+      "number": 52,
+      "type": "多选题",
+      "question": "52、非机动车是指下列哪些车辆?",
+      "options": [
+        "A、摩托车",
+        "B、电动自行车",
+        "C、自行车",
+        "D、轻便摩托车"
+      ],
+      "selected_options": [
+        "B、电动自行车",
+        "C、自行车"
+      ],
+      "answer": [
+        "B、电动自行车",
+        "C、自行车"
+      ],
+      "answer_labels": [
+        "B",
+        "C"
+      ],
+      "selected_options_labels": [
+        "B",
+        "C"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "B",
+        "C"
+      ],
+      "platform_answer": [
+        "B、电动自行车",
+        "C、自行车"
+      ],
+      "candidate_selected_options": [
+        "A、摩托车",
+        "B、电动自行车",
+        "C、自行车",
+        "D、轻便摩托车"
+      ]
+    },
+    {
+      "number": 53,
+      "type": "多选题",
+      "question": "53、道路交通事故按造成的损害后果可分几类( )。",
+      "options": [
+        "A、轻微交通事故",
+        "B、一般交通事故",
+        "C、重大交通事故",
+        "D、特大交通事故"
+      ],
+      "selected_options": [
+        "A、轻微交通事故",
+        "B、一般交通事故",
+        "C、重大交通事故",
+        "D、特大交通事故"
+      ],
+      "answer": [
+        "A、轻微交通事故",
+        "B、一般交通事故",
+        "C、重大交通事故",
+        "D、特大交通事故"
+      ],
+      "answer_labels": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "selected_options_labels": [],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "platform_answer": [
+        "A、轻微交通事故",
+        "B、一般交通事故",
+        "C、重大交通事故",
+        "D、特大交通事故"
+      ]
+    },
+    {
+      "number": 54,
+      "type": "单选题",
+      "question": "54、每年( )为“全国交通安全日”。",
+      "options": [
+        "A、5月25日",
+        "B、3月15日",
+        "C、12月4日",
+        "D、12月2日"
+      ],
+      "selected_options": [
+        "D、12月2日"
+      ],
+      "answer": [
+        "D、12月2日"
+      ],
+      "answer_labels": [
+        "D"
+      ],
+      "selected_options_labels": [
+        "D"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "D"
+      ],
+      "platform_answer": [
+        "D、12月2日"
+      ],
+      "candidate_selected_options": [
+        "A、5月25日",
+        "B、3月15日",
+        "C、12月4日",
+        "D、12月2日"
+      ]
+    },
+    {
+      "number": 55,
+      "type": "单选题",
+      "question": "55、驾车进入校园的正确做法:",
+      "options": [
+        "A、按30km/h限速行驶",
+        "B、跟随前车速度通行",
+        "C、鸣笛提醒行人避让",
+        "D、借用自行车道超车"
+      ],
+      "selected_options": [
+        "A、按30km/h限速行驶"
+      ],
+      "answer": [
+        "A、按30km/h限速行驶"
+      ],
+      "answer_labels": [
+        "A"
+      ],
+      "selected_options_labels": [
+        "A"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "A"
+      ],
+      "platform_answer": [
+        "A、按30km/h限速行驶"
+      ],
+      "candidate_selected_options": [
+        "A、按30km/h限速行驶",
+        "B、跟随前车速度通行",
+        "C、鸣笛提醒行人避让",
+        "D、借用自行车道超车"
+      ]
+    },
+    {
+      "number": 56,
+      "type": "单选题",
+      "question": "56、夜晚在校园内行走或骑行时,应如何确保自身安全?",
+      "options": [
+        "A、不需要采取任何特别措施，因为校园内很安全",
+        "B、穿着深色衣物，便于融入夜色中",
+        "C、携带手电筒或打开手机手电筒照明，同时尽量走在有路灯或监控覆盖的地方",
+        "D、边走边玩手机，无需担心安全问题"
+      ],
+      "selected_options": [
+        "C、携带手电筒或打开手机手电筒照明，同时尽量走在有路灯或监控覆盖的地方"
+      ],
+      "answer": [
+        "C、携带手电筒或打开手机手电筒照明，同时尽量走在有路灯或监控覆盖的地方"
+      ],
+      "answer_labels": [
+        "C"
+      ],
+      "selected_options_labels": [
+        "C"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "C"
+      ],
+      "platform_answer": [
+        "C、携带手电筒或打开手机手电筒照明，同时尽量走在有路灯或监控覆盖的地方"
+      ],
+      "candidate_selected_options": [
+        "A、不需要采取任何特别措施，因为校园内很安全",
+        "B、穿着深色衣物，便于融入夜色中",
+        "C、携带手电筒或打开手机手电筒照明，同时尽量走在有路灯或监控覆盖的地方",
+        "D、边走边玩手机，无需担心安全问题"
+      ]
+    },
+    {
+      "number": 57,
+      "type": "单选题",
+      "question": "57、停放共享单车时需注意:",
+      "options": [
+        "A、放在宿舍楼道内方便取用",
+        "B、停入指定区域不阻塞通道",
+        "C、锁在私人自行车位上",
+        "D、随意停在绿化带"
+      ],
+      "selected_options": [
+        "B、停入指定区域不阻塞通道"
+      ],
+      "answer": [
+        "B、停入指定区域不阻塞通道"
+      ],
+      "answer_labels": [
+        "B"
+      ],
+      "selected_options_labels": [
+        "B"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "B"
+      ],
+      "platform_answer": [
+        "B、停入指定区域不阻塞通道"
+      ],
+      "candidate_selected_options": [
+        "A、放在宿舍楼道内方便取用",
+        "B、停入指定区域不阻塞通道",
+        "C、锁在私人自行车位上",
+        "D、随意停在绿化带"
+      ]
+    },
+    {
+      "number": 58,
+      "type": "多选题",
+      "question": "58、驾驶机动车时禁止下列哪些行为?",
+      "options": [
+        "A、戴耳机",
+        "B、戴墨镜",
+        "C、抽烟",
+        "D、拨打手持电话"
+      ],
+      "selected_options": [
+        "A、戴耳机",
+        "C、抽烟",
+        "D、拨打手持电话"
+      ],
+      "answer": [
+        "A、戴耳机",
+        "C、抽烟",
+        "D、拨打手持电话"
+      ],
+      "answer_labels": [
+        "A",
+        "C",
+        "D"
+      ],
+      "selected_options_labels": [
+        "A",
+        "C",
+        "D"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "A",
+        "C",
+        "D"
+      ],
+      "platform_answer": [
+        "A、戴耳机",
+        "C、抽烟",
+        "D、拨打手持电话"
+      ],
+      "candidate_selected_options": [
+        "A、戴耳机",
+        "B、戴墨镜",
+        "C、抽烟",
+        "D、拨打手持电话"
+      ]
+    },
+    {
+      "number": 59,
+      "type": "单选题",
+      "question": "59、在未设置停放点的地方停放自行车时,应在( )停放。",
+      "options": [
+        "A、不妨碍通行的地点",
+        "B、不经常使用的盲道",
+        "C、草坪绿地",
+        "D、任意地点"
+      ],
+      "selected_options": [
+        "A、不妨碍通行的地点"
+      ],
+      "answer": [
+        "A、不妨碍通行的地点"
+      ],
+      "answer_labels": [
+        "A"
+      ],
+      "selected_options_labels": [
+        "A"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "A"
+      ],
+      "platform_answer": [
+        "A、不妨碍通行的地点"
+      ],
+      "candidate_selected_options": [
+        "A、不妨碍通行的地点",
+        "B、不经常使用的盲道",
+        "C、草坪绿地",
+        "D、任意地点"
+      ]
+    },
+    {
+      "number": 60,
+      "type": "单选题",
+      "question": "60、以下哪种头盔适合骑行时佩戴?",
+      "options": [
+        "A、工地建筑头盔",
+        "B、有 3C 认证的专用头盔",
+        "C、帽子",
+        "D、不佩戴头盔"
+      ],
+      "selected_options": [
+        "B、有 3C 认证的专用头盔"
+      ],
+      "answer": [
+        "B、有 3C 认证的专用头盔"
+      ],
+      "answer_labels": [
+        "B"
+      ],
+      "selected_options_labels": [
+        "B"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "B"
+      ],
+      "platform_answer": [
+        "B、有 3C 认证的专用头盔"
+      ],
+      "candidate_selected_options": [
+        "A、工地建筑头盔",
+        "B、有 3C 认证的专用头盔",
+        "C、帽子",
+        "D、不佩戴头盔"
+      ]
+    },
+    {
+      "number": 61,
+      "type": "单选题",
+      "question": "61、乘坐网约车返校,第一步应:",
+      "options": [
+        "A、核对车牌、车型及司机信息",
+        "B、坐副驾驶座便于指路",
+        "C、上车后调整空调温度",
+        "D、要求司机走最短路线"
+      ],
+      "selected_options": [
+        "A、核对车牌、车型及司机信息"
+      ],
+      "answer": [
+        "A、核对车牌、车型及司机信息"
+      ],
+      "answer_labels": [
+        "A"
+      ],
+      "selected_options_labels": [
+        "A"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "A"
+      ],
+      "platform_answer": [
+        "A、核对车牌、车型及司机信息"
+      ],
+      "candidate_selected_options": [
+        "A、核对车牌、车型及司机信息",
+        "B、坐副驾驶座便于指路",
+        "C、上车后调整空调温度",
+        "D、要求司机走最短路线"
+      ]
+    },
+    {
+      "number": 62,
+      "type": "单选题",
+      "question": "62、年满( )周岁的公民方可申领小型机动车驾驶证。",
+      "options": [
+        "A、14",
+        "B、16",
+        "C、18",
+        "D、15"
+      ],
+      "selected_options": [
+        "C、18"
+      ],
+      "answer": [
+        "C、18"
+      ],
+      "answer_labels": [
+        "C"
+      ],
+      "selected_options_labels": [
+        "C"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "C"
+      ],
+      "platform_answer": [
+        "C、18"
+      ],
+      "candidate_selected_options": [
+        "A、14",
+        "B、16",
+        "C、18",
+        "D、15"
+      ]
+    },
+    {
+      "number": 63,
+      "type": "单选题",
+      "question": "63、高速公路限速标志标明的最高时速不得超过( )公里 / 小时。",
+      "options": [
+        "A、100",
+        "B、120",
+        "C、130",
+        "D、150"
+      ],
+      "selected_options": [
+        "B、120"
+      ],
+      "answer": [
+        "B、120"
+      ],
+      "answer_labels": [
+        "B"
+      ],
+      "selected_options_labels": [
+        "B"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "B"
+      ],
+      "platform_answer": [
+        "B、120"
+      ],
+      "candidate_selected_options": [
+        "A、100",
+        "B、120",
+        "C、130",
+        "D、150"
+      ]
+    },
+    {
+      "number": 64,
+      "type": "多选题",
+      "question": "64、暴雨天步行需避免的行为是:",
+      "options": [
+        "A、在机动车道行走避雨",
+        "B、穿荧光色雨衣",
+        "C、 用雨伞完全遮挡前方视线",
+        "D、绕开积水井盖"
+      ],
+      "selected_options": [
+        "A、在机动车道行走避雨",
+        "C、 用雨伞完全遮挡前方视线"
+      ],
+      "answer": [
+        "A、在机动车道行走避雨",
+        "C、 用雨伞完全遮挡前方视线"
+      ],
+      "answer_labels": [
+        "A",
+        "C"
+      ],
+      "selected_options_labels": [
+        "A",
+        "C"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "A",
+        "C"
+      ],
+      "platform_answer": [
+        "A、在机动车道行走避雨",
+        "C、 用雨伞完全遮挡前方视线"
+      ],
+      "candidate_selected_options": [
+        "A、在机动车道行走避雨",
+        "B、穿荧光色雨衣",
+        "C、 用雨伞完全遮挡前方视线",
+        "D、绕开积水井盖"
+      ]
+    },
+    {
+      "number": 65,
+      "type": "单选题",
+      "question": "65、暴雨积水路段通行原则是:",
+      "options": [
+        "A、跟随前车轨迹",
+        "B、水位不超轮胎1/2可缓行",
+        "C、加速冲过溅起水花",
+        "D、下车徒步探路"
+      ],
+      "selected_options": [
+        "B、水位不超轮胎1/2可缓行"
+      ],
+      "answer": [
+        "B、水位不超轮胎1/2可缓行"
+      ],
+      "answer_labels": [
+        "B"
+      ],
+      "selected_options_labels": [
+        "B"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "B"
+      ],
+      "platform_answer": [
+        "B、水位不超轮胎1/2可缓行"
+      ],
+      "candidate_selected_options": [
+        "A、跟随前车轨迹",
+        "B、水位不超轮胎1/2可缓行",
+        "C、加速冲过溅起水花",
+        "D、下车徒步探路"
+      ]
+    },
+    {
+      "number": 66,
+      "type": "单选题",
+      "question": "66、雨天骑行安全隐患最大的是:",
+      "options": [
+        "A、穿透明雨衣遮挡视线",
+        "B、单手持伞骑行",
+        "C、佩戴防水手套",
+        "D、降低胎压防滑"
+      ],
+      "selected_options": [
+        "B、单手持伞骑行"
+      ],
+      "answer": [
+        "B、单手持伞骑行"
+      ],
+      "answer_labels": [
+        "B"
+      ],
+      "selected_options_labels": [
+        "B"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "B"
+      ],
+      "platform_answer": [
+        "B、单手持伞骑行"
+      ],
+      "candidate_selected_options": [
+        "A、穿透明雨衣遮挡视线",
+        "B、单手持伞骑行",
+        "C、佩戴防水手套",
+        "D、降低胎压防滑"
+      ]
+    },
+    {
+      "number": 67,
+      "type": "单选题",
+      "question": "67、醉酒驾驶机动车的,由公安机关交通管理部门约束至酒醒,吊销机动车驾驶证,依法追究刑事责任 ( )内不得重新取得机动车驾驶证",
+      "options": [
+        "A、1 年",
+        "B、2 年",
+        "C、5 年",
+        "D、10 年"
+      ],
+      "selected_options": [
+        "C、5 年"
+      ],
+      "answer": [
+        "C、5 年"
+      ],
+      "answer_labels": [
+        "C"
+      ],
+      "selected_options_labels": [
+        "C"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "C"
+      ],
+      "platform_answer": [
+        "C、5 年"
+      ],
+      "candidate_selected_options": [
+        "A、1 年",
+        "B、2 年",
+        "C、5 年",
+        "D、10 年"
+      ]
+    },
+    {
+      "number": 68,
+      "type": "单选题",
+      "question": "68、从众闯红灯的心理动因是:",
+      "options": [
+        "A、提高通行效率",
+        "B、责任分散效应",
+        "C、遵守交通规则",
+        "D、显示个人勇气"
+      ],
+      "selected_options": [
+        "B、责任分散效应"
+      ],
+      "answer": [
+        "B、责任分散效应"
+      ],
+      "answer_labels": [
+        "B"
+      ],
+      "selected_options_labels": [
+        "B"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "B"
+      ],
+      "platform_answer": [
+        "B、责任分散效应"
+      ],
+      "candidate_selected_options": [
+        "A、提高通行效率",
+        "B、责任分散效应",
+        "C、遵守交通规则",
+        "D、显示个人勇气"
+      ]
+    },
+    {
+      "number": 69,
+      "type": "多选题",
+      "question": "69、过马路时必须遵守的规则?",
+      "options": [
+        "A、走人行横道",
+        "B、按信号灯指示通行",
+        "C、车辆少时可跑步通过",
+        "D、观察左右来车"
+      ],
+      "selected_options": [
+        "A、走人行横道",
+        "B、按信号灯指示通行",
+        "D、观察左右来车"
+      ],
+      "answer": [
+        "A、走人行横道",
+        "B、按信号灯指示通行",
+        "D、观察左右来车"
+      ],
+      "answer_labels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "selected_options_labels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "platform_answer": [
+        "A、走人行横道",
+        "B、按信号灯指示通行",
+        "D、观察左右来车"
+      ],
+      "candidate_selected_options": [
+        "A、走人行横道",
+        "B、按信号灯指示通行",
+        "C、车辆少时可跑步通过",
+        "D、观察左右来车"
+      ]
+    },
+    {
+      "number": 70,
+      "type": "单选题",
+      "question": "70、雨天行车安全操作错误的是:",
+      "options": [
+        "A、开启雾灯和示廓灯",
+        "B、急踩刹车避免打滑",
+        "C、保持车距降低车速",
+        "D、避免急打方向盘"
+      ],
+      "selected_options": [
+        "B、急踩刹车避免打滑"
+      ],
+      "answer": [
+        "B、急踩刹车避免打滑"
+      ],
+      "answer_labels": [
+        "B"
+      ],
+      "selected_options_labels": [
+        "B"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "B"
+      ],
+      "platform_answer": [
+        "B、急踩刹车避免打滑"
+      ],
+      "candidate_selected_options": [
+        "A、开启雾灯和示廓灯",
+        "B、急踩刹车避免打滑",
+        "C、保持车距降低车速",
+        "D、避免急打方向盘"
+      ]
+    },
+    {
+      "number": 71,
+      "type": "单选题",
+      "question": "71、校园周边遇到交通事故,且有人员受伤时,你的第一反应应该是?",
+      "options": [
+        "A、立即上前查看伤者情况，并进行救治",
+        "B、迅速离开现场，避免麻烦",
+        "C、拨打急救电话，并在保证自身安全的前提下提供必要的帮助",
+        "D、拍照留念，然后发到社交媒体上"
+      ],
+      "selected_options": [
+        "C、拨打急救电话，并在保证自身安全的前提下提供必要的帮助"
+      ],
+      "answer": [
+        "C、拨打急救电话，并在保证自身安全的前提下提供必要的帮助"
+      ],
+      "answer_labels": [
+        "C"
+      ],
+      "selected_options_labels": [
+        "C"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "C"
+      ],
+      "platform_answer": [
+        "C、拨打急救电话，并在保证自身安全的前提下提供必要的帮助"
+      ],
+      "candidate_selected_options": [
+        "A、立即上前查看伤者情况，并进行救治",
+        "B、迅速离开现场，避免麻烦",
+        "C、拨打急救电话，并在保证自身安全的前提下提供必要的帮助",
+        "D、拍照留念，然后发到社交媒体上"
+      ]
+    },
+    {
+      "number": 72,
+      "type": "单选题",
+      "question": "72、乘坐大客车外出意外失火,车门无法打开,应(),尽快逃生",
+      "options": [
+        "A、砸碎前挡风玻璃",
+        "B、砸碎侧窗玻璃",
+        "C、撬开车门",
+        "D、先行灭火,再撬开车门"
+      ],
+      "selected_options": [
+        "B、砸碎侧窗玻璃"
+      ],
+      "answer": [
+        "B、砸碎侧窗玻璃"
+      ],
+      "answer_labels": [
+        "B"
+      ],
+      "selected_options_labels": [
+        "B"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "B"
+      ],
+      "platform_answer": [
+        "B、砸碎侧窗玻璃"
+      ],
+      "candidate_selected_options": [
+        "A、砸碎前挡风玻璃",
+        "B、砸碎侧窗玻璃",
+        "C、撬开车门",
+        "D、先行灭火,再撬开车门"
+      ]
+    },
+    {
+      "number": 73,
+      "type": "多选题",
+      "question": "73、隧道行车错误行为?",
+      "options": [
+        "A、保持车距",
+        "B、随意变道",
+        "C、开启远光灯",
+        "D、停车休息"
+      ],
+      "selected_options": [
+        "B、随意变道",
+        "C、开启远光灯",
+        "D、停车休息"
+      ],
+      "answer": [
+        "B、随意变道",
+        "C、开启远光灯",
+        "D、停车休息"
+      ],
+      "answer_labels": [
+        "B",
+        "C",
+        "D"
+      ],
+      "selected_options_labels": [
+        "B",
+        "C",
+        "D"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "B",
+        "C",
+        "D"
+      ],
+      "platform_answer": [
+        "B、随意变道",
+        "C、开启远光灯",
+        "D、停车休息"
+      ],
+      "candidate_selected_options": [
+        "A、保持车距",
+        "B、随意变道",
+        "C、开启远光灯",
+        "D、停车休息"
+      ]
+    },
+    {
+      "number": 74,
+      "type": "单选题",
+      "question": "74、将机动车借给无证同学驾驶,车主需承担:",
+      "options": [
+        "A、无责任",
+        "B、连带法律责任",
+        "C、道德谴责",
+        "D、车辆维修费"
+      ],
+      "selected_options": [
+        "B、连带法律责任"
+      ],
+      "answer": [
+        "B、连带法律责任"
+      ],
+      "answer_labels": [
+        "B"
+      ],
+      "selected_options_labels": [
+        "B"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "B"
+      ],
+      "platform_answer": [
+        "B、连带法律责任"
+      ],
+      "candidate_selected_options": [
+        "A、无责任",
+        "B、连带法律责任",
+        "C、道德谴责",
+        "D、车辆维修费"
+      ]
+    },
+    {
+      "number": 75,
+      "type": "多选题",
+      "question": "75、机动车( )、必须按照国家规定投保机动车第三者责任强制保险。",
+      "options": [
+        "A、使用人",
+        "B、所有人",
+        "C、借用人",
+        "D、管理人"
+      ],
+      "selected_options": [
+        "B、所有人",
+        "D、管理人"
+      ],
+      "answer": [
+        "B、所有人",
+        "D、管理人"
+      ],
+      "answer_labels": [
+        "B",
+        "D"
+      ],
+      "selected_options_labels": [
+        "B",
+        "D"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "B",
+        "D"
+      ],
+      "platform_answer": [
+        "B、所有人",
+        "D、管理人"
+      ],
+      "candidate_selected_options": [
+        "A、使用人",
+        "B、所有人",
+        "C、借用人",
+        "D、管理人"
+      ]
+    },
+    {
+      "number": 76,
+      "type": "多选题",
+      "question": "76、通过无信号灯路口时,应如何确认安全?",
+      "options": [
+        "A、观察左右车辆是否完全停止",
+        "B、跟随人群快速通过",
+        "C、确认车辆主动减速让行",
+        "D、低头看手机地图"
+      ],
+      "selected_options": [
+        "A、观察左右车辆是否完全停止",
+        "C、确认车辆主动减速让行"
+      ],
+      "answer": [
+        "A、观察左右车辆是否完全停止",
+        "C、确认车辆主动减速让行"
+      ],
+      "answer_labels": [
+        "A",
+        "C"
+      ],
+      "selected_options_labels": [
+        "A",
+        "C"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "A",
+        "C"
+      ],
+      "platform_answer": [
+        "A、观察左右车辆是否完全停止",
+        "C、确认车辆主动减速让行"
+      ],
+      "candidate_selected_options": [
+        "A、观察左右车辆是否完全停止",
+        "B、跟随人群快速通过",
+        "C、确认车辆主动减速让行",
+        "D、低头看手机地图"
+      ]
+    },
+    {
+      "number": 77,
+      "type": "单选题",
+      "question": "77、预防交通事故的积极措施是 ( ) 。",
+      "options": [
+        "A、减少坐车",
+        "B、提高预防交通事故的防范能力",
+        "C、购买保险",
+        "D、减少外出"
+      ],
+      "selected_options": [
+        "B、提高预防交通事故的防范能力"
+      ],
+      "answer": [
+        "B、提高预防交通事故的防范能力"
+      ],
+      "answer_labels": [
+        "B"
+      ],
+      "selected_options_labels": [
+        "B"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "B"
+      ],
+      "platform_answer": [
+        "B、提高预防交通事故的防范能力"
+      ],
+      "candidate_selected_options": [
+        "A、减少坐车",
+        "B、提高预防交通事故的防范能力",
+        "C、购买保险",
+        "D、减少外出"
+      ]
+    },
+    {
+      "number": 78,
+      "type": "多选题",
+      "question": "78、醉酒驾驶机动车的,由公安机关交通管理部门( )。",
+      "options": [
+        "A、约束至酒醒",
+        "B、吊销机动车驾驶证",
+        "C、依法追究刑事责任",
+        "D、五年内不得重新取得机动车驾驶证"
+      ],
+      "selected_options": [
+        "A、约束至酒醒",
+        "B、吊销机动车驾驶证",
+        "C、依法追究刑事责任",
+        "D、五年内不得重新取得机动车驾驶证"
+      ],
+      "answer": [
+        "A、约束至酒醒",
+        "B、吊销机动车驾驶证",
+        "C、依法追究刑事责任",
+        "D、五年内不得重新取得机动车驾驶证"
+      ],
+      "answer_labels": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "selected_options_labels": [],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "platform_answer": [
+        "A、约束至酒醒",
+        "B、吊销机动车驾驶证",
+        "C、依法追究刑事责任",
+        "D、五年内不得重新取得机动车驾驶证"
+      ]
+    },
+    {
+      "number": 79,
+      "type": "单选题",
+      "question": "79、当骑行非机动车遇到没有非机动车道的特殊路段时,应该 ( )。",
+      "options": [
+        "A、在人行横道骑行",
+        "B、在机动车道骑行",
+        "C、人行横道和机动车道均可骑行",
+        "D、在人行横道下车推行"
+      ],
+      "selected_options": [
+        "D、在人行横道下车推行"
+      ],
+      "answer": [
+        "D、在人行横道下车推行"
+      ],
+      "answer_labels": [
+        "D"
+      ],
+      "selected_options_labels": [
+        "D"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "D"
+      ],
+      "platform_answer": [
+        "D、在人行横道下车推行"
+      ],
+      "candidate_selected_options": [
+        "A、在人行横道骑行",
+        "B、在机动车道骑行",
+        "C、人行横道和机动车道均可骑行",
+        "D、在人行横道下车推行"
+      ]
+    },
+    {
+      "number": 80,
+      "type": "单选题",
+      "question": "80、下列哪项行为在校园内是被鼓励的?",
+      "options": [
+        "A、骑自行车逆行",
+        "B、遵守交通规则，礼让行人",
+        "C、在机动车道上追逐嬉戏",
+        "D、随意横穿马路"
+      ],
+      "selected_options": [
+        "B、遵守交通规则，礼让行人"
+      ],
+      "answer": [
+        "B、遵守交通规则，礼让行人"
+      ],
+      "answer_labels": [
+        "B"
+      ],
+      "selected_options_labels": [
+        "B"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "B"
+      ],
+      "platform_answer": [
+        "B、遵守交通规则，礼让行人"
+      ],
+      "candidate_selected_options": [
+        "A、骑自行车逆行",
+        "B、遵守交通规则，礼让行人",
+        "C、在机动车道上追逐嬉戏",
+        "D、随意横穿马路"
+      ]
+    },
+    {
+      "number": 81,
+      "type": "单选题",
+      "question": "81、当你走出校门,准备过马路去对面公交站时,应该怎么做?",
+      "options": [
+        "A、直接冲过马路，因为车辆会避让行人",
+        "B、等待绿灯亮起，走人行横道过马路",
+        "C、观察路况，确认无车后快速通过",
+        "D、跟随其他行人一起过马路，无需考虑红绿灯"
+      ],
+      "selected_options": [
+        "B、等待绿灯亮起，走人行横道过马路"
+      ],
+      "answer": [
+        "B、等待绿灯亮起，走人行横道过马路"
+      ],
+      "answer_labels": [
+        "B"
+      ],
+      "selected_options_labels": [
+        "B"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "B"
+      ],
+      "platform_answer": [
+        "B、等待绿灯亮起，走人行横道过马路"
+      ],
+      "candidate_selected_options": [
+        "A、直接冲过马路，因为车辆会避让行人",
+        "B、等待绿灯亮起，走人行横道过马路",
+        "C、观察路况，确认无车后快速通过",
+        "D、跟随其他行人一起过马路，无需考虑红绿灯"
+      ]
+    },
+    {
+      "number": 82,
+      "type": "多选题",
+      "question": "82、道路交通安全工作,应当遵循( )原则,保障道路交通有序、安全、畅通。",
+      "options": [
+        "A、防范为先",
+        "B、依法管理",
+        "C、方便群众",
+        "D、严厉打击"
+      ],
+      "selected_options": [
+        "B、依法管理",
+        "C、方便群众"
+      ],
+      "answer": [
+        "B、依法管理",
+        "C、方便群众"
+      ],
+      "answer_labels": [
+        "B",
+        "C"
+      ],
+      "selected_options_labels": [
+        "B",
+        "C"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "B",
+        "C"
+      ],
+      "platform_answer": [
+        "B、依法管理",
+        "C、方便群众"
+      ],
+      "candidate_selected_options": [
+        "A、防范为先",
+        "B、依法管理",
+        "C、方便群众",
+        "D、严厉打击"
+      ]
+    },
+    {
+      "number": 83,
+      "type": "单选题",
+      "question": "83、驾驶电动车在雨天遇到撑雨伞和穿雨衣的行人在路边行走怎样礼让?",
+      "options": [
+        "A、以正常速度行驶",
+        "B、临近鸣喇叭示意",
+        "C、加速从左侧绕行",
+        "D、提前减速鸣喇叭"
+      ],
+      "selected_options": [
+        "D、提前减速鸣喇叭"
+      ],
+      "answer": [
+        "D、提前减速鸣喇叭"
+      ],
+      "answer_labels": [
+        "D"
+      ],
+      "selected_options_labels": [
+        "D"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "D"
+      ],
+      "platform_answer": [
+        "D、提前减速鸣喇叭"
+      ],
+      "candidate_selected_options": [
+        "A、以正常速度行驶",
+        "B、临近鸣喇叭示意",
+        "C、加速从左侧绕行",
+        "D、提前减速鸣喇叭"
+      ]
+    },
+    {
+      "number": 84,
+      "type": "多选题",
+      "question": "84、“低头族”步行可能引发的风险包括:",
+      "options": [
+        "A、撞到电线杆或树木",
+        "B、未察觉台阶或坑洼",
+        "C、手机电池过热",
+        "D、忽视转弯车辆"
+      ],
+      "selected_options": [
+        "A、撞到电线杆或树木",
+        "B、未察觉台阶或坑洼",
+        "D、忽视转弯车辆"
+      ],
+      "answer": [
+        "A、撞到电线杆或树木",
+        "B、未察觉台阶或坑洼",
+        "D、忽视转弯车辆"
+      ],
+      "answer_labels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "selected_options_labels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "platform_answer": [
+        "A、撞到电线杆或树木",
+        "B、未察觉台阶或坑洼",
+        "D、忽视转弯车辆"
+      ],
+      "candidate_selected_options": [
+        "A、撞到电线杆或树木",
+        "B、未察觉台阶或坑洼",
+        "C、手机电池过热",
+        "D、忽视转弯车辆"
+      ]
+    },
+    {
+      "number": 85,
+      "type": "单选题",
+      "question": "85、遇大型车辆转弯应:",
+      "options": [
+        "A、加速从内弯超车",
+        "B、保持距离避免内轮差区域",
+        "C、鸣笛提醒司机注意",
+        "D、跟随其转弯路径"
+      ],
+      "selected_options": [
+        "B、保持距离避免内轮差区域"
+      ],
+      "answer": [
+        "B、保持距离避免内轮差区域"
+      ],
+      "answer_labels": [
+        "B"
+      ],
+      "selected_options_labels": [
+        "B"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "B"
+      ],
+      "platform_answer": [
+        "B、保持距离避免内轮差区域"
+      ],
+      "candidate_selected_options": [
+        "A、加速从内弯超车",
+        "B、保持距离避免内轮差区域",
+        "C、鸣笛提醒司机注意",
+        "D、跟随其转弯路径"
+      ]
+    },
+    {
+      "number": 86,
+      "type": "单选题",
+      "question": "86、可以一边骑车一边看手机。",
+      "options": [
+        "A、正确",
+        "B、错误"
+      ],
+      "selected_options": [
+        "B、错误"
+      ],
+      "answer": [
+        "B、错误"
+      ],
+      "answer_labels": [
+        "B"
+      ],
+      "selected_options_labels": [
+        "B"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "B"
+      ],
+      "platform_answer": [
+        "B、错误"
+      ],
+      "candidate_selected_options": [
+        "A、正确",
+        "B、错误"
+      ]
+    },
+    {
+      "number": 87,
+      "type": "多选题",
+      "question": "87、公安交通管理部门有权对下列情形之一的机动车实施强制牵引( )。",
+      "options": [
+        "A、对交通违法行为有异议的",
+        "B、违章停放的",
+        "C、发生交通事故不能行驶的",
+        "D、发生故障不能行驶，影响道路畅通的"
+      ],
+      "selected_options": [
+        "B、违章停放的",
+        "C、发生交通事故不能行驶的",
+        "D、发生故障不能行驶，影响道路畅通的"
+      ],
+      "answer": [
+        "B、违章停放的",
+        "C、发生交通事故不能行驶的",
+        "D、发生故障不能行驶，影响道路畅通的"
+      ],
+      "answer_labels": [
+        "B",
+        "C",
+        "D"
+      ],
+      "selected_options_labels": [
+        "B",
+        "C",
+        "D"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "B",
+        "C",
+        "D"
+      ],
+      "platform_answer": [
+        "B、违章停放的",
+        "C、发生交通事故不能行驶的",
+        "D、发生故障不能行驶，影响道路畅通的"
+      ],
+      "candidate_selected_options": [
+        "A、对交通违法行为有异议的",
+        "B、违章停放的",
+        "C、发生交通事故不能行驶的",
+        "D、发生故障不能行驶，影响道路畅通的"
+      ]
+    },
+    {
+      "number": 88,
+      "type": "单选题",
+      "question": "88、当你在校园内看到交通事故发生时,首先应当",
+      "options": [
+        "A、立即上前帮忙处理",
+        "B、拨打紧急电话并保护现场",
+        "C、拍照发朋友圈",
+        "D、迅速离开现场"
+      ],
+      "selected_options": [
+        "B、拨打紧急电话并保护现场"
+      ],
+      "answer": [
+        "B、拨打紧急电话并保护现场"
+      ],
+      "answer_labels": [
+        "B"
+      ],
+      "selected_options_labels": [
+        "B"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "B"
+      ],
+      "platform_answer": [
+        "B、拨打紧急电话并保护现场"
+      ],
+      "candidate_selected_options": [
+        "A、立即上前帮忙处理",
+        "B、拨打紧急电话并保护现场",
+        "C、拍照发朋友圈",
+        "D、迅速离开现场"
+      ]
+    },
+    {
+      "number": 89,
+      "type": "单选题",
+      "question": "89、当你骑着电动车穿过校园内的十字路口,且没有交通信号灯时,你应该怎么做?",
+      "options": [
+        "A、加速通过，避免等待",
+        "B、鸣笛示意后快速通过",
+        "C、减速慢行，观察四周，确保安全后再通过",
+        "D、随意穿行，因为校园内车速不快"
+      ],
+      "selected_options": [
+        "C、减速慢行，观察四周，确保安全后再通过"
+      ],
+      "answer": [
+        "C、减速慢行，观察四周，确保安全后再通过"
+      ],
+      "answer_labels": [
+        "C"
+      ],
+      "selected_options_labels": [
+        "C"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "C"
+      ],
+      "platform_answer": [
+        "C、减速慢行，观察四周，确保安全后再通过"
+      ],
+      "candidate_selected_options": [
+        "A、加速通过，避免等待",
+        "B、鸣笛示意后快速通过",
+        "C、减速慢行，观察四周，确保安全后再通过",
+        "D、随意穿行，因为校园内车速不快"
+      ]
+    },
+    {
+      "number": 90,
+      "type": "多选题",
+      "question": "90、交通信号包括哪几类( )。",
+      "options": [
+        "A、交通信号灯",
+        "B、交通标志",
+        "C、交通标线",
+        "D、交通警察的指挥"
+      ],
+      "selected_options": [
+        "A、交通信号灯",
+        "B、交通标志",
+        "C、交通标线",
+        "D、交通警察的指挥"
+      ],
+      "answer": [
+        "A、交通信号灯",
+        "B、交通标志",
+        "C、交通标线",
+        "D、交通警察的指挥"
+      ],
+      "answer_labels": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "selected_options_labels": [],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "platform_answer": [
+        "A、交通信号灯",
+        "B、交通标志",
+        "C、交通标线",
+        "D、交通警察的指挥"
+      ]
+    },
+    {
+      "number": 91,
+      "type": "单选题",
+      "question": "91、当你看到前方有同学在校园道路上骑行自行车并打电话时,你应该",
+      "options": [
+        "A、加速超过他",
+        "B、减速慢行，保持距离",
+        "C、鸣笛示意他注意",
+        "D、立即上前提醒他"
+      ],
+      "selected_options": [
+        "B、减速慢行，保持距离"
+      ],
+      "answer": [
+        "B、减速慢行，保持距离"
+      ],
+      "answer_labels": [
+        "B"
+      ],
+      "selected_options_labels": [
+        "B"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "B"
+      ],
+      "platform_answer": [
+        "B、减速慢行，保持距离"
+      ],
+      "candidate_selected_options": [
+        "A、加速超过他",
+        "B、减速慢行，保持距离",
+        "C、鸣笛示意他注意",
+        "D、立即上前提醒他"
+      ]
+    },
+    {
+      "number": 92,
+      "type": "多选题",
+      "question": "92、根据道路条件和通行需要,道路划分为( )",
+      "options": [
+        "A、盲道",
+        "B、人行道",
+        "C、非机动车道",
+        "D、机动车道"
+      ],
+      "selected_options": [
+        "B、人行道",
+        "C、非机动车道",
+        "D、机动车道"
+      ],
+      "answer": [
+        "B、人行道",
+        "C、非机动车道",
+        "D、机动车道"
+      ],
+      "answer_labels": [
+        "B",
+        "C",
+        "D"
+      ],
+      "selected_options_labels": [
+        "B",
+        "C",
+        "D"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "B",
+        "C",
+        "D"
+      ],
+      "platform_answer": [
+        "B、人行道",
+        "C、非机动车道",
+        "D、机动车道"
+      ],
+      "candidate_selected_options": [
+        "A、盲道",
+        "B、人行道",
+        "C、非机动车道",
+        "D、机动车道"
+      ]
+    },
+    {
+      "number": 93,
+      "type": "多选题",
+      "question": "93、非机动车通过有交通信号灯控制的交叉路口,应当( )。",
+      "options": [
+        "A、转弯的车让直行的车，行人优先通行",
+        "B、前方路口交通阻塞时，不得进入路口",
+        "C、左转弯时，靠路口中心点的右侧转弯",
+        "D、遇有停止信号时，应当依次停在路口停止线以外，没有停止线的，停在路口以外"
+      ],
+      "selected_options": [
+        "A、转弯的车让直行的车，行人优先通行",
+        "B、前方路口交通阻塞时，不得进入路口",
+        "C、左转弯时，靠路口中心点的右侧转弯",
+        "D、遇有停止信号时，应当依次停在路口停止线以外，没有停止线的，停在路口以外"
+      ],
+      "answer": [
+        "A、转弯的车让直行的车，行人优先通行",
+        "B、前方路口交通阻塞时，不得进入路口",
+        "C、左转弯时，靠路口中心点的右侧转弯",
+        "D、遇有停止信号时，应当依次停在路口停止线以外，没有停止线的，停在路口以外"
+      ],
+      "answer_labels": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "selected_options_labels": [],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "platform_answer": [
+        "A、转弯的车让直行的车，行人优先通行",
+        "B、前方路口交通阻塞时，不得进入路口",
+        "C、左转弯时，靠路口中心点的右侧转弯",
+        "D、遇有停止信号时，应当依次停在路口停止线以外，没有停止线的，停在路口以外"
+      ]
+    },
+    {
+      "number": 94,
+      "type": "单选题",
+      "question": "94、通过无信号灯的斑马线时,正确做法是:",
+      "options": [
+        "A、低头快速跑过马路",
+        "B、伸手示意车辆后匀速通过",
+        "C、确认所有车辆停车后再通过",
+        "D、跟随人群直接通行"
+      ],
+      "selected_options": [
+        "C、确认所有车辆停车后再通过"
+      ],
+      "answer": [
+        "C、确认所有车辆停车后再通过"
+      ],
+      "answer_labels": [
+        "C"
+      ],
+      "selected_options_labels": [
+        "C"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "C"
+      ],
+      "platform_answer": [
+        "C、确认所有车辆停车后再通过"
+      ],
+      "candidate_selected_options": [
+        "A、低头快速跑过马路",
+        "B、伸手示意车辆后匀速通过",
+        "C、确认所有车辆停车后再通过",
+        "D、跟随人群直接通行"
+      ]
+    },
+    {
+      "number": 95,
+      "type": "单选题",
+      "question": "95、《中华人民共和国道路交通安全法》属于( )。",
+      "options": [
+        "A、法律",
+        "B、法规",
+        "C、部门规章",
+        "D、规范性文件"
+      ],
+      "selected_options": [
+        "A、法律"
+      ],
+      "answer": [
+        "A、法律"
+      ],
+      "answer_labels": [
+        "A"
+      ],
+      "selected_options_labels": [
+        "A"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "A"
+      ],
+      "platform_answer": [
+        "A、法律"
+      ],
+      "candidate_selected_options": [
+        "A、法律",
+        "B、法规",
+        "C、部门规章",
+        "D、规范性文件"
+      ]
+    },
+    {
+      "number": 96,
+      "type": "单选题",
+      "question": "96、出租车内发现司机疲劳驾驶应:",
+      "options": [
+        "A、播放激烈音乐提神",
+        "B、主动聊天使其清醒",
+        "C、要求停车休息或换乘",
+        "D、递送功能饮料"
+      ],
+      "selected_options": [
+        "C、要求停车休息或换乘"
+      ],
+      "answer": [
+        "C、要求停车休息或换乘"
+      ],
+      "answer_labels": [
+        "C"
+      ],
+      "selected_options_labels": [
+        "C"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "C"
+      ],
+      "platform_answer": [
+        "C、要求停车休息或换乘"
+      ],
+      "candidate_selected_options": [
+        "A、播放激烈音乐提神",
+        "B、主动聊天使其清醒",
+        "C、要求停车休息或换乘",
+        "D、递送功能饮料"
+      ]
+    },
+    {
+      "number": 97,
+      "type": "多选题",
+      "question": "97、行人在道路上不得有下列哪些行为?",
+      "options": [
+        "A、在道路上使用滑行工具",
+        "B、在行车道内坐卧、停留、嬉闹",
+        "C、追车",
+        "D、抛物击车"
+      ],
+      "selected_options": [
+        "A、在道路上使用滑行工具",
+        "B、在行车道内坐卧、停留、嬉闹",
+        "C、追车",
+        "D、抛物击车"
+      ],
+      "answer": [
+        "A、在道路上使用滑行工具",
+        "B、在行车道内坐卧、停留、嬉闹",
+        "C、追车",
+        "D、抛物击车"
+      ],
+      "answer_labels": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "selected_options_labels": [],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "platform_answer": [
+        "A、在道路上使用滑行工具",
+        "B、在行车道内坐卧、停留、嬉闹",
+        "C、追车",
+        "D、抛物击车"
+      ]
+    },
+    {
+      "number": 98,
+      "type": "单选题",
+      "question": "98、聚会后同学驾车,发现其饮酒应:",
+      "options": [
+        "A、相信其驾驶技术",
+        "B、联系代驾或改乘出租",
+        "C、打开车窗通风",
+        "D、提醒其慢速行驶"
+      ],
+      "selected_options": [
+        "B、联系代驾或改乘出租"
+      ],
+      "answer": [
+        "B、联系代驾或改乘出租"
+      ],
+      "answer_labels": [
+        "B"
+      ],
+      "selected_options_labels": [
+        "B"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "B"
+      ],
+      "platform_answer": [
+        "B、联系代驾或改乘出租"
+      ],
+      "candidate_selected_options": [
+        "A、相信其驾驶技术",
+        "B、联系代驾或改乘出租",
+        "C、打开车窗通风",
+        "D、提醒其慢速行驶"
+      ]
+    },
+    {
+      "number": 99,
+      "type": "单选题",
+      "question": "99、机动车驾驶人初次申领机动车驾驶证后的( )为实习期。",
+      "options": [
+        "A、3个月",
+        "B、6个月",
+        "C、12个月",
+        "D、8个月"
+      ],
+      "selected_options": [
+        "C、12个月"
+      ],
+      "answer": [
+        "C、12个月"
+      ],
+      "answer_labels": [
+        "C"
+      ],
+      "selected_options_labels": [
+        "C"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "C"
+      ],
+      "platform_answer": [
+        "C、12个月"
+      ],
+      "candidate_selected_options": [
+        "A、3个月",
+        "B、6个月",
+        "C、12个月",
+        "D、8个月"
+      ]
+    },
+    {
+      "number": 100,
+      "type": "单选题",
+      "question": "100、校园内设立的“斑马线”主要用于什么目的?",
+      "options": [
+        "A、装饰校园，美化环境",
+        "B、划分不同区域，避免混乱",
+        "C、提醒学生这里是拍照打卡的好地方",
+        "D、帮助学生安全穿越马路或路段"
+      ],
+      "selected_options": [
+        "D、帮助学生安全穿越马路或路段"
+      ],
+      "answer": [
+        "D、帮助学生安全穿越马路或路段"
+      ],
+      "answer_labels": [
+        "D"
+      ],
+      "selected_options_labels": [
+        "D"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "D"
+      ],
+      "platform_answer": [
+        "D、帮助学生安全穿越马路或路段"
+      ],
+      "candidate_selected_options": [
+        "A、装饰校园，美化环境",
+        "B、划分不同区域，避免混乱",
+        "C、提醒学生这里是拍照打卡的好地方",
+        "D、帮助学生安全穿越马路或路段"
+      ]
+    }
+  ]
+}

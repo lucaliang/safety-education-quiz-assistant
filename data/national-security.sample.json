@@ -1,0 +1,4090 @@
+{
+  "category": "国家安全",
+  "source_url": "https://gdse.guet.edu.cn/#/learn/nationalSecurity",
+  "collection_mode": "browser_feedback_learning",
+  "collected_at": "2026-08-13",
+  "answer_source": "platform_feedback_after_selection_and_next",
+  "verification_status": "platform_displayed",
+  "items": [
+    {
+      "number": 1,
+      "type": "多选题",
+      "question": "在境外受胁迫或者受诱骗参加（ ）组织，从事危害中华人民共和国国家安全的活动，及时向中华人民共和国驻外机构如实说明情况，或者入境后直接或者通过所在单位及时向国家安全机关、公安机关如实说明情况，并有悔改表现的，可以不予追究。",
+      "options": [
+        "A、间谍",
+        "B、敌对",
+        "C、政治",
+        "D、恐怖"
+      ],
+      "selected_options": [
+        "A、间谍",
+        "B、敌对"
+      ],
+      "answer": [
+        "A、间谍",
+        "B、敌对"
+      ],
+      "answer_labels": [
+        "A",
+        "B"
+      ],
+      "selected_options_labels": [
+        "A",
+        "B"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "A",
+        "B"
+      ],
+      "platform_answer": [
+        "A、间谍",
+        "B、敌对"
+      ],
+      "verification_note": "Platform feedback A B compared using normalized unordered option text."
+    },
+    {
+      "number": 2,
+      "type": "单选题",
+      "question": "2、任何个人和组织都不得非法持有、使用间谍活动特殊需要的专用间谍器材。专用间谍器材由( )依照国家有关规定确认。",
+      "options": [
+        "A、国务院国家安全主管部门",
+        "B、特种器材鉴定中心",
+        "C、公安部",
+        "D、工商总局"
+      ],
+      "selected_options": [
+        "A、国务院国家安全主管部门"
+      ],
+      "answer": [
+        "A、国务院国家安全主管部门"
+      ],
+      "answer_labels": [
+        "A"
+      ],
+      "selected_options_labels": [
+        "A"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "A"
+      ],
+      "platform_answer": [
+        "A、国务院国家安全主管部门"
+      ],
+      "candidate_selected_options": [
+        "A、国务院国家安全主管部门",
+        "B、特种器材鉴定中心",
+        "C、公安部",
+        "D、工商总局"
+      ]
+    },
+    {
+      "number": 3,
+      "type": "多选题",
+      "question": "3、为确保人民群众“舌尖上的安全”,我国采取了一系列治理措施,下列选项中属于食品药品监管举措的特征的表述有( )。",
+      "options": [
+        "A、最严厉处罚",
+        "B、最严肃问责",
+        "C、最严谨标准",
+        "D、最严格监管"
+      ],
+      "selected_options": [
+        "A、最严厉处罚",
+        "B、最严肃问责",
+        "C、最严谨标准",
+        "D、最严格监管"
+      ],
+      "answer": [
+        "A、最严厉处罚",
+        "B、最严肃问责",
+        "C、最严谨标准",
+        "D、最严格监管"
+      ],
+      "answer_labels": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "selected_options_labels": [],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "platform_answer": [
+        "A、最严厉处罚",
+        "B、最严肃问责",
+        "C、最严谨标准",
+        "D、最严格监管"
+      ]
+    },
+    {
+      "number": 4,
+      "type": "多选题",
+      "question": "4、习近平总书记在十九届中央国家安全委员会第一次会议上指出,全面贯彻落实总体国家安全观,必须做到“五个坚持 ”,下列选项中属于“五个坚持 ”的有( )。",
+      "options": [
+        "A、坚持统筹发展和安全两件大事",
+        "B、坚持维护和塑造国家安全",
+        "C、坚持人民安全、政治安全、国家利益至上的有机统一",
+        "D、坚持立足于防，又有效处置风险"
+      ],
+      "selected_options": [
+        "A、坚持统筹发展和安全两件大事",
+        "B、坚持维护和塑造国家安全",
+        "C、坚持人民安全、政治安全、国家利益至上的有机统一",
+        "D、坚持立足于防，又有效处置风险"
+      ],
+      "answer": [
+        "A、坚持统筹发展和安全两件大事",
+        "B、坚持维护和塑造国家安全",
+        "C、坚持人民安全、政治安全、国家利益至上的有机统一",
+        "D、坚持立足于防，又有效处置风险"
+      ],
+      "answer_labels": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "selected_options_labels": [],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "platform_answer": [
+        "A、坚持统筹发展和安全两件大事",
+        "B、坚持维护和塑造国家安全",
+        "C、坚持人民安全、政治安全、国家利益至上的有机统一",
+        "D、坚持立足于防，又有效处置风险"
+      ]
+    },
+    {
+      "number": 5,
+      "type": "多选题",
+      "question": "5、根据《国家安全法》的规定,公民和组织拥有的权利有( )。",
+      "options": [
+        "A、控告权",
+        "B、批评建议的权利",
+        "C、检举权",
+        "D、起诉权"
+      ],
+      "selected_options": [
+        "A、控告权",
+        "B、批评建议的权利",
+        "C、检举权"
+      ],
+      "answer": [
+        "A、控告权",
+        "B、批评建议的权利",
+        "C、检举权"
+      ],
+      "answer_labels": [
+        "A",
+        "B",
+        "C"
+      ],
+      "selected_options_labels": [
+        "A",
+        "B",
+        "C"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "A",
+        "B",
+        "C"
+      ],
+      "platform_answer": [
+        "A、控告权",
+        "B、批评建议的权利",
+        "C、检举权"
+      ],
+      "candidate_selected_options": [
+        "A、控告权",
+        "B、批评建议的权利",
+        "C、检举权",
+        "D、起诉权"
+      ]
+    },
+    {
+      "number": 6,
+      "type": "多选题",
+      "question": "6、小张是一名退伍军人,在北京旅游期间,发现旅行团有2名外国游客形迹可疑,多次徘徊在军事管理区附近拍照。根据《国家安全法》规定,下列行为正确的是( )。",
+      "options": [
+        "A、拨打 12339 举报电话，向国家安全机关报告",
+        "B、若条件允许，记录该2名游客形迹可疑的证据",
+        "C、就近向该军事管理区报告",
+        "D、多一事不如少一事，不去理睬"
+      ],
+      "selected_options": [
+        "A、拨打 12339 举报电话，向国家安全机关报告",
+        "B、若条件允许，记录该2名游客形迹可疑的证据",
+        "C、就近向该军事管理区报告"
+      ],
+      "answer": [
+        "A、拨打 12339 举报电话，向国家安全机关报告",
+        "B、若条件允许，记录该2名游客形迹可疑的证据",
+        "C、就近向该军事管理区报告"
+      ],
+      "answer_labels": [
+        "A",
+        "B",
+        "C"
+      ],
+      "selected_options_labels": [
+        "A",
+        "B",
+        "C"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "A",
+        "B",
+        "C"
+      ],
+      "platform_answer": [
+        "A、拨打 12339 举报电话，向国家安全机关报告",
+        "B、若条件允许，记录该2名游客形迹可疑的证据",
+        "C、就近向该军事管理区报告"
+      ],
+      "candidate_selected_options": [
+        "A、拨打 12339 举报电话，向国家安全机关报告",
+        "B、若条件允许，记录该2名游客形迹可疑的证据",
+        "C、就近向该军事管理区报告",
+        "D、多一事不如少一事，不去理睬"
+      ]
+    },
+    {
+      "number": 7,
+      "type": "单选题",
+      "question": "7、7.在学校里无意中发现了一些非法的宣传品、信函或者发现了很可疑的人等,该怎么处理?",
+      "options": [
+        "A、传给同学看",
+        "B、及时上交或者报告学校保卫处",
+        "C、销毁",
+        "D、留下"
+      ],
+      "selected_options": [
+        "B、及时上交或者报告学校保卫处"
+      ],
+      "answer": [
+        "B、及时上交或者报告学校保卫处"
+      ],
+      "answer_labels": [
+        "B"
+      ],
+      "selected_options_labels": [
+        "B"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "B"
+      ],
+      "platform_answer": [
+        "B、及时上交或者报告学校保卫处"
+      ],
+      "candidate_selected_options": [
+        "A、传给同学看",
+        "B、及时上交或者报告学校保卫处",
+        "C、销毁",
+        "D、留下"
+      ]
+    },
+    {
+      "number": 8,
+      "type": "单选题",
+      "question": "8、习近平总书记针对国际安全问题指出:“既重视自身安全,又重视共同安全,打造( ),推动各方朝着互利互惠、共同安全的目标相向而行。 ”",
+      "options": [
+        "A、共同安全体",
+        "B、综合安全体",
+        "C、命运共同体",
+        "D、安全共同体"
+      ],
+      "selected_options": [
+        "C、命运共同体"
+      ],
+      "answer": [
+        "C、命运共同体"
+      ],
+      "answer_labels": [
+        "C"
+      ],
+      "selected_options_labels": [
+        "C"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "C"
+      ],
+      "platform_answer": [
+        "C、命运共同体"
+      ],
+      "candidate_selected_options": [
+        "A、共同安全体",
+        "B、综合安全体",
+        "C、命运共同体",
+        "D、安全共同体"
+      ]
+    },
+    {
+      "number": 9,
+      "type": "单选题",
+      "question": "9、《反间谍法》的立法依据是( )。",
+      "options": [
+        "A、刑法",
+        "B、宪法",
+        "C、刑事诉讼法",
+        "D、全国人大的决议"
+      ],
+      "selected_options": [
+        "B、宪法"
+      ],
+      "answer": [
+        "B、宪法"
+      ],
+      "answer_labels": [
+        "B"
+      ],
+      "selected_options_labels": [
+        "B"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "B"
+      ],
+      "platform_answer": [
+        "B、宪法"
+      ],
+      "candidate_selected_options": [
+        "A、刑法",
+        "B、宪法",
+        "C、刑事诉讼法",
+        "D、全国人大的决议"
+      ]
+    },
+    {
+      "number": 10,
+      "type": "单选题",
+      "question": "10、在国家安全机关调查了解有关间谍行为的情况、收集有关证据时,有关组织和个人应当( ),不得拒绝。",
+      "options": [
+        "A、坦白交代",
+        "B、尽量配合",
+        "C、如实提供",
+        "D、酌情说明"
+      ],
+      "selected_options": [
+        "C、如实提供"
+      ],
+      "answer": [
+        "C、如实提供"
+      ],
+      "answer_labels": [
+        "C"
+      ],
+      "selected_options_labels": [
+        "C"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "C"
+      ],
+      "platform_answer": [
+        "C、如实提供"
+      ],
+      "candidate_selected_options": [
+        "A、坦白交代",
+        "B、尽量配合",
+        "C、如实提供",
+        "D、酌情说明"
+      ]
+    },
+    {
+      "number": 11,
+      "type": "单选题",
+      "question": "11、国家安全机关受理公民和组织举报电话为( )。",
+      "options": [
+        "A、12335",
+        "B、12339",
+        "C、12345",
+        "D、12399"
+      ],
+      "selected_options": [
+        "B、12339"
+      ],
+      "answer": [
+        "B、12339"
+      ],
+      "answer_labels": [
+        "B"
+      ],
+      "selected_options_labels": [
+        "B"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "B"
+      ],
+      "platform_answer": [
+        "B、12339"
+      ],
+      "candidate_selected_options": [
+        "A、12335",
+        "B、12339",
+        "C、12345",
+        "D、12399"
+      ]
+    },
+    {
+      "number": 12,
+      "type": "单选题",
+      "question": "12、在军事禁区周边飞无人机,违反的法律包括?",
+      "options": [
+        "A、治安管理处罚法",
+        "B、军事设施保护法",
+        "C、民用航空法",
+        "D、以上都是"
+      ],
+      "selected_options": [
+        "D、以上都是"
+      ],
+      "answer": [
+        "D、以上都是"
+      ],
+      "answer_labels": [
+        "D"
+      ],
+      "selected_options_labels": [
+        "D"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "D"
+      ],
+      "platform_answer": [
+        "D、以上都是"
+      ],
+      "candidate_selected_options": [
+        "A、治安管理处罚法",
+        "B、军事设施保护法",
+        "C、民用航空法",
+        "D、以上都是"
+      ]
+    },
+    {
+      "number": 13,
+      "type": "多选题",
+      "question": "13、维护国家( )是包括港澳同胞和台湾同胞在内的全中国人民的共同义务。",
+      "options": [
+        "A、利益",
+        "B、主权",
+        "C、统一",
+        "D、领土完整"
+      ],
+      "selected_options": [
+        "B、主权",
+        "C、统一",
+        "D、领土完整"
+      ],
+      "answer": [
+        "B、主权",
+        "C、统一",
+        "D、领土完整"
+      ],
+      "answer_labels": [
+        "B",
+        "C",
+        "D"
+      ],
+      "selected_options_labels": [
+        "B",
+        "C",
+        "D"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "B",
+        "C",
+        "D"
+      ],
+      "platform_answer": [
+        "B、主权",
+        "C、统一",
+        "D、领土完整"
+      ],
+      "candidate_selected_options": [
+        "A、利益",
+        "B、主权",
+        "C、统一",
+        "D、领土完整"
+      ]
+    },
+    {
+      "number": 14,
+      "type": "多选题",
+      "question": "14、党的十九届四中全会审议通过的《中共中央关于坚持和完善中国特色社会主义制度、推进国家治理体系和治理能力现代化若干重大问题的决定》指出,严格依照宪法和基本法对香港特别行政区、澳门特别行政区实行 管治,坚定维护国家主权、安全、发展利益,绝不容忍( )。",
+      "options": [
+        "A、任何挑战“ 一国两制 ”底线的行为",
+        "B、任何损害港、澳利益的行为",
+        "C、任何分裂国家的行为",
+        "D、任何破坏法治的行为"
+      ],
+      "selected_options": [
+        "A、任何挑战“ 一国两制 ”底线的行为",
+        "C、任何分裂国家的行为"
+      ],
+      "answer": [
+        "A、任何挑战“ 一国两制 ”底线的行为",
+        "C、任何分裂国家的行为"
+      ],
+      "answer_labels": [
+        "A",
+        "C"
+      ],
+      "selected_options_labels": [
+        "A",
+        "C"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "A",
+        "C"
+      ],
+      "platform_answer": [
+        "A、任何挑战“ 一国两制 ”底线的行为",
+        "C、任何分裂国家的行为"
+      ],
+      "candidate_selected_options": [
+        "A、任何挑战“ 一国两制 ”底线的行为",
+        "B、任何损害港、澳利益的行为",
+        "C、任何分裂国家的行为",
+        "D、任何破坏法治的行为"
+      ]
+    },
+    {
+      "number": 15,
+      "type": "单选题",
+      "question": "15、坚持总体国家安全观, 以( )为宗旨。",
+      "options": [
+        "A、人民安全",
+        "B、政治安全",
+        "C、经济安全",
+        "D、社会安全"
+      ],
+      "selected_options": [
+        "A、人民安全"
+      ],
+      "answer": [
+        "A、人民安全"
+      ],
+      "answer_labels": [
+        "A"
+      ],
+      "selected_options_labels": [
+        "A"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "A"
+      ],
+      "platform_answer": [
+        "A、人民安全"
+      ],
+      "candidate_selected_options": [
+        "A、人民安全",
+        "B、政治安全",
+        "C、经济安全",
+        "D、社会安全"
+      ]
+    },
+    {
+      "number": 16,
+      "type": "单选题",
+      "question": "16、根据维护国家安全工作的需要,国家依法保护有关机关专门( )的身份和合法权益,加大人身保护和安置保障力度。",
+      "options": [
+        "A、国家安全机关工作人员",
+        "B、公安机关工作人员",
+        "C、从事国家安全工作人员",
+        "D、军事机关工作人员"
+      ],
+      "selected_options": [
+        "C、从事国家安全工作人员"
+      ],
+      "answer": [
+        "C、从事国家安全工作人员"
+      ],
+      "answer_labels": [
+        "C"
+      ],
+      "selected_options_labels": [
+        "C"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "C"
+      ],
+      "platform_answer": [
+        "C、从事国家安全工作人员"
+      ],
+      "candidate_selected_options": [
+        "A、国家安全机关工作人员",
+        "B、公安机关工作人员",
+        "C、从事国家安全工作人员",
+        "D、军事机关工作人员"
+      ]
+    },
+    {
+      "number": 17,
+      "type": "多选题",
+      "question": "17、《国家安全法》第二章依次明确国家安全各领域重点任务,其中属于维护“人民安全”任务是:( )。",
+      "options": [
+        "A、国家维护和发展最广大人民的根本利益",
+        "B、国家保卫人民安全",
+        "C、国家创造良好生存发展条件和安定工作生活环境",
+        "D、国家保障公民的生命财产安全"
+      ],
+      "selected_options": [
+        "A、国家维护和发展最广大人民的根本利益",
+        "B、国家保卫人民安全",
+        "C、国家创造良好生存发展条件和安定工作生活环境",
+        "D、国家保障公民的生命财产安全"
+      ],
+      "answer": [
+        "A、国家维护和发展最广大人民的根本利益",
+        "B、国家保卫人民安全",
+        "C、国家创造良好生存发展条件和安定工作生活环境",
+        "D、国家保障公民的生命财产安全"
+      ],
+      "answer_labels": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "selected_options_labels": [],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "platform_answer": [
+        "A、国家维护和发展最广大人民的根本利益",
+        "B、国家保卫人民安全",
+        "C、国家创造良好生存发展条件和安定工作生活环境",
+        "D、国家保障公民的生命财产安全"
+      ]
+    },
+    {
+      "number": 18,
+      "type": "多选题",
+      "question": "18、目前,大国网络安全博弈,不单是技术博弈,还是( )。",
+      "options": [
+        "A、理论博弈",
+        "B、理念博弈",
+        "C、权利博弈",
+        "D、话语权博弈"
+      ],
+      "selected_options": [
+        "B、理念博弈",
+        "D、话语权博弈"
+      ],
+      "answer": [
+        "B、理念博弈",
+        "D、话语权博弈"
+      ],
+      "answer_labels": [
+        "B",
+        "D"
+      ],
+      "selected_options_labels": [
+        "B",
+        "D"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "B",
+        "D"
+      ],
+      "platform_answer": [
+        "B、理念博弈",
+        "D、话语权博弈"
+      ],
+      "candidate_selected_options": [
+        "A、理论博弈",
+        "B、理念博弈",
+        "C、权利博弈",
+        "D、话语权博弈"
+      ]
+    },
+    {
+      "number": 19,
+      "type": "单选题",
+      "question": "19、国家安全体系中的“构成要素”有( )个。",
+      "options": [
+        "A、9",
+        "B、10",
+        "C、11",
+        "D、12"
+      ],
+      "selected_options": [
+        "D、12"
+      ],
+      "answer": [
+        "D、12"
+      ],
+      "answer_labels": [
+        "D"
+      ],
+      "selected_options_labels": [
+        "D"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "D"
+      ],
+      "platform_answer": [
+        "D、12"
+      ],
+      "candidate_selected_options": [
+        "A、9",
+        "B、10",
+        "C、11",
+        "D、12"
+      ]
+    },
+    {
+      "number": 20,
+      "type": "单选题",
+      "question": "20、我国第一部《国家安全法》是( )年出台的。",
+      "options": [
+        "A、1993",
+        "B、1994",
+        "C、1995",
+        "D、1996"
+      ],
+      "selected_options": [
+        "A、1993"
+      ],
+      "answer": [
+        "A、1993"
+      ],
+      "answer_labels": [
+        "A"
+      ],
+      "selected_options_labels": [
+        "A"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "A"
+      ],
+      "platform_answer": [
+        "A、1993"
+      ],
+      "candidate_selected_options": [
+        "A、1993",
+        "B、1994",
+        "C、1995",
+        "D、1996"
+      ]
+    },
+    {
+      "number": 21,
+      "type": "单选题",
+      "question": "21、在校园中发现有人有失密、泄密事件,上报哪个机关是错误的?",
+      "options": [
+        "A、国家安全机关",
+        "B、国家公安机关",
+        "C、国家安全机关、国家公安机关，学校保卫部门或学院",
+        "D、国家司法机关"
+      ],
+      "selected_options": [
+        "D、国家司法机关"
+      ],
+      "answer": [
+        "D、国家司法机关"
+      ],
+      "answer_labels": [
+        "D"
+      ],
+      "selected_options_labels": [
+        "D"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "D"
+      ],
+      "platform_answer": [
+        "D、国家司法机关"
+      ],
+      "candidate_selected_options": [
+        "A、国家安全机关",
+        "B、国家公安机关",
+        "C、国家安全机关、国家公安机关，学校保卫部门或学院",
+        "D、国家司法机关"
+      ]
+    },
+    {
+      "number": 22,
+      "type": "单选题",
+      "question": "22、下列哪个活动是迷信活动?",
+      "options": [
+        "A、笔仙",
+        "B、学生组织的舞会",
+        "C、广场舞",
+        "D、学校绘画社团"
+      ],
+      "selected_options": [
+        "A、笔仙"
+      ],
+      "answer": [
+        "A、笔仙"
+      ],
+      "answer_labels": [
+        "A"
+      ],
+      "selected_options_labels": [
+        "A"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "A"
+      ],
+      "platform_answer": [
+        "A、笔仙"
+      ],
+      "candidate_selected_options": [
+        "A、笔仙",
+        "B、学生组织的舞会",
+        "C、广场舞",
+        "D、学校绘画社团"
+      ]
+    },
+    {
+      "number": 23,
+      "type": "多选题",
+      "question": "23、下列关于政治安全重要性表述正确的有( )",
+      "options": [
+        "A、政治安全攸关党和国家安危，是国家安全的根本",
+        "B、政治安全是维护人民安全和国家利益的根本保障",
+        "C、政治安全是坚持和发展中国特色社会主义的根本前提",
+        "D、政治安全是全面践行总体国家安全观的根本要求"
+      ],
+      "selected_options": [
+        "A、政治安全攸关党和国家安危，是国家安全的根本",
+        "B、政治安全是维护人民安全和国家利益的根本保障",
+        "C、政治安全是坚持和发展中国特色社会主义的根本前提",
+        "D、政治安全是全面践行总体国家安全观的根本要求"
+      ],
+      "answer": [
+        "A、政治安全攸关党和国家安危，是国家安全的根本",
+        "B、政治安全是维护人民安全和国家利益的根本保障",
+        "C、政治安全是坚持和发展中国特色社会主义的根本前提",
+        "D、政治安全是全面践行总体国家安全观的根本要求"
+      ],
+      "answer_labels": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "selected_options_labels": [],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "platform_answer": [
+        "A、政治安全攸关党和国家安危，是国家安全的根本",
+        "B、政治安全是维护人民安全和国家利益的根本保障",
+        "C、政治安全是坚持和发展中国特色社会主义的根本前提",
+        "D、政治安全是全面践行总体国家安全观的根本要求"
+      ]
+    },
+    {
+      "number": 24,
+      "type": "单选题",
+      "question": "24、《国家安全法》所界定的“ 国家安全 ”不包括( )。",
+      "options": [
+        "A、文化安全",
+        "B、个人隐私安全",
+        "C、生态安全",
+        "D、核安全"
+      ],
+      "selected_options": [
+        "B、个人隐私安全"
+      ],
+      "answer": [
+        "B、个人隐私安全"
+      ],
+      "answer_labels": [
+        "B"
+      ],
+      "selected_options_labels": [
+        "B"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "B"
+      ],
+      "platform_answer": [
+        "B、个人隐私安全"
+      ],
+      "candidate_selected_options": [
+        "A、文化安全",
+        "B、个人隐私安全",
+        "C、生态安全",
+        "D、核安全"
+      ]
+    },
+    {
+      "number": 25,
+      "type": "单选题",
+      "question": "25、下面列举了一些事件,你知道哪个是属于恐怖活动吗",
+      "options": [
+        "A、美国9.11恐怖事件",
+        "B、2014年某高校学生因为父亲与他人的债务纠纷，被债主劫持",
+        "C、2014年马来西亚航空的一个航班失联",
+        "D、高校学生跟宿舍人员发生纠纷，打架斗殴"
+      ],
+      "selected_options": [
+        "A、美国9.11恐怖事件"
+      ],
+      "answer": [
+        "A、美国9.11恐怖事件"
+      ],
+      "answer_labels": [
+        "A"
+      ],
+      "selected_options_labels": [
+        "A"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "A"
+      ],
+      "platform_answer": [
+        "A、美国9.11恐怖事件"
+      ],
+      "candidate_selected_options": [
+        "A、美国9.11恐怖事件",
+        "B、2014年某高校学生因为父亲与他人的债务纠纷，被债主劫持",
+        "C、2014年马来西亚航空的一个航班失联",
+        "D、高校学生跟宿舍人员发生纠纷，打架斗殴"
+      ]
+    },
+    {
+      "number": 26,
+      "type": "多选题",
+      "question": "26、下列哪些行为,构成犯罪的,依法追究刑事责任。( )",
+      "options": [
+        "A、明知他人有间谍犯罪行为，在国家安全机关向其调查有关情况、收集有关证据时，拒绝提供",
+        "B、以暴力、威胁方法阻碍国家安全机关依法执行任务的",
+        "C、故意阻碍国家安全机关依法执行任务，未使用暴力、威胁方法，造成严重后果的",
+        "D、泄露有关反间谍工作的国家秘密",
+        "E、非法持有属于国家秘密的文件、资料和其他物品",
+        "F、隐藏、转移、变卖、损毁国家安全机关依法查封、扣押、冻结的财物",
+        "G、明知是间谍活动的涉案财物而窝藏、转移、收购、代为销售或者以其他方法掩饰、隐瞒"
+      ],
+      "selected_options": [
+        "A、明知他人有间谍犯罪行为，在国家安全机关向其调查有关情况、收集有关证据时，拒绝提供",
+        "B、以暴力、威胁方法阻碍国家安全机关依法执行任务的",
+        "C、故意阻碍国家安全机关依法执行任务，未使用暴力、威胁方法，造成严重后果的",
+        "D、泄露有关反间谍工作的国家秘密",
+        "E、非法持有属于国家秘密的文件、资料和其他物品",
+        "F、隐藏、转移、变卖、损毁国家安全机关依法查封、扣押、冻结的财物",
+        "G、明知是间谍活动的涉案财物而窝藏、转移、收购、代为销售或者以其他方法掩饰、隐瞒"
+      ],
+      "answer": [
+        "A、明知他人有间谍犯罪行为，在国家安全机关向其调查有关情况、收集有关证据时，拒绝提供",
+        "B、以暴力、威胁方法阻碍国家安全机关依法执行任务的",
+        "C、故意阻碍国家安全机关依法执行任务，未使用暴力、威胁方法，造成严重后果的",
+        "D、泄露有关反间谍工作的国家秘密",
+        "E、非法持有属于国家秘密的文件、资料和其他物品",
+        "F、隐藏、转移、变卖、损毁国家安全机关依法查封、扣押、冻结的财物",
+        "G、明知是间谍活动的涉案财物而窝藏、转移、收购、代为销售或者以其他方法掩饰、隐瞒"
+      ],
+      "answer_labels": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "selected_options_labels": [],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "platform_answer": [
+        "A、明知他人有间谍犯罪行为，在国家安全机关向其调查有关情况、收集有关证据时，拒绝提供",
+        "B、以暴力、威胁方法阻碍国家安全机关依法执行任务的",
+        "C、故意阻碍国家安全机关依法执行任务，未使用暴力、威胁方法，造成严重后果的",
+        "D、泄露有关反间谍工作的国家秘密",
+        "E、非法持有属于国家秘密的文件、资料和其他物品",
+        "F、隐藏、转移、变卖、损毁国家安全机关依法查封、扣押、冻结的财物",
+        "G、明知是间谍活动的涉案财物而窝藏、转移、收购、代为销售或者以其他方法掩饰、隐瞒"
+      ]
+    },
+    {
+      "number": 27,
+      "type": "单选题",
+      "question": "27、关于维护国家安全的责任和义务,下列不负有此项义务的是()",
+      "options": [
+        "A、台湾公民张某",
+        "B、香港某科技公司",
+        "C、美籍华人李某",
+        "D、在美留学生刘某"
+      ],
+      "selected_options": [
+        "C、美籍华人李某"
+      ],
+      "answer": [
+        "C、美籍华人李某"
+      ],
+      "answer_labels": [
+        "C"
+      ],
+      "selected_options_labels": [
+        "C"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "C"
+      ],
+      "platform_answer": [
+        "C、美籍华人李某"
+      ],
+      "candidate_selected_options": [
+        "A、台湾公民张某",
+        "B、香港某科技公司",
+        "C、美籍华人李某",
+        "D、在美留学生刘某"
+      ]
+    },
+    {
+      "number": 28,
+      "type": "多选题",
+      "question": "28、党的二十大报告明确要求,坚持总体国家安全观,要统筹( )。",
+      "options": [
+        "A、外部安全和内部安全",
+        "B、国土安全和国民安全",
+        "C、传统安全和非传统安全",
+        "D、自身安全和共同安全"
+      ],
+      "selected_options": [
+        "A、外部安全和内部安全",
+        "B、国土安全和国民安全",
+        "C、传统安全和非传统安全",
+        "D、自身安全和共同安全"
+      ],
+      "answer": [
+        "A、外部安全和内部安全",
+        "B、国土安全和国民安全",
+        "C、传统安全和非传统安全",
+        "D、自身安全和共同安全"
+      ],
+      "answer_labels": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "selected_options_labels": [],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "platform_answer": [
+        "A、外部安全和内部安全",
+        "B、国土安全和国民安全",
+        "C、传统安全和非传统安全",
+        "D、自身安全和共同安全"
+      ]
+    },
+    {
+      "number": 29,
+      "type": "单选题",
+      "question": "29、国家安全机关依法执行任务时,公民应?",
+      "options": [
+        "A、索要报酬",
+        "B、提供便利条件",
+        "C、拍摄视频上传",
+        "D、拒绝配合"
+      ],
+      "selected_options": [
+        "B、提供便利条件"
+      ],
+      "answer": [
+        "B、提供便利条件"
+      ],
+      "answer_labels": [
+        "B"
+      ],
+      "selected_options_labels": [
+        "B"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "B"
+      ],
+      "platform_answer": [
+        "B、提供便利条件"
+      ],
+      "candidate_selected_options": [
+        "A、索要报酬",
+        "B、提供便利条件",
+        "C、拍摄视频上传",
+        "D、拒绝配合"
+      ]
+    },
+    {
+      "number": 30,
+      "type": "单选题",
+      "question": "30、坚持总体国家安全观,以( )为依托。",
+      "options": [
+        "A、促进国际安全",
+        "B、社会安全",
+        "C、文化安全",
+        "D、国土安全"
+      ],
+      "selected_options": [
+        "A、促进国际安全"
+      ],
+      "answer": [
+        "A、促进国际安全"
+      ],
+      "answer_labels": [
+        "A"
+      ],
+      "selected_options_labels": [
+        "A"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "A"
+      ],
+      "platform_answer": [
+        "A、促进国际安全"
+      ],
+      "candidate_selected_options": [
+        "A、促进国际安全",
+        "B、社会安全",
+        "C、文化安全",
+        "D、国土安全"
+      ]
+    },
+    {
+      "number": 31,
+      "type": "单选题",
+      "question": "31、坚持总体国家安全观, 以( )为根本。",
+      "options": [
+        "A、人民安全",
+        "B、政治安全",
+        "C、经济安全",
+        "D、社会安全"
+      ],
+      "selected_options": [
+        "B、政治安全"
+      ],
+      "answer": [
+        "B、政治安全"
+      ],
+      "answer_labels": [
+        "B"
+      ],
+      "selected_options_labels": [
+        "B"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "B"
+      ],
+      "platform_answer": [
+        "B、政治安全"
+      ],
+      "candidate_selected_options": [
+        "A、人民安全",
+        "B、政治安全",
+        "C、经济安全",
+        "D、社会安全"
+      ]
+    },
+    {
+      "number": 32,
+      "type": "单选题",
+      "question": "32、近年来,我国民间()活动日益发达、为维护国家安全发挥着独特作用",
+      "options": [
+        "A、公共关系",
+        "B、公共外交",
+        "C、对外贸易",
+        "D、保安工作"
+      ],
+      "selected_options": [
+        "B、公共外交"
+      ],
+      "answer": [
+        "B、公共外交"
+      ],
+      "answer_labels": [
+        "B"
+      ],
+      "selected_options_labels": [
+        "B"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "B"
+      ],
+      "platform_answer": [
+        "B、公共外交"
+      ],
+      "candidate_selected_options": [
+        "A、公共关系",
+        "B、公共外交",
+        "C、对外贸易",
+        "D、保安工作"
+      ]
+    },
+    {
+      "number": 33,
+      "type": "多选题",
+      "question": "33、维护国家安全,既要依靠专门机关,又要依靠广大人民群众的理解、支持和参与,这是国家安全工作的政治优势和重要原则,下列关于这一原则表述正确的有( )。",
+      "options": [
+        "A、坚持专门工作与群众路线相结合原则夯实国家安全工作群众基础",
+        "B、坚持以人民群众为主，专门机关辅助的作法，让敌人陷于人民战争中",
+        "C、要广泛依靠全社会力量，发挥广大人民群众积极性",
+        "D、可以形成专门机关为骨干，广大人民群众广泛参与的工作格局"
+      ],
+      "selected_options": [
+        "A、坚持专门工作与群众路线相结合原则夯实国家安全工作群众基础",
+        "C、要广泛依靠全社会力量，发挥广大人民群众积极性",
+        "D、可以形成专门机关为骨干，广大人民群众广泛参与的工作格局"
+      ],
+      "answer": [
+        "A、坚持专门工作与群众路线相结合原则夯实国家安全工作群众基础",
+        "C、要广泛依靠全社会力量，发挥广大人民群众积极性",
+        "D、可以形成专门机关为骨干，广大人民群众广泛参与的工作格局"
+      ],
+      "answer_labels": [
+        "A",
+        "C",
+        "D"
+      ],
+      "selected_options_labels": [
+        "A",
+        "C",
+        "D"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "A",
+        "C",
+        "D"
+      ],
+      "platform_answer": [
+        "A、坚持专门工作与群众路线相结合原则夯实国家安全工作群众基础",
+        "C、要广泛依靠全社会力量，发挥广大人民群众积极性",
+        "D、可以形成专门机关为骨干，广大人民群众广泛参与的工作格局"
+      ],
+      "candidate_selected_options": [
+        "A、坚持专门工作与群众路线相结合原则夯实国家安全工作群众基础",
+        "B、坚持以人民群众为主，专门机关辅助的作法，让敌人陷于人民战争中",
+        "C、要广泛依靠全社会力量，发挥广大人民群众积极性",
+        "D、可以形成专门机关为骨干，广大人民群众广泛参与的工作格局"
+      ]
+    },
+    {
+      "number": 34,
+      "type": "单选题",
+      "question": "34、邪教一般会打着什么旗号招揽信众?",
+      "options": [
+        "A、宗教",
+        "B、气功",
+        "C、宗教、气功、传统文化等",
+        "D、旅游"
+      ],
+      "selected_options": [
+        "C、宗教、气功、传统文化等"
+      ],
+      "answer": [
+        "C、宗教、气功、传统文化等"
+      ],
+      "answer_labels": [
+        "C"
+      ],
+      "selected_options_labels": [
+        "C"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "C"
+      ],
+      "platform_answer": [
+        "C、宗教、气功、传统文化等"
+      ],
+      "candidate_selected_options": [
+        "A、宗教",
+        "B、气功",
+        "C、宗教、气功、传统文化等",
+        "D、旅游"
+      ]
+    },
+    {
+      "number": 35,
+      "type": "单选题",
+      "question": "35、911事件后人们意识到了什么也会对人类安全构成严重威胁?",
+      "options": [
+        "A、毒品犯罪",
+        "B、恐怖活动",
+        "C、跨国犯罪",
+        "D、走私犯罪"
+      ],
+      "selected_options": [
+        "B、恐怖活动"
+      ],
+      "answer": [
+        "B、恐怖活动"
+      ],
+      "answer_labels": [
+        "B"
+      ],
+      "selected_options_labels": [
+        "B"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "B"
+      ],
+      "platform_answer": [
+        "B、恐怖活动"
+      ],
+      "candidate_selected_options": [
+        "A、毒品犯罪",
+        "B、恐怖活动",
+        "C、跨国犯罪",
+        "D、走私犯罪"
+      ]
+    },
+    {
+      "number": 36,
+      "type": "多选题",
+      "question": "36、党的十九大报告指出,有效维护国家安全,要严密防范和坚持打击各种( )。",
+      "options": [
+        "A、渗透颠覆破坏活动",
+        "B、暴力恐怖活动",
+        "C、黑恶势力活动",
+        "D、民族分裂活动、宗教极活动"
+      ],
+      "selected_options": [
+        "A、渗透颠覆破坏活动",
+        "B、暴力恐怖活动",
+        "D、民族分裂活动、宗教极活动"
+      ],
+      "answer": [
+        "A、渗透颠覆破坏活动",
+        "B、暴力恐怖活动",
+        "D、民族分裂活动、宗教极活动"
+      ],
+      "answer_labels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "selected_options_labels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "platform_answer": [
+        "A、渗透颠覆破坏活动",
+        "B、暴力恐怖活动",
+        "D、民族分裂活动、宗教极活动"
+      ],
+      "candidate_selected_options": [
+        "A、渗透颠覆破坏活动",
+        "B、暴力恐怖活动",
+        "C、黑恶势力活动",
+        "D、民族分裂活动、宗教极活动"
+      ]
+    },
+    {
+      "number": 37,
+      "type": "单选题",
+      "question": "37、遭遇恐怖枪击时,什么样的掩体比较安全?",
+      "options": [
+        "A、空间小的屋子里",
+        "B、实心物之后",
+        "C、玻璃门旁",
+        "D、空柜子后"
+      ],
+      "selected_options": [
+        "B、实心物之后"
+      ],
+      "answer": [
+        "B、实心物之后"
+      ],
+      "answer_labels": [
+        "B"
+      ],
+      "selected_options_labels": [
+        "B"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "B"
+      ],
+      "platform_answer": [
+        "B、实心物之后"
+      ],
+      "candidate_selected_options": [
+        "A、空间小的屋子里",
+        "B、实心物之后",
+        "C、玻璃门旁",
+        "D、空柜子后"
+      ]
+    },
+    {
+      "number": 38,
+      "type": "单选题",
+      "question": "38、国家安全的根本问题,就是( )。",
+      "options": [
+        "A、国家政治安全问题",
+        "B、国家政权安全问题",
+        "C、政权归属安全问题",
+        "D、人民主权安全问题"
+      ],
+      "selected_options": [
+        "A、国家政治安全问题"
+      ],
+      "answer": [
+        "A、国家政治安全问题"
+      ],
+      "answer_labels": [
+        "A"
+      ],
+      "selected_options_labels": [
+        "A"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "A"
+      ],
+      "platform_answer": [
+        "A、国家政治安全问题"
+      ],
+      "candidate_selected_options": [
+        "A、国家政治安全问题",
+        "B、国家政权安全问题",
+        "C、政权归属安全问题",
+        "D、人民主权安全问题"
+      ]
+    },
+    {
+      "number": 39,
+      "type": "单选题",
+      "question": "39、全国统一的反间谍举报电话是( )。",
+      "options": [
+        "A、12315",
+        "B、12335",
+        "C、12339",
+        "D、110"
+      ],
+      "selected_options": [
+        "C、12339"
+      ],
+      "answer": [
+        "C、12339"
+      ],
+      "answer_labels": [
+        "C"
+      ],
+      "selected_options_labels": [
+        "C"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "C"
+      ],
+      "platform_answer": [
+        "C、12339"
+      ],
+      "candidate_selected_options": [
+        "A、12315",
+        "B、12335",
+        "C、12339",
+        "D、110"
+      ]
+    },
+    {
+      "number": 40,
+      "type": "多选题",
+      "question": "40、维护我国网络空间安全,明确宣示主张,正确处理安全与发展、开放和自主、管理与服务的关系,推动互联网强国建设不断前进的能力包括( )。",
+      "options": [
+        "A、对互联网规律的把握能力",
+        "B、对网络舆论的引导能力",
+        "C、对信息化发展的驾驭能力",
+        "D、对网络安全的保障能力"
+      ],
+      "selected_options": [
+        "A、对互联网规律的把握能力",
+        "B、对网络舆论的引导能力",
+        "C、对信息化发展的驾驭能力",
+        "D、对网络安全的保障能力"
+      ],
+      "answer": [
+        "A、对互联网规律的把握能力",
+        "B、对网络舆论的引导能力",
+        "C、对信息化发展的驾驭能力",
+        "D、对网络安全的保障能力"
+      ],
+      "answer_labels": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "selected_options_labels": [],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "platform_answer": [
+        "A、对互联网规律的把握能力",
+        "B、对网络舆论的引导能力",
+        "C、对信息化发展的驾驭能力",
+        "D、对网络安全的保障能力"
+      ]
+    },
+    {
+      "number": 41,
+      "type": "多选题",
+      "question": "41、容易被迷信蛊惑的人群都有哪些?",
+      "options": [
+        "A、希望不劳而获的人",
+        "B、内心空虚的人",
+        "C、缺乏安全感的人",
+        "D、好奇心过强的人"
+      ],
+      "selected_options": [
+        "A、希望不劳而获的人",
+        "B、内心空虚的人",
+        "C、缺乏安全感的人",
+        "D、好奇心过强的人"
+      ],
+      "answer": [
+        "A、希望不劳而获的人",
+        "B、内心空虚的人",
+        "C、缺乏安全感的人",
+        "D、好奇心过强的人"
+      ],
+      "answer_labels": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "selected_options_labels": [],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "platform_answer": [
+        "A、希望不劳而获的人",
+        "B、内心空虚的人",
+        "C、缺乏安全感的人",
+        "D、好奇心过强的人"
+      ]
+    },
+    {
+      "number": 42,
+      "type": "单选题",
+      "question": "42、每年( )为全民国家安全教育日。",
+      "options": [
+        "A、12 月4 日",
+        "B、4 月 15 日",
+        "C、3 月 15 日",
+        "D、11 月 1 日"
+      ],
+      "selected_options": [
+        "B、4 月 15 日"
+      ],
+      "answer": [
+        "B、4 月 15 日"
+      ],
+      "answer_labels": [
+        "B"
+      ],
+      "selected_options_labels": [
+        "B"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "B"
+      ],
+      "platform_answer": [
+        "B、4 月 15 日"
+      ],
+      "candidate_selected_options": [
+        "A、12 月4 日",
+        "B、4 月 15 日",
+        "C、3 月 15 日",
+        "D、11 月 1 日"
+      ]
+    },
+    {
+      "number": 43,
+      "type": "单选题",
+      "question": "43、下列情形中属于宣传思想阵地中“黑色地带”的是()",
+      "options": [
+        "A、甲随手转发的某药企的“养生”广告",
+        "B、某法院线上直播开庭审理案件，乙在留言板参与讨论",
+        "C、某知名博主公开发表为“港独”暴乱进行开脱的文章",
+        "D、丁将自己录制的为抗疫前线医护人员加油祈福的视频传到社交平台"
+      ],
+      "selected_options": [
+        "C、某知名博主公开发表为“港独”暴乱进行开脱的文章"
+      ],
+      "answer": [
+        "C、某知名博主公开发表为“港独”暴乱进行开脱的文章"
+      ],
+      "answer_labels": [
+        "C"
+      ],
+      "selected_options_labels": [
+        "C"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "C"
+      ],
+      "platform_answer": [
+        "C、某知名博主公开发表为“港独”暴乱进行开脱的文章"
+      ],
+      "candidate_selected_options": [
+        "A、甲随手转发的某药企的“养生”广告",
+        "B、某法院线上直播开庭审理案件，乙在留言板参与讨论",
+        "C、某知名博主公开发表为“港独”暴乱进行开脱的文章",
+        "D、丁将自己录制的为抗疫前线医护人员加油祈福的视频传到社交平台"
+      ]
+    },
+    {
+      "number": 44,
+      "type": "单选题",
+      "question": "44、公民和组织发现间谍行为,应当及时向( )报告;向公安机关等其他国家机关、组织报告的,相关国家机关、组织应当立即移送国家安全机关处理。",
+      "options": [
+        "A、国家安全机关或者公安机关",
+        "B、公安机关",
+        "C、司法机关",
+        "D、国家安全机关"
+      ],
+      "selected_options": [
+        "D、国家安全机关"
+      ],
+      "answer": [
+        "D、国家安全机关"
+      ],
+      "answer_labels": [
+        "D"
+      ],
+      "selected_options_labels": [
+        "D"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "D"
+      ],
+      "platform_answer": [
+        "D、国家安全机关"
+      ],
+      "candidate_selected_options": [
+        "A、国家安全机关或者公安机关",
+        "B、公安机关",
+        "C、司法机关",
+        "D、国家安全机关"
+      ]
+    },
+    {
+      "number": 45,
+      "type": "单选题",
+      "question": "45、党的十九届四中全会审议通过的《中共中央关于坚持和完善中国特色社会主义制度、推进国家治理体系和治理能力现代化若干重大问题的决定》指出,坚持总体国家安全观,统筹发展和安全,坚持( )有机统一。",
+      "options": [
+        "A、经济安全、政治安全、社会安全",
+        "B、人民安全、政治安全、国家利益至上",
+        "C、国家主权、安全、发展利益",
+        "D、人民安全、政权安全、发展利益至上"
+      ],
+      "selected_options": [
+        "B、人民安全、政治安全、国家利益至上"
+      ],
+      "answer": [
+        "B、人民安全、政治安全、国家利益至上"
+      ],
+      "answer_labels": [
+        "B"
+      ],
+      "selected_options_labels": [
+        "B"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "B"
+      ],
+      "platform_answer": [
+        "B、人民安全、政治安全、国家利益至上"
+      ],
+      "candidate_selected_options": [
+        "A、经济安全、政治安全、社会安全",
+        "B、人民安全、政治安全、国家利益至上",
+        "C、国家主权、安全、发展利益",
+        "D、人民安全、政权安全、发展利益至上"
+      ]
+    },
+    {
+      "number": 46,
+      "type": "单选题",
+      "question": "46、根据《国家安全法》的规定,下列说法错误的是:( )",
+      "options": [
+        "A、公民支持、协助国家安全工作，有权要求国家安全机关、公安机关采取有效措施，防范、制止侵犯其合法权益的行为",
+        "B、公民享有言论、出版、集会、结社、游行、示威的自由，任何时候不受侵害",
+        "C、公民对国家机关及其工作人员在国家安全工作中的违法失职行为有提出申诉、控告和检举的权利",
+        "D、确因国家安全工作需要采取限制公民权利和自由的特别措施时，应当依法进行，并以维护国家安全的实际需要为限度"
+      ],
+      "selected_options": [
+        "B、公民享有言论、出版、集会、结社、游行、示威的自由，任何时候不受侵害"
+      ],
+      "answer": [
+        "B、公民享有言论、出版、集会、结社、游行、示威的自由，任何时候不受侵害"
+      ],
+      "answer_labels": [
+        "B"
+      ],
+      "selected_options_labels": [
+        "B"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "B"
+      ],
+      "platform_answer": [
+        "B、公民享有言论、出版、集会、结社、游行、示威的自由，任何时候不受侵害"
+      ],
+      "candidate_selected_options": [
+        "A、公民支持、协助国家安全工作，有权要求国家安全机关、公安机关采取有效措施，防范、制止侵犯其合法权益的行为",
+        "B、公民享有言论、出版、集会、结社、游行、示威的自由，任何时候不受侵害",
+        "C、公民对国家机关及其工作人员在国家安全工作中的违法失职行为有提出申诉、控告和检举的权利",
+        "D、确因国家安全工作需要采取限制公民权利和自由的特别措施时，应当依法进行，并以维护国家安全的实际需要为限度"
+      ]
+    },
+    {
+      "number": 47,
+      "type": "多选题",
+      "question": "47、党的十九大报告把国家安全工作放在突出的重要位置,并对国家安全工作作出专门部署,提出的四项任务是( )。",
+      "options": [
+        "A、完善国家安全战略和国家安全政策",
+        "B、健全国家安全体系",
+        "C、严密防范和坚决打击渗透颠覆破坏活动",
+        "D、加强国家安全教育"
+      ],
+      "selected_options": [
+        "A、完善国家安全战略和国家安全政策",
+        "B、健全国家安全体系",
+        "C、严密防范和坚决打击渗透颠覆破坏活动",
+        "D、加强国家安全教育"
+      ],
+      "answer": [
+        "A、完善国家安全战略和国家安全政策",
+        "B、健全国家安全体系",
+        "C、严密防范和坚决打击渗透颠覆破坏活动",
+        "D、加强国家安全教育"
+      ],
+      "answer_labels": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "selected_options_labels": [],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "platform_answer": [
+        "A、完善国家安全战略和国家安全政策",
+        "B、健全国家安全体系",
+        "C、严密防范和坚决打击渗透颠覆破坏活动",
+        "D、加强国家安全教育"
+      ]
+    },
+    {
+      "number": 48,
+      "type": "单选题",
+      "question": "48、某外商参观我某造纸厂,详细地了解了原料种类、配比、选择和处理以及原料所用碱水浓度等,对生产的全过程进行录像,还要走了生产宣纸的原料,并以帮助化验为名装走了造纸用的井水。结果,我国具有悠久传统的宣纸生产技术秘密被轻易窃走。造成该项技术失密、泄密的原因是()",
+      "options": [
+        "A、新闻出版工作失误造成泄密",
+        "B、违反保密制度，在不合时宜的场所随意公开内部秘密",
+        "C、不正确使用手机、电话或互联网技术造成泄密",
+        "D、不应邀请外商参观"
+      ],
+      "selected_options": [
+        "B、违反保密制度，在不合时宜的场所随意公开内部秘密"
+      ],
+      "answer": [
+        "B、违反保密制度，在不合时宜的场所随意公开内部秘密"
+      ],
+      "answer_labels": [
+        "B"
+      ],
+      "selected_options_labels": [
+        "B"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "B"
+      ],
+      "platform_answer": [
+        "B、违反保密制度，在不合时宜的场所随意公开内部秘密"
+      ],
+      "candidate_selected_options": [
+        "A、新闻出版工作失误造成泄密",
+        "B、违反保密制度，在不合时宜的场所随意公开内部秘密",
+        "C、不正确使用手机、电话或互联网技术造成泄密",
+        "D、不应邀请外商参观"
+      ]
+    },
+    {
+      "number": 49,
+      "type": "单选题",
+      "question": "49、大学生要学习一些进入社会的基本技能和知识,为什么在学习这些的同时还要学习国家安全知识?",
+      "options": [
+        "A、履行社会公民职责的需要",
+        "B、此时正是国家安全意识重要形成时期而且事关国家稳定和社会主义社会建设成败",
+        "C、大学生的时间很多",
+        "D、增强识别是非能力"
+      ],
+      "selected_options": [
+        "B、此时正是国家安全意识重要形成时期而且事关国家稳定和社会主义社会建设成败"
+      ],
+      "answer": [
+        "B、此时正是国家安全意识重要形成时期而且事关国家稳定和社会主义社会建设成败"
+      ],
+      "answer_labels": [
+        "B"
+      ],
+      "selected_options_labels": [
+        "B"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "B"
+      ],
+      "platform_answer": [
+        "B、此时正是国家安全意识重要形成时期而且事关国家稳定和社会主义社会建设成败"
+      ],
+      "candidate_selected_options": [
+        "A、履行社会公民职责的需要",
+        "B、此时正是国家安全意识重要形成时期而且事关国家稳定和社会主义社会建设成败",
+        "C、大学生的时间很多",
+        "D、增强识别是非能力"
+      ]
+    },
+    {
+      "number": 50,
+      "type": "多选题",
+      "question": "50、下列属于公民、组织既是在履行《反间谍法》规定的法定义务,也是在履行《宪法》义务的是( )。",
+      "options": [
+        "A、支持、协助反间谍工作",
+        "B、配合反间谍工作",
+        "C、依法及时报告发现的间谍行为",
+        "D、保守有关反间谍工作的国家秘密"
+      ],
+      "selected_options": [
+        "A、支持、协助反间谍工作",
+        "B、配合反间谍工作",
+        "C、依法及时报告发现的间谍行为",
+        "D、保守有关反间谍工作的国家秘密"
+      ],
+      "answer": [
+        "A、支持、协助反间谍工作",
+        "B、配合反间谍工作",
+        "C、依法及时报告发现的间谍行为",
+        "D、保守有关反间谍工作的国家秘密"
+      ],
+      "answer_labels": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "selected_options_labels": [],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "platform_answer": [
+        "A、支持、协助反间谍工作",
+        "B、配合反间谍工作",
+        "C、依法及时报告发现的间谍行为",
+        "D、保守有关反间谍工作的国家秘密"
+      ]
+    },
+    {
+      "number": 51,
+      "type": "单选题",
+      "question": "51、中央国家安全委员会在( )年成立。",
+      "options": [
+        "A、2012",
+        "B、2013",
+        "C、2014",
+        "D、2015"
+      ],
+      "selected_options": [
+        "B、2013"
+      ],
+      "answer": [
+        "B、2013"
+      ],
+      "answer_labels": [
+        "B"
+      ],
+      "selected_options_labels": [
+        "B"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "B"
+      ],
+      "platform_answer": [
+        "B、2013"
+      ],
+      "candidate_selected_options": [
+        "A、2012",
+        "B、2013",
+        "C、2014",
+        "D、2015"
+      ]
+    },
+    {
+      "number": 52,
+      "type": "单选题",
+      "question": "52、总体国家安全观倡导的国际安全理念包含几个方面?",
+      "options": [
+        "A、3",
+        "B、4",
+        "C、5",
+        "D、6"
+      ],
+      "selected_options": [
+        "B、4"
+      ],
+      "answer": [
+        "B、4"
+      ],
+      "answer_labels": [
+        "B"
+      ],
+      "selected_options_labels": [
+        "B"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "B"
+      ],
+      "platform_answer": [
+        "B、4"
+      ],
+      "candidate_selected_options": [
+        "A、3",
+        "B、4",
+        "C、5",
+        "D、6"
+      ]
+    },
+    {
+      "number": 53,
+      "type": "单选题",
+      "question": "53、《刑事诉讼法》属于( )。",
+      "options": [
+        "A、宪法及宪法相关法",
+        "B、国家安全刑事法",
+        "C、国家安全行政法",
+        "D、其他国家安全相关法"
+      ],
+      "selected_options": [
+        "B、国家安全刑事法"
+      ],
+      "answer": [
+        "B、国家安全刑事法"
+      ],
+      "answer_labels": [
+        "B"
+      ],
+      "selected_options_labels": [
+        "B"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "B"
+      ],
+      "platform_answer": [
+        "B、国家安全刑事法"
+      ],
+      "candidate_selected_options": [
+        "A、宪法及宪法相关法",
+        "B、国家安全刑事法",
+        "C、国家安全行政法",
+        "D、其他国家安全相关法"
+      ]
+    },
+    {
+      "number": 54,
+      "type": "多选题",
+      "question": "54、总体国家安全观是新形势下党中央对我国面临的各种安全问题和安全挑战的系统回应,标志着党和国家对国家安全问题的理论认识提升到了新的高度,具有( )的重要特征。",
+      "options": [
+        "A、系统性",
+        "B、全面性",
+        "C、持续性",
+        "D、重要性"
+      ],
+      "selected_options": [
+        "A、系统性",
+        "B、全面性",
+        "C、持续性"
+      ],
+      "answer": [
+        "A、系统性",
+        "B、全面性",
+        "C、持续性"
+      ],
+      "answer_labels": [
+        "A",
+        "B",
+        "C"
+      ],
+      "selected_options_labels": [
+        "A",
+        "B",
+        "C"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "A",
+        "B",
+        "C"
+      ],
+      "platform_answer": [
+        "A、系统性",
+        "B、全面性",
+        "C、持续性"
+      ],
+      "candidate_selected_options": [
+        "A、系统性",
+        "B、全面性",
+        "C、持续性",
+        "D、重要性"
+      ]
+    },
+    {
+      "number": 55,
+      "type": "多选题",
+      "question": "55、《国家安全法》第二章依次明确国家安全各领域重点任务,其中属于维护“政治安全”任务是:( )。",
+      "options": [
+        "A、国家坚持中国共产党的领导，维护中国特色社会主义制度，发展社会主义民主政治，健全社会主义法治，强化权力运行制约和监督机制，保障人民当家作主的各项权利",
+        "B、国家防范、制止和依法惩治任何叛国、分裂国家、煽动叛乱、颠覆或者煽动颠覆人民民主专政政权的行为",
+        "C、国家防范、制止和依法惩治窃取、泄露国家秘密等危害国家安全的行为",
+        "D、国家防范、制止和依法惩治境外势力的渗透、破坏、颠覆、分裂活动"
+      ],
+      "selected_options": [
+        "A、国家坚持中国共产党的领导，维护中国特色社会主义制度，发展社会主义民主政治，健全社会主义法治，强化权力运行制约和监督机制，保障人民当家作主的各项权利",
+        "B、国家防范、制止和依法惩治任何叛国、分裂国家、煽动叛乱、颠覆或者煽动颠覆人民民主专政政权的行为",
+        "C、国家防范、制止和依法惩治窃取、泄露国家秘密等危害国家安全的行为",
+        "D、国家防范、制止和依法惩治境外势力的渗透、破坏、颠覆、分裂活动"
+      ],
+      "answer": [
+        "A、国家坚持中国共产党的领导，维护中国特色社会主义制度，发展社会主义民主政治，健全社会主义法治，强化权力运行制约和监督机制，保障人民当家作主的各项权利",
+        "B、国家防范、制止和依法惩治任何叛国、分裂国家、煽动叛乱、颠覆或者煽动颠覆人民民主专政政权的行为",
+        "C、国家防范、制止和依法惩治窃取、泄露国家秘密等危害国家安全的行为",
+        "D、国家防范、制止和依法惩治境外势力的渗透、破坏、颠覆、分裂活动"
+      ],
+      "answer_labels": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "selected_options_labels": [],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "platform_answer": [
+        "A、国家坚持中国共产党的领导，维护中国特色社会主义制度，发展社会主义民主政治，健全社会主义法治，强化权力运行制约和监督机制，保障人民当家作主的各项权利",
+        "B、国家防范、制止和依法惩治任何叛国、分裂国家、煽动叛乱、颠覆或者煽动颠覆人民民主专政政权的行为",
+        "C、国家防范、制止和依法惩治窃取、泄露国家秘密等危害国家安全的行为",
+        "D、国家防范、制止和依法惩治境外势力的渗透、破坏、颠覆、分裂活动"
+      ]
+    },
+    {
+      "number": 56,
+      "type": "多选题",
+      "question": "56、国家安全工作必须坚持党绝对领导的意义在于( )。",
+      "options": [
+        "A、关系党和国家长治久安",
+        "B、关系社会主义的前途命运",
+        "C、关系到“两个一百年 ”奋斗目标的顺利实现",
+        "D、是国家安全工作始终坚持的根本原则"
+      ],
+      "selected_options": [
+        "A、关系党和国家长治久安",
+        "B、关系社会主义的前途命运",
+        "C、关系到“两个一百年 ”奋斗目标的顺利实现",
+        "D、是国家安全工作始终坚持的根本原则"
+      ],
+      "answer": [
+        "A、关系党和国家长治久安",
+        "B、关系社会主义的前途命运",
+        "C、关系到“两个一百年 ”奋斗目标的顺利实现",
+        "D、是国家安全工作始终坚持的根本原则"
+      ],
+      "answer_labels": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "selected_options_labels": [],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "platform_answer": [
+        "A、关系党和国家长治久安",
+        "B、关系社会主义的前途命运",
+        "C、关系到“两个一百年 ”奋斗目标的顺利实现",
+        "D、是国家安全工作始终坚持的根本原则"
+      ]
+    },
+    {
+      "number": 57,
+      "type": "单选题",
+      "question": "57、《国家安全法》属于( )。",
+      "options": [
+        "A、宪法及宪法相关法",
+        "B、国家安全刑事法",
+        "C、国家安全行政法",
+        "D、其他国家安全相关法"
+      ],
+      "selected_options": [
+        "A、宪法及宪法相关法"
+      ],
+      "answer": [
+        "A、宪法及宪法相关法"
+      ],
+      "answer_labels": [
+        "A"
+      ],
+      "selected_options_labels": [
+        "A"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "A"
+      ],
+      "platform_answer": [
+        "A、宪法及宪法相关法"
+      ],
+      "candidate_selected_options": [
+        "A、宪法及宪法相关法",
+        "B、国家安全刑事法",
+        "C、国家安全行政法",
+        "D、其他国家安全相关法"
+      ]
+    },
+    {
+      "number": 58,
+      "type": "单选题",
+      "question": "58、主管反间谍工作的机关是( )。",
+      "options": [
+        "A、国家安全机关",
+        "B、公安机关",
+        "C、国务院",
+        "D、中央政法委"
+      ],
+      "selected_options": [
+        "A、国家安全机关"
+      ],
+      "answer": [
+        "A、国家安全机关"
+      ],
+      "answer_labels": [
+        "A"
+      ],
+      "selected_options_labels": [
+        "A"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "A"
+      ],
+      "platform_answer": [
+        "A、国家安全机关"
+      ],
+      "candidate_selected_options": [
+        "A、国家安全机关",
+        "B、公安机关",
+        "C、国务院",
+        "D、中央政法委"
+      ]
+    },
+    {
+      "number": 59,
+      "type": "单选题",
+      "question": "59、在境外受胁迫或者受诱骗参加敌对组织、间谍组织,从事危害中华人民共和国国家安全的活动,及时向中华人民共和国驻外机构如实说明情况,或者入境后直接或者通过所在单位及时向国家安全机关、公安机关如实说明情况,并有( )表现的,可以不予追究。",
+      "options": [
+        "A、自首",
+        "B、立功",
+        "C、悔改",
+        "D、重大立功"
+      ],
+      "selected_options": [
+        "C、悔改"
+      ],
+      "answer": [
+        "C、悔改"
+      ],
+      "answer_labels": [
+        "C"
+      ],
+      "selected_options_labels": [
+        "C"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "C"
+      ],
+      "platform_answer": [
+        "C、悔改"
+      ],
+      "candidate_selected_options": [
+        "A、自首",
+        "B、立功",
+        "C、悔改",
+        "D、重大立功"
+      ]
+    },
+    {
+      "number": 60,
+      "type": "单选题",
+      "question": "60、2020 年 2 月 14 日,习近平总书记主持召开中央全面深化改革委员会第十二次会议并发表重要讲话,强调要( )纳入国家安全体系。",
+      "options": [
+        "A、海洋安全",
+        "B、太空安全",
+        "C、国防安全",
+        "D、生物安全"
+      ],
+      "selected_options": [
+        "D、生物安全"
+      ],
+      "answer": [
+        "D、生物安全"
+      ],
+      "answer_labels": [
+        "D"
+      ],
+      "selected_options_labels": [
+        "D"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "D"
+      ],
+      "platform_answer": [
+        "D、生物安全"
+      ],
+      "candidate_selected_options": [
+        "A、海洋安全",
+        "B、太空安全",
+        "C、国防安全",
+        "D、生物安全"
+      ]
+    },
+    {
+      "number": 61,
+      "type": "多选题",
+      "question": "61、下列哪些事项应当进行国家安全审查?",
+      "options": [
+        "A、影响国家安全的外商投资",
+        "B、影响国家安全的特定物项和关键技术",
+        "C、可能影响国家安全的网络信息技术产品和服务",
+        "D、涉及国家安全事项的建设项目"
+      ],
+      "selected_options": [
+        "A、影响国家安全的外商投资",
+        "B、影响国家安全的特定物项和关键技术",
+        "C、可能影响国家安全的网络信息技术产品和服务",
+        "D、涉及国家安全事项的建设项目"
+      ],
+      "answer": [
+        "A、影响国家安全的外商投资",
+        "B、影响国家安全的特定物项和关键技术",
+        "C、可能影响国家安全的网络信息技术产品和服务",
+        "D、涉及国家安全事项的建设项目"
+      ],
+      "answer_labels": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "selected_options_labels": [],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "platform_answer": [
+        "A、影响国家安全的外商投资",
+        "B、影响国家安全的特定物项和关键技术",
+        "C、可能影响国家安全的网络信息技术产品和服务",
+        "D、涉及国家安全事项的建设项目"
+      ]
+    },
+    {
+      "number": 62,
+      "type": "单选题",
+      "question": "62、《人民警察法》属于( )。",
+      "options": [
+        "A、宪法及宪法相关法",
+        "B、国家安全刑事法",
+        "C、国家安全行政法",
+        "D、其他国家安全相关法"
+      ],
+      "selected_options": [
+        "C、国家安全行政法"
+      ],
+      "answer": [
+        "C、国家安全行政法"
+      ],
+      "answer_labels": [
+        "C"
+      ],
+      "selected_options_labels": [
+        "C"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "C"
+      ],
+      "platform_answer": [
+        "C、国家安全行政法"
+      ],
+      "candidate_selected_options": [
+        "A、宪法及宪法相关法",
+        "B、国家安全刑事法",
+        "C、国家安全行政法",
+        "D、其他国家安全相关法"
+      ]
+    },
+    {
+      "number": 63,
+      "type": "单选题",
+      "question": "63、根据《国家安全法》的规定,下列关于国家保护公民的说法不正确的是( )。",
+      "options": [
+        "A、国家保卫人民安全",
+        "B、国家只保护公民在国内的合法权益",
+        "C、国家要为人民创造良好生存发展条件和安定工作生活环境",
+        "D、国家要保障公民的生命财产安全和其他合法权益"
+      ],
+      "selected_options": [
+        "B、国家只保护公民在国内的合法权益"
+      ],
+      "answer": [
+        "B、国家只保护公民在国内的合法权益"
+      ],
+      "answer_labels": [
+        "B"
+      ],
+      "selected_options_labels": [
+        "B"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "B"
+      ],
+      "platform_answer": [
+        "B、国家只保护公民在国内的合法权益"
+      ],
+      "candidate_selected_options": [
+        "A、国家保卫人民安全",
+        "B、国家只保护公民在国内的合法权益",
+        "C、国家要为人民创造良好生存发展条件和安定工作生活环境",
+        "D、国家要保障公民的生命财产安全和其他合法权益"
+      ]
+    },
+    {
+      "number": 64,
+      "type": "多选题",
+      "question": "64、下列选项中属于加强网络空间治理举措的有( )。",
+      "options": [
+        "A、唱响网络主旋律",
+        "B、构筑网络安全屏障",
+        "C、建立网络综合治理体系",
+        "D、打赢网络意识形态斗争"
+      ],
+      "selected_options": [
+        "A、唱响网络主旋律",
+        "B、构筑网络安全屏障",
+        "C、建立网络综合治理体系",
+        "D、打赢网络意识形态斗争"
+      ],
+      "answer": [
+        "A、唱响网络主旋律",
+        "B、构筑网络安全屏障",
+        "C、建立网络综合治理体系",
+        "D、打赢网络意识形态斗争"
+      ],
+      "answer_labels": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "selected_options_labels": [],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "platform_answer": [
+        "A、唱响网络主旋律",
+        "B、构筑网络安全屏障",
+        "C、建立网络综合治理体系",
+        "D、打赢网络意识形态斗争"
+      ]
+    },
+    {
+      "number": 65,
+      "type": "单选题",
+      "question": "65、明知他人有间谍犯罪行为,在国家安全机关向其调查有关情况、收集有关证据时,拒绝提供的,由其所在单位或者上级主管部门予以处分,或者由国家安全机关处( )日以下行政拘留;构成犯罪的,依法追究刑事责任。",
+      "options": [
+        "A、七日",
+        "B、十日",
+        "C、十五",
+        "D、二十日"
+      ],
+      "selected_options": [
+        "C、十五"
+      ],
+      "answer": [
+        "C、十五"
+      ],
+      "answer_labels": [
+        "C"
+      ],
+      "selected_options_labels": [
+        "C"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "C"
+      ],
+      "platform_answer": [
+        "C、十五"
+      ],
+      "candidate_selected_options": [
+        "A、七日",
+        "B、十日",
+        "C、十五",
+        "D、二十日"
+      ]
+    },
+    {
+      "number": 66,
+      "type": "多选题",
+      "question": "66、《国家安全法》第十七条规定,国家采取一切必要的防卫和管控措施,维护国土安全。该处的“ 国土 ”包括( )。",
+      "options": [
+        "A、领陆",
+        "B、领海",
+        "C、领空",
+        "D、内水"
+      ],
+      "selected_options": [
+        "A、领陆",
+        "B、领海",
+        "C、领空",
+        "D、内水"
+      ],
+      "answer": [
+        "A、领陆",
+        "B、领海",
+        "C、领空",
+        "D、内水"
+      ],
+      "answer_labels": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "selected_options_labels": [],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "platform_answer": [
+        "A、领陆",
+        "B、领海",
+        "C、领空",
+        "D、内水"
+      ]
+    },
+    {
+      "number": 67,
+      "type": "单选题",
+      "question": "67、党的二十大报告提出,要全面加强国家安全教育,提高各级领导干部统筹发展和安全能力,增强全民国家安全意识和素养,筑牢国家安全( )。",
+      "options": [
+        "A、人民防线",
+        "B、政治防线",
+        "C、思想防线",
+        "D、根本防线"
+      ],
+      "selected_options": [
+        "A、人民防线"
+      ],
+      "answer": [
+        "A、人民防线"
+      ],
+      "answer_labels": [
+        "A"
+      ],
+      "selected_options_labels": [
+        "A"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "A"
+      ],
+      "platform_answer": [
+        "A、人民防线"
+      ],
+      "candidate_selected_options": [
+        "A、人民防线",
+        "B、政治防线",
+        "C、思想防线",
+        "D、根本防线"
+      ]
+    },
+    {
+      "number": 68,
+      "type": "单选题",
+      "question": "68、境外机构、组织、个人实施或者指使、资助他人实施的危害中华人民共和国国家安全的()行为,都必须受到法律追究",
+      "options": [
+        "A、间谋",
+        "B、无利",
+        "C、特务",
+        "D、以上三项"
+      ],
+      "selected_options": [
+        "A、间谋"
+      ],
+      "answer": [
+        "A、间谋"
+      ],
+      "answer_labels": [
+        "A"
+      ],
+      "selected_options_labels": [
+        "A"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "A"
+      ],
+      "platform_answer": [
+        "A、间谋"
+      ],
+      "candidate_selected_options": [
+        "A、间谋",
+        "B、无利",
+        "C、特务",
+        "D、以上三项"
+      ]
+    },
+    {
+      "number": 69,
+      "type": "单选题",
+      "question": "69、某外商参观我某造纸厂,详细地了解了原料种类、配比、选择和处理以及原料所用碱水浓度等,对生产的全过程进行录相,还要走了生产宣纸的原料,并以帮助化验为名装走了造纸用的井水。结果,我国具有悠久传统的宣纸生产技术秘密顷刻间被轻易窃走。造成该项技术失密、泄密的原因是:( )。",
+      "options": [
+        "A、新闻出版工作失误造成泄密",
+        "B、违反保密制度，在不合适宜的场所随意公开内部秘密",
+        "C、不正确使用手机、电话或互联网技术造成泄密",
+        "D、不应邀请外商参观"
+      ],
+      "selected_options": [
+        "B、违反保密制度，在不合适宜的场所随意公开内部秘密"
+      ],
+      "answer": [
+        "B、违反保密制度，在不合适宜的场所随意公开内部秘密"
+      ],
+      "answer_labels": [
+        "B"
+      ],
+      "selected_options_labels": [
+        "B"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "B"
+      ],
+      "platform_answer": [
+        "B、违反保密制度，在不合适宜的场所随意公开内部秘密"
+      ],
+      "candidate_selected_options": [
+        "A、新闻出版工作失误造成泄密",
+        "B、违反保密制度，在不合适宜的场所随意公开内部秘密",
+        "C、不正确使用手机、电话或互联网技术造成泄密",
+        "D、不应邀请外商参观"
+      ]
+    },
+    {
+      "number": 70,
+      "type": "单选题",
+      "question": "70、坚持总体国家安全观, 以( )为基础。",
+      "options": [
+        "A、人民安全",
+        "B、政治安全",
+        "C、经济安全",
+        "D、社会安全"
+      ],
+      "selected_options": [
+        "C、经济安全"
+      ],
+      "answer": [
+        "C、经济安全"
+      ],
+      "answer_labels": [
+        "C"
+      ],
+      "selected_options_labels": [
+        "C"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "C"
+      ],
+      "platform_answer": [
+        "C、经济安全"
+      ],
+      "candidate_selected_options": [
+        "A、人民安全",
+        "B、政治安全",
+        "C、经济安全",
+        "D、社会安全"
+      ]
+    },
+    {
+      "number": 71,
+      "type": "单选题",
+      "question": "71、集会、游行、示威严重破坏公共场所秩序、交通秩序的,会承担什么责任?",
+      "options": [
+        "A、被依法追究刑事责任",
+        "B、违反治安管理处罚条例",
+        "C、依法追究民事责任",
+        "D、违反了公共安全法规"
+      ],
+      "selected_options": [
+        "A、被依法追究刑事责任"
+      ],
+      "answer": [
+        "A、被依法追究刑事责任"
+      ],
+      "answer_labels": [
+        "A"
+      ],
+      "selected_options_labels": [
+        "A"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "A"
+      ],
+      "platform_answer": [
+        "A、被依法追究刑事责任"
+      ],
+      "candidate_selected_options": [
+        "A、被依法追究刑事责任",
+        "B、违反治安管理处罚条例",
+        "C、依法追究民事责任",
+        "D、违反了公共安全法规"
+      ]
+    },
+    {
+      "number": 72,
+      "type": "单选题",
+      "question": "72、国家对在维护国家安全工作中作出( )的个人和组织给予表彰和奖励。",
+      "options": [
+        "A、较大贡献",
+        "B、优异成绩",
+        "C、重要贡献",
+        "D、突出贡献"
+      ],
+      "selected_options": [
+        "D、突出贡献"
+      ],
+      "answer": [
+        "D、突出贡献"
+      ],
+      "answer_labels": [
+        "D"
+      ],
+      "selected_options_labels": [
+        "D"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "D"
+      ],
+      "platform_answer": [
+        "D、突出贡献"
+      ],
+      "candidate_selected_options": [
+        "A、较大贡献",
+        "B、优异成绩",
+        "C、重要贡献",
+        "D、突出贡献"
+      ]
+    },
+    {
+      "number": 73,
+      "type": "单选题",
+      "question": "73、10.邪教一般会利用什么来引诱信徒消极厌世,挑动他们对现实和政府的不满情绪?",
+      "options": [
+        "A、家庭问题",
+        "B、社会矛盾",
+        "C、人际关系",
+        "D、环境问题"
+      ],
+      "selected_options": [
+        "B、社会矛盾"
+      ],
+      "answer": [
+        "B、社会矛盾"
+      ],
+      "answer_labels": [
+        "B"
+      ],
+      "selected_options_labels": [
+        "B"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "B"
+      ],
+      "platform_answer": [
+        "B、社会矛盾"
+      ],
+      "candidate_selected_options": [
+        "A、家庭问题",
+        "B、社会矛盾",
+        "C、人际关系",
+        "D、环境问题"
+      ]
+    },
+    {
+      "number": 74,
+      "type": "单选题",
+      "question": "74、国家决定进入紧急状态、战争状态或者实施国防动员后,履行国家安全危机管控职责的有关机关依照法律规定或者( )规定,有权采取限制公民和组织权利、增加公民和组织义务的特别措施。",
+      "options": [
+        "A、中国共产党中央委员会",
+        "B、中央军事委员会",
+        "C、全国人民代表大会",
+        "D、全国人民代表大会常务委员会"
+      ],
+      "selected_options": [
+        "D、全国人民代表大会常务委员会"
+      ],
+      "answer": [
+        "D、全国人民代表大会常务委员会"
+      ],
+      "answer_labels": [
+        "D"
+      ],
+      "selected_options_labels": [
+        "D"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "D"
+      ],
+      "platform_answer": [
+        "D、全国人民代表大会常务委员会"
+      ],
+      "candidate_selected_options": [
+        "A、中国共产党中央委员会",
+        "B、中央军事委员会",
+        "C、全国人民代表大会",
+        "D、全国人民代表大会常务委员会"
+      ]
+    },
+    {
+      "number": 75,
+      "type": "多选题",
+      "question": "75、中国国家安全的战略性顶层设计是( ) :",
+      "options": [
+        "A、坚持总体国家安全观",
+        "B、设立国家安全委员会",
+        "C、制定和实施国家安全战略",
+        "D、推进国家安全法治建设"
+      ],
+      "selected_options": [
+        "A、坚持总体国家安全观",
+        "B、设立国家安全委员会",
+        "C、制定和实施国家安全战略",
+        "D、推进国家安全法治建设"
+      ],
+      "answer": [
+        "A、坚持总体国家安全观",
+        "B、设立国家安全委员会",
+        "C、制定和实施国家安全战略",
+        "D、推进国家安全法治建设"
+      ],
+      "answer_labels": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "selected_options_labels": [],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "platform_answer": [
+        "A、坚持总体国家安全观",
+        "B、设立国家安全委员会",
+        "C、制定和实施国家安全战略",
+        "D、推进国家安全法治建设"
+      ]
+    },
+    {
+      "number": 76,
+      "type": "多选题",
+      "question": "76、适应世界新军事革命发展趋势和国家安全需求,提高建设质量和效益,确保到( )基本实现机械化,信息化建设取得重大进展,战略能力有大的提升。同国家现代化进程相一致,全面推进军事理论现化化、军队组织形态现代化、武器装备现代化,力争到( )基本实现国防和军人现代化,到本世纪中叶把人民军队全面建成世界一流军队。",
+      "options": [
+        "A、2020年",
+        "B、2025年",
+        "C、2030年",
+        "D、2035年"
+      ],
+      "selected_options": [
+        "A、2020年",
+        "D、2035年"
+      ],
+      "answer": [
+        "A、2020年",
+        "D、2035年"
+      ],
+      "answer_labels": [
+        "A",
+        "D"
+      ],
+      "selected_options_labels": [
+        "A",
+        "D"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "A",
+        "D"
+      ],
+      "platform_answer": [
+        "A、2020年",
+        "D、2035年"
+      ],
+      "candidate_selected_options": [
+        "A、2020年",
+        "B、2025年",
+        "C、2030年",
+        "D、2035年"
+      ]
+    },
+    {
+      "number": 77,
+      "type": "单选题",
+      "question": "77、以下行为涉嫌间谍罪的是?",
+      "options": [
+        "A、向境外出售军事基地照片",
+        "B、在边境地区旅游",
+        "C、浏览境外新闻网站",
+        "D、参加国际学术会议"
+      ],
+      "selected_options": [
+        "A、向境外出售军事基地照片"
+      ],
+      "answer": [
+        "A、向境外出售军事基地照片"
+      ],
+      "answer_labels": [
+        "A"
+      ],
+      "selected_options_labels": [
+        "A"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "A"
+      ],
+      "platform_answer": [
+        "A、向境外出售军事基地照片"
+      ],
+      "candidate_selected_options": [
+        "A、向境外出售军事基地照片",
+        "B、在边境地区旅游",
+        "C、浏览境外新闻网站",
+        "D、参加国际学术会议"
+      ]
+    },
+    {
+      "number": 78,
+      "type": "多选题",
+      "question": "78、国家加强国家安全新闻宣传和舆论引导通过多种形式开展国家安全宣传教育活动将国家安全教育纳入( )培训体系增强全民国家安全意识。",
+      "options": [
+        "A、社会公德教育",
+        "B、精神文明教育",
+        "C、公务员教育",
+        "D、国民教育体系"
+      ],
+      "selected_options": [
+        "C、公务员教育",
+        "D、国民教育体系"
+      ],
+      "answer": [
+        "C、公务员教育",
+        "D、国民教育体系"
+      ],
+      "answer_labels": [
+        "C",
+        "D"
+      ],
+      "selected_options_labels": [
+        "C",
+        "D"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "C",
+        "D"
+      ],
+      "platform_answer": [
+        "C、公务员教育",
+        "D、国民教育体系"
+      ],
+      "candidate_selected_options": [
+        "A、社会公德教育",
+        "B、精神文明教育",
+        "C、公务员教育",
+        "D、国民教育体系"
+      ]
+    },
+    {
+      "number": 79,
+      "type": "单选题",
+      "question": "79、杂交水稻技术是我国1979-1985年间的1089项发明奖中唯一的特等奖,处于世界领先地位。但是由于此后在各种公开的报刊杂志上发表了50余篇有关这项成果的论文,导致该项技术成果泄密,同时,使我国也失去了申请专利的条件。造成该项技术失密、泄密的原因是:( )。",
+      "options": [
+        "A、新闻出版工作失误造成泄密",
+        "B、违反保密制度，在不合适宜的场所随意公开内部秘密",
+        "C、不正确使用手机、电话或互联网技术造成泄密",
+        "D、不应撰写论文"
+      ],
+      "selected_options": [
+        "A、新闻出版工作失误造成泄密"
+      ],
+      "answer": [
+        "A、新闻出版工作失误造成泄密"
+      ],
+      "answer_labels": [
+        "A"
+      ],
+      "selected_options_labels": [
+        "A"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "A"
+      ],
+      "platform_answer": [
+        "A、新闻出版工作失误造成泄密"
+      ],
+      "candidate_selected_options": [
+        "A、新闻出版工作失误造成泄密",
+        "B、违反保密制度，在不合适宜的场所随意公开内部秘密",
+        "C、不正确使用手机、电话或互联网技术造成泄密",
+        "D、不应撰写论文"
+      ]
+    },
+    {
+      "number": 80,
+      "type": "单选题",
+      "question": "80、国家安全是安邦定国的重要基石,( )是全国各族人民根本利益所在。",
+      "options": [
+        "A、加快经济发展",
+        "B、维护国家统一",
+        "C、促进国际合作",
+        "D、维护国家安全"
+      ],
+      "selected_options": [
+        "D、维护国家安全"
+      ],
+      "answer": [
+        "D、维护国家安全"
+      ],
+      "answer_labels": [
+        "D"
+      ],
+      "selected_options_labels": [
+        "D"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "D"
+      ],
+      "platform_answer": [
+        "D、维护国家安全"
+      ],
+      "candidate_selected_options": [
+        "A、加快经济发展",
+        "B、维护国家统一",
+        "C、促进国际合作",
+        "D、维护国家安全"
+      ]
+    },
+    {
+      "number": 81,
+      "type": "多选题",
+      "question": "81、中国将继续高举( )的旗帜,始终不渝走和平发展道路、奉行互利共赢的开放战略。",
+      "options": [
+        "A、和平",
+        "B、发展",
+        "C、合作",
+        "D、共赢"
+      ],
+      "selected_options": [
+        "A、和平",
+        "B、发展",
+        "C、合作",
+        "D、共赢"
+      ],
+      "answer": [
+        "A、和平",
+        "B、发展",
+        "C、合作",
+        "D、共赢"
+      ],
+      "answer_labels": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "selected_options_labels": [],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "platform_answer": [
+        "A、和平",
+        "B、发展",
+        "C、合作",
+        "D、共赢"
+      ]
+    },
+    {
+      "number": 82,
+      "type": "单选题",
+      "question": "82、下面说法正确的是哪个?",
+      "options": [
+        "A、在爱国游行中发生“打砸抢烧”不用负责任",
+        "B、“打砸抢烧”都属于违法乱纪的行为，会受到法律的惩处",
+        "C、在爱国游行中做任何事情都不算违法",
+        "D、在爱国游行中造成的人员伤亡不用负任何责任"
+      ],
+      "selected_options": [
+        "B、“打砸抢烧”都属于违法乱纪的行为，会受到法律的惩处"
+      ],
+      "answer": [
+        "B、“打砸抢烧”都属于违法乱纪的行为，会受到法律的惩处"
+      ],
+      "answer_labels": [
+        "B"
+      ],
+      "selected_options_labels": [
+        "B"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "B"
+      ],
+      "platform_answer": [
+        "B、“打砸抢烧”都属于违法乱纪的行为，会受到法律的惩处"
+      ],
+      "candidate_selected_options": [
+        "A、在爱国游行中发生“打砸抢烧”不用负责任",
+        "B、“打砸抢烧”都属于违法乱纪的行为，会受到法律的惩处",
+        "C、在爱国游行中做任何事情都不算违法",
+        "D、在爱国游行中造成的人员伤亡不用负任何责任"
+      ]
+    },
+    {
+      "number": 83,
+      "type": "单选题",
+      "question": "83、国家秘密的密级最高等级是?",
+      "options": [
+        "A、秘密",
+        "B、机密",
+        "C、绝密",
+        "D、特密"
+      ],
+      "selected_options": [
+        "C、绝密"
+      ],
+      "answer": [
+        "C、绝密"
+      ],
+      "answer_labels": [
+        "C"
+      ],
+      "selected_options_labels": [
+        "C"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "C"
+      ],
+      "platform_answer": [
+        "C、绝密"
+      ],
+      "candidate_selected_options": [
+        "A、秘密",
+        "B、机密",
+        "C、绝密",
+        "D、特密"
+      ]
+    },
+    {
+      "number": 84,
+      "type": "单选题",
+      "question": "84、有算命师称需要“阴阳结合”才能去除小玲的“霉运”,于是小玲被该算命师强奸。对于这个案例,下面说法正确的是?",
+      "options": [
+        "A、这不是强奸，是小玲心甘情愿的",
+        "B、迷信的心理会被人利用，骗钱骗色；迷信心理的根源是想要走捷径，但是捷径也要付出相应更大的代价。",
+        "C、小玲的“霉运”一定被去除了",
+        "D、这是迷信，也是小玲自愿的，小玲一定会摆脱霉运的"
+      ],
+      "selected_options": [
+        "B、迷信的心理会被人利用，骗钱骗色；迷信心理的根源是想要走捷径，但是捷径也要付出相应更大的代价。"
+      ],
+      "answer": [
+        "B、迷信的心理会被人利用，骗钱骗色；迷信心理的根源是想要走捷径，但是捷径也要付出相应更大的代价。"
+      ],
+      "answer_labels": [
+        "B"
+      ],
+      "selected_options_labels": [
+        "B"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "B"
+      ],
+      "platform_answer": [
+        "B、迷信的心理会被人利用，骗钱骗色；迷信心理的根源是想要走捷径，但是捷径也要付出相应更大的代价。"
+      ],
+      "candidate_selected_options": [
+        "A、这不是强奸，是小玲心甘情愿的",
+        "B、迷信的心理会被人利用，骗钱骗色；迷信心理的根源是想要走捷径，但是捷径也要付出相应更大的代价。",
+        "C、小玲的“霉运”一定被去除了",
+        "D、这是迷信，也是小玲自愿的，小玲一定会摆脱霉运的"
+      ]
+    },
+    {
+      "number": 85,
+      "type": "单选题",
+      "question": "85、文化安全的核心是?",
+      "options": [
+        "A、保护方言",
+        "B、维护社会主义核心价值观",
+        "C、限制外来影视",
+        "D、推广传统节日"
+      ],
+      "selected_options": [
+        "B、维护社会主义核心价值观"
+      ],
+      "answer": [
+        "B、维护社会主义核心价值观"
+      ],
+      "answer_labels": [
+        "B"
+      ],
+      "selected_options_labels": [
+        "B"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "B"
+      ],
+      "platform_answer": [
+        "B、维护社会主义核心价值观"
+      ],
+      "candidate_selected_options": [
+        "A、保护方言",
+        "B、维护社会主义核心价值观",
+        "C、限制外来影视",
+        "D、推广传统节日"
+      ]
+    },
+    {
+      "number": 86,
+      "type": "多选题",
+      "question": "86、大学生在校园中发现有同学有间谍行为,可以上报的机关或组织都有哪些?",
+      "options": [
+        "A、国家安全机关",
+        "B、国家公安机关",
+        "C、学校保卫部门或学院",
+        "D、其他国家机关或者组织"
+      ],
+      "selected_options": [
+        "A、国家安全机关",
+        "B、国家公安机关",
+        "C、学校保卫部门或学院"
+      ],
+      "answer": [
+        "A、国家安全机关",
+        "B、国家公安机关",
+        "C、学校保卫部门或学院"
+      ],
+      "answer_labels": [
+        "A",
+        "B",
+        "C"
+      ],
+      "selected_options_labels": [
+        "A",
+        "B",
+        "C"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "A",
+        "B",
+        "C"
+      ],
+      "platform_answer": [
+        "A、国家安全机关",
+        "B、国家公安机关",
+        "C、学校保卫部门或学院"
+      ],
+      "candidate_selected_options": [
+        "A、国家安全机关",
+        "B、国家公安机关",
+        "C、学校保卫部门或学院",
+        "D、其他国家机关或者组织"
+      ]
+    },
+    {
+      "number": 87,
+      "type": "单选题",
+      "question": "87、( )领导全国武装力量,决定军事战略和武装力量的作战方针,统一指挥维护国家安全的军事行动,制定涉及国家安全的军事法规,发布有关决定和命令。",
+      "options": [
+        "A、国防部",
+        "B、全国人民代表大会",
+        "C、中央军事委员会",
+        "D、国家主席"
+      ],
+      "selected_options": [
+        "C、中央军事委员会"
+      ],
+      "answer": [
+        "C、中央军事委员会"
+      ],
+      "answer_labels": [
+        "C"
+      ],
+      "selected_options_labels": [
+        "C"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "C"
+      ],
+      "platform_answer": [
+        "C、中央军事委员会"
+      ],
+      "candidate_selected_options": [
+        "A、国防部",
+        "B、全国人民代表大会",
+        "C、中央军事委员会",
+        "D、国家主席"
+      ]
+    },
+    {
+      "number": 88,
+      "type": "单选题",
+      "question": "88、当代针对大学生的常用间谍手段有哪些?",
+      "options": [
+        "A、窃听",
+        "B、绑架",
+        "C、暗杀",
+        "D、窃取情报"
+      ],
+      "selected_options": [
+        "D、窃取情报"
+      ],
+      "answer": [
+        "D、窃取情报"
+      ],
+      "answer_labels": [
+        "D"
+      ],
+      "selected_options_labels": [
+        "D"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "D"
+      ],
+      "platform_answer": [
+        "D、窃取情报"
+      ],
+      "candidate_selected_options": [
+        "A、窃听",
+        "B、绑架",
+        "C、暗杀",
+        "D、窃取情报"
+      ]
+    },
+    {
+      "number": 89,
+      "type": "单选题",
+      "question": "89、国家保密法中绝密级别、机密级别、秘密级别分别不超过多少年?",
+      "options": [
+        "A、30年、20年、10年",
+        "B、40年、30年、20年",
+        "C、50年、40年、30年",
+        "D、60年、50年、40年"
+      ],
+      "selected_options": [
+        "A、30年、20年、10年"
+      ],
+      "answer": [
+        "A、30年、20年、10年"
+      ],
+      "answer_labels": [
+        "A"
+      ],
+      "selected_options_labels": [
+        "A"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "A"
+      ],
+      "platform_answer": [
+        "A、30年、20年、10年"
+      ],
+      "candidate_selected_options": [
+        "A、30年、20年、10年",
+        "B、40年、30年、20年",
+        "C、50年、40年、30年",
+        "D、60年、50年、40年"
+      ]
+    },
+    {
+      "number": 90,
+      "type": "多选题",
+      "question": "90、我们应该怎样远离邪教呢?",
+      "options": [
+        "A、知道邪教的特点，懂得辨识邪教",
+        "B、学习科学知识，能识破邪教自相矛盾的地方",
+        "C、学法懂法，能辨识出邪教的违法行为",
+        "D、积极乐观，不被邪教洗脑"
+      ],
+      "selected_options": [
+        "A、知道邪教的特点，懂得辨识邪教",
+        "B、学习科学知识，能识破邪教自相矛盾的地方",
+        "C、学法懂法，能辨识出邪教的违法行为",
+        "D、积极乐观，不被邪教洗脑"
+      ],
+      "answer": [
+        "A、知道邪教的特点，懂得辨识邪教",
+        "B、学习科学知识，能识破邪教自相矛盾的地方",
+        "C、学法懂法，能辨识出邪教的违法行为",
+        "D、积极乐观，不被邪教洗脑"
+      ],
+      "answer_labels": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "selected_options_labels": [],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "platform_answer": [
+        "A、知道邪教的特点，懂得辨识邪教",
+        "B、学习科学知识，能识破邪教自相矛盾的地方",
+        "C、学法懂法，能辨识出邪教的违法行为",
+        "D、积极乐观，不被邪教洗脑"
+      ]
+    },
+    {
+      "number": 91,
+      "type": "单选题",
+      "question": "91、每年( )为全民国家安全教育日",
+      "options": [
+        "A、12 月4 日",
+        "B、4 月 15 日",
+        "C、3 月15 日",
+        "D、11 月 1 日"
+      ],
+      "selected_options": [
+        "B、4 月 15 日"
+      ],
+      "answer": [
+        "B、4 月 15 日"
+      ],
+      "answer_labels": [
+        "B"
+      ],
+      "selected_options_labels": [
+        "B"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "B"
+      ],
+      "platform_answer": [
+        "B、4 月 15 日"
+      ],
+      "candidate_selected_options": [
+        "A、12 月4 日",
+        "B、4 月 15 日",
+        "C、3 月15 日",
+        "D、11 月 1 日"
+      ]
+    },
+    {
+      "number": 92,
+      "type": "单选题",
+      "question": "92、《保密法》属于( )。",
+      "options": [
+        "A、宪法及宪法相关法",
+        "B、国家安全刑事法",
+        "C、国家安全行政法",
+        "D、其他国家安全相关法"
+      ],
+      "selected_options": [
+        "C、国家安全行政法"
+      ],
+      "answer": [
+        "C、国家安全行政法"
+      ],
+      "answer_labels": [
+        "C"
+      ],
+      "selected_options_labels": [
+        "C"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "C"
+      ],
+      "platform_answer": [
+        "C、国家安全行政法"
+      ],
+      "candidate_selected_options": [
+        "A、宪法及宪法相关法",
+        "B、国家安全刑事法",
+        "C、国家安全行政法",
+        "D、其他国家安全相关法"
+      ]
+    },
+    {
+      "number": 93,
+      "type": "单选题",
+      "question": "93、《国家安全法》是经( )通过的。",
+      "options": [
+        "A、中国人民政治协商会议",
+        "B、国务院常务会议",
+        "C、全国人民代表大会",
+        "D、全国人民代表大会常务委员会"
+      ],
+      "selected_options": [
+        "D、全国人民代表大会常务委员会"
+      ],
+      "answer": [
+        "D、全国人民代表大会常务委员会"
+      ],
+      "answer_labels": [
+        "D"
+      ],
+      "selected_options_labels": [
+        "D"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "D"
+      ],
+      "platform_answer": [
+        "D、全国人民代表大会常务委员会"
+      ],
+      "candidate_selected_options": [
+        "A、中国人民政治协商会议",
+        "B、国务院常务会议",
+        "C、全国人民代表大会",
+        "D、全国人民代表大会常务委员会"
+      ]
+    },
+    {
+      "number": 94,
+      "type": "单选题",
+      "question": "94、网上有很多对于邪教的宣传,发现这些宣传之后你应该怎么做?",
+      "options": [
+        "A、不听、不看、不信、不传",
+        "B、仔细阅读",
+        "C、向别人传播",
+        "D、下载并保存"
+      ],
+      "selected_options": [
+        "A、不听、不看、不信、不传"
+      ],
+      "answer": [
+        "A、不听、不看、不信、不传"
+      ],
+      "answer_labels": [
+        "A"
+      ],
+      "selected_options_labels": [
+        "A"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "A"
+      ],
+      "platform_answer": [
+        "A、不听、不看、不信、不传"
+      ],
+      "candidate_selected_options": [
+        "A、不听、不看、不信、不传",
+        "B、仔细阅读",
+        "C、向别人传播",
+        "D、下载并保存"
+      ]
+    },
+    {
+      "number": 95,
+      "type": "单选题",
+      "question": "95、宣扬恐怖主义视频的刑责是?",
+      "options": [
+        "A、不违法",
+        "B、治安拘留",
+        "C、5年以上有期徒刑",
+        "D、警告"
+      ],
+      "selected_options": [
+        "C、5年以上有期徒刑"
+      ],
+      "answer": [
+        "C、5年以上有期徒刑"
+      ],
+      "answer_labels": [
+        "C"
+      ],
+      "selected_options_labels": [
+        "C"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "C"
+      ],
+      "platform_answer": [
+        "C、5年以上有期徒刑"
+      ],
+      "candidate_selected_options": [
+        "A、不违法",
+        "B、治安拘留",
+        "C、5年以上有期徒刑",
+        "D、警告"
+      ]
+    },
+    {
+      "number": 96,
+      "type": "单选题",
+      "question": "96、个人信息处理的基本原则是?",
+      "options": [
+        "A、自由共享",
+        "B、合法正当必要",
+        "C、强制收集",
+        "D、无偿使用"
+      ],
+      "selected_options": [
+        "B、合法正当必要"
+      ],
+      "answer": [
+        "B、合法正当必要"
+      ],
+      "answer_labels": [
+        "B"
+      ],
+      "selected_options_labels": [
+        "B"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "B"
+      ],
+      "platform_answer": [
+        "B、合法正当必要"
+      ],
+      "candidate_selected_options": [
+        "A、自由共享",
+        "B、合法正当必要",
+        "C、强制收集",
+        "D、无偿使用"
+      ]
+    },
+    {
+      "number": 97,
+      "type": "多选题",
+      "question": "97、习近平总书记在论述“贯彻落实总体国家安全观”时强调了“五对关系 ”,包括( )。",
+      "options": [
+        "A、既重视外部安全，又重视内部安全",
+        "B、既重视国土安全，又重视国民安全",
+        "C、既重视传统安全，又重视非传统安全",
+        "D、既重视发展问题，又重视安全问题",
+        "E、既重视自身安全，又重视共同安全"
+      ],
+      "selected_options": [
+        "A、既重视外部安全，又重视内部安全",
+        "B、既重视国土安全，又重视国民安全",
+        "C、既重视传统安全，又重视非传统安全",
+        "D、既重视发展问题，又重视安全问题",
+        "E、既重视自身安全，又重视共同安全"
+      ],
+      "answer": [
+        "A、既重视外部安全，又重视内部安全",
+        "B、既重视国土安全，又重视国民安全",
+        "C、既重视传统安全，又重视非传统安全",
+        "D、既重视发展问题，又重视安全问题",
+        "E、既重视自身安全，又重视共同安全"
+      ],
+      "answer_labels": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "selected_options_labels": [],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "platform_answer": [
+        "A、既重视外部安全，又重视内部安全",
+        "B、既重视国土安全，又重视国民安全",
+        "C、既重视传统安全，又重视非传统安全",
+        "D、既重视发展问题，又重视安全问题",
+        "E、既重视自身安全，又重视共同安全"
+      ]
+    },
+    {
+      "number": 98,
+      "type": "多选题",
+      "question": "98、党的十九届四中全会审议通过的《中共中央关于坚持和完善中国特色社会主义制度、推进国家治理体系和治理能力现代化若干重大问题的决定》指出,要提高防范抵御国家安全风险能力,高度警惕、坚决防范和严厉打击敌对势力( )活动。",
+      "options": [
+        "A、渗透",
+        "B、破坏",
+        "C、颠覆",
+        "D、分裂"
+      ],
+      "selected_options": [
+        "A、渗透",
+        "B、破坏",
+        "C、颠覆",
+        "D、分裂"
+      ],
+      "answer": [
+        "A、渗透",
+        "B、破坏",
+        "C、颠覆",
+        "D、分裂"
+      ],
+      "answer_labels": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "selected_options_labels": [],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "platform_answer": [
+        "A、渗透",
+        "B、破坏",
+        "C、颠覆",
+        "D、分裂"
+      ]
+    },
+    {
+      "number": 99,
+      "type": "多选题",
+      "question": "99、《国家安全法》第十七条规定,国家加强边防、海防和空防建设,采取一切必要的防卫和管控措施,维护国家领土主权和海洋权益。根据《国际法》的相关规定,此处的“海洋权益”主要包括:( )。",
+      "options": [
+        "A、一切属于我国的岛屿和群岛的主权不受侵犯",
+        "B、我国对于领海、领海上空、领海的海床及底土都享有主权权利。外国非军用船舶，享有依法无害通过我国领海的权利，但是外国军用船舶进入我国领海，须经我国政府批准",
+        "C、我国在毗连区内的权力主要包括管制权和紧追权，即在有关安全、海关、财政、卫生或者入境出境管理方面行使管制权，以及我国有关主管机关有充分理由认为外国船舶违反我国法律、法规时，对该外国船舶行使紧追权",
+        "D、我国在专属经济区和大陆架，涉及对渔业和矿产等自然资源的勘查、开发、养护和管理，以及海洋科学研究和海洋环境保护等方面，行使主权权利和管辖权"
+      ],
+      "selected_options": [
+        "A、一切属于我国的岛屿和群岛的主权不受侵犯",
+        "B、我国对于领海、领海上空、领海的海床及底土都享有主权权利。外国非军用船舶，享有依法无害通过我国领海的权利，但是外国军用船舶进入我国领海，须经我国政府批准",
+        "C、我国在毗连区内的权力主要包括管制权和紧追权，即在有关安全、海关、财政、卫生或者入境出境管理方面行使管制权，以及我国有关主管机关有充分理由认为外国船舶违反我国法律、法规时，对该外国船舶行使紧追权",
+        "D、我国在专属经济区和大陆架，涉及对渔业和矿产等自然资源的勘查、开发、养护和管理，以及海洋科学研究和海洋环境保护等方面，行使主权权利和管辖权"
+      ],
+      "answer": [
+        "A、一切属于我国的岛屿和群岛的主权不受侵犯",
+        "B、我国对于领海、领海上空、领海的海床及底土都享有主权权利。外国非军用船舶，享有依法无害通过我国领海的权利，但是外国军用船舶进入我国领海，须经我国政府批准",
+        "C、我国在毗连区内的权力主要包括管制权和紧追权，即在有关安全、海关、财政、卫生或者入境出境管理方面行使管制权，以及我国有关主管机关有充分理由认为外国船舶违反我国法律、法规时，对该外国船舶行使紧追权",
+        "D、我国在专属经济区和大陆架，涉及对渔业和矿产等自然资源的勘查、开发、养护和管理，以及海洋科学研究和海洋环境保护等方面，行使主权权利和管辖权"
+      ],
+      "answer_labels": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "selected_options_labels": [],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "platform_answer": [
+        "A、一切属于我国的岛屿和群岛的主权不受侵犯",
+        "B、我国对于领海、领海上空、领海的海床及底土都享有主权权利。外国非军用船舶，享有依法无害通过我国领海的权利，但是外国军用船舶进入我国领海，须经我国政府批准",
+        "C、我国在毗连区内的权力主要包括管制权和紧追权，即在有关安全、海关、财政、卫生或者入境出境管理方面行使管制权，以及我国有关主管机关有充分理由认为外国船舶违反我国法律、法规时，对该外国船舶行使紧追权",
+        "D、我国在专属经济区和大陆架，涉及对渔业和矿产等自然资源的勘查、开发、养护和管理，以及海洋科学研究和海洋环境保护等方面，行使主权权利和管辖权"
+      ]
+    },
+    {
+      "number": 100,
+      "type": "单选题",
+      "question": "100、集会、游行、示威过程中产生的任何后果由谁来承担责任?",
+      "options": [
+        "A、直接责任人",
+        "B、集会、游行、示威活动的负责人和直接责任人",
+        "C、集会、游行、示威活动的负责人",
+        "D、所有人"
+      ],
+      "selected_options": [
+        "B、集会、游行、示威活动的负责人和直接责任人"
+      ],
+      "answer": [
+        "B、集会、游行、示威活动的负责人和直接责任人"
+      ],
+      "answer_labels": [
+        "B"
+      ],
+      "selected_options_labels": [
+        "B"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "platform_answer_labels": [
+        "B"
+      ],
+      "platform_answer": [
+        "B、集会、游行、示威活动的负责人和直接责任人"
+      ],
+      "candidate_selected_options": [
+        "A、直接责任人",
+        "B、集会、游行、示威活动的负责人和直接责任人",
+        "C、集会、游行、示威活动的负责人",
+        "D、所有人"
+      ]
+    }
+  ]
+}

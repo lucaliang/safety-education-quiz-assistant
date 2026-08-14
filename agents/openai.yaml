@@ -1,0 +1,4 @@
+interface:
+  display_name: "安全教育答题助手"
+  short_description: "采集题库并自动完成桂电安全教育考试"
+  default_prompt: "使用 $safety-education-quiz-assistant 完成桂电安全教育在线考试。"

@@ -1,0 +1,4027 @@
+{
+  "category": "反诈安全",
+  "source_url": "https://gdse.guet.edu.cn/#/learn/antiFraudSecurity",
+  "collection_mode": "browser_feedback_sample",
+  "collected_at": "2026-08-13",
+  "answer_source": "platform_feedback_after_selection_and_next",
+  "verification_status": "platform_displayed",
+  "items": [
+    {
+      "number": 1,
+      "type": "单选题",
+      "question": "“注销校园贷”电话声称影响征信，要求下载借贷App，应：",
+      "options": [
+        "A、按指示注销账户",
+        "B、挂断并报告学校保卫处",
+        "C、向父母求助还款",
+        "D、询问具体操作步骤"
+      ],
+      "answer": "B、挂断并报告学校保卫处",
+      "answer_labels": [
+        "B"
+      ],
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "normalized_options": [
+        "向父母求助还款",
+        "挂断并报告学校保卫处",
+        "按指示注销账户",
+        "询问具体操作步骤"
+      ],
+      "question_key": "“注销校园贷”电话声称影响征信,要求下载借贷App,应:|向父母求助还款|挂断并报告学校保卫处|按指示注销账户|询问具体操作步骤",
+      "answer_key": [
+        "挂断并报告学校保卫处"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "verification_note": "Platform feedback B compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "B"
+      ],
+      "platform_answer": [
+        "B、挂断并报告学校保卫处"
+      ]
+    },
+    {
+      "number": 2,
+      "type": "单选题",
+      "question": "周某接到陌生电话自称部门领导，着急用钱，要求转账给他，怎么办?",
+      "options": [
+        "A、及时联系领导进行咨询",
+        "B、立即按照对方要求进行转账",
+        "C、领导交办的转账事宜一定照办"
+      ],
+      "answer": "A、及时联系领导进行咨询",
+      "answer_labels": [
+        "A"
+      ],
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "normalized_options": [
+        "及时联系领导进行咨询",
+        "立即按照对方要求进行转账",
+        "领导交办的转账事宜一定照办"
+      ],
+      "question_key": "周某接到陌生电话自称部门领导,着急用钱,要求转账给他,怎么办?|及时联系领导进行咨询|立即按照对方要求进行转账|领导交办的转账事宜一定照办",
+      "answer_key": [
+        "及时联系领导进行咨询"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "verification_note": "Platform feedback A compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "A"
+      ],
+      "platform_answer": [
+        "A、及时联系领导进行咨询"
+      ]
+    },
+    {
+      "number": 3,
+      "type": "单选题",
+      "question": "“免费领宠物”需支付运费，最可能的结果是：",
+      "options": [
+        "A、收到健康的小动物",
+        "B、付款后被拉黑",
+        "C、运费超额退还",
+        "D、延迟发货"
+      ],
+      "answer": "B、付款后被拉黑",
+      "answer_labels": [
+        "B"
+      ],
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "normalized_options": [
+        "付款后被拉黑",
+        "延迟发货",
+        "收到健康的小动物",
+        "运费超额退还"
+      ],
+      "question_key": "“免费领宠物”需支付运费,最可能的结果是:|付款后被拉黑|延迟发货|收到健康的小动物|运费超额退还",
+      "answer_key": [
+        "付款后被拉黑"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "verification_note": "Platform feedback B compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "B"
+      ],
+      "platform_answer": [
+        "B、付款后被拉黑"
+      ]
+    },
+    {
+      "number": 4,
+      "type": "单选题",
+      "question": "公安短信报警电话号码为（ ）",
+      "options": [
+        "A、12110",
+        "B、13110",
+        "C、14110",
+        "D、15110"
+      ],
+      "answer": "A、12110",
+      "answer_labels": [
+        "A"
+      ],
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "normalized_options": [
+        "12110",
+        "13110",
+        "14110",
+        "15110"
+      ],
+      "question_key": "公安短信报警电话号码为( )|12110|13110|14110|15110",
+      "answer_key": [
+        "12110"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "verification_note": "Platform feedback A compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "A"
+      ],
+      "platform_answer": [
+        "A、12110"
+      ]
+    },
+    {
+      "number": 5,
+      "type": "单选题",
+      "question": "小明在家上网聊QQ，陌生网友发来一条信息“轻松兼职，每天工作2小时，日入300元”，小明想反正在家也是闲着，找点事赚钱也好，于是询问对方如何兼职。对方说只要“购买”所发链接的商品，确认收货后给好评即可，刷单成功后会将刷单费和购买商品钱一同打到小明账户上。此时小明应该",
+      "options": [
+        "A、赚钱这么容易我也试试",
+        "B、先买个小额商品一试",
+        "C、反正闲着无聊，就按照他说的做吧",
+        "D、刷单都是骗人的，不予理睬"
+      ],
+      "answer": "D、刷单都是骗人的，不予理睬",
+      "answer_labels": [
+        "D"
+      ],
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "normalized_options": [
+        "先买个小额商品一试",
+        "刷单都是骗人的,不予理睬",
+        "反正闲着无聊,就按照他说的做吧",
+        "赚钱这么容易我也试试"
+      ],
+      "question_key": "小明在家上网聊QQ,陌生网友发来一条信息“轻松兼职,每天工作2小时,日入300元”,小明想反正在家也是闲着,找点事赚钱也好,于是询问对方如何兼职。对方说只要“购买”所发链接的商品,确认收货后给好评即可,刷单成功后会将刷单费和购买商品钱一同打到小明账户上。此时小明应该|先买个小额商品一试|刷单都是骗人的,不予理睬|反正闲着无聊,就按照他说的做吧|赚钱这么容易我也试试",
+      "answer_key": [
+        "刷单都是骗人的,不予理睬"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "verification_note": "Platform feedback D compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "D"
+      ],
+      "platform_answer": [
+        "D、刷单都是骗人的，不予理睬"
+      ]
+    },
+    {
+      "number": 6,
+      "type": "单选题",
+      "question": "网络刷单广告宣称“日赚300元”，正确的态度是：",
+      "options": [
+        "A、尝试小额刷单",
+        "B、推荐给室友一起赚钱",
+        "C、拒绝参与并举报",
+        "D、要求对方预付佣金"
+      ],
+      "answer": "C、拒绝参与并举报",
+      "answer_labels": [
+        "C"
+      ],
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "normalized_options": [
+        "尝试小额刷单",
+        "拒绝参与并举报",
+        "推荐给室友一起赚钱",
+        "要求对方预付佣金"
+      ],
+      "question_key": "网络刷单广告宣称“日赚300元”,正确的态度是:|尝试小额刷单|拒绝参与并举报|推荐给室友一起赚钱|要求对方预付佣金",
+      "answer_key": [
+        "拒绝参与并举报"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "verification_note": "Platform feedback C compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "C"
+      ],
+      "platform_answer": [
+        "C、拒绝参与并举报"
+      ]
+    },
+    {
+      "number": 7,
+      "type": "单选题",
+      "question": "网友推荐“虚拟货币挖矿”，承诺月收益20%，应：",
+      "options": [
+        "A、用学费投资",
+        "B、查阅央行风险警示",
+        "C、抵押手机借款参与",
+        "D、发展下线赚佣金"
+      ],
+      "answer": "B、查阅央行风险警示",
+      "answer_labels": [
+        "B"
+      ],
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "normalized_options": [
+        "发展下线赚佣金",
+        "抵押手机借款参与",
+        "查阅央行风险警示",
+        "用学费投资"
+      ],
+      "question_key": "网友推荐“虚拟货币挖矿”,承诺月收益20%,应:|发展下线赚佣金|抵押手机借款参与|查阅央行风险警示|用学费投资",
+      "answer_key": [
+        "查阅央行风险警示"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "verification_note": "Platform feedback B compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "B"
+      ],
+      "platform_answer": [
+        "B、查阅央行风险警示"
+      ]
+    },
+    {
+      "number": 8,
+      "type": "多选题",
+      "question": "哪些心理容易陷入诈骗陷阱： ( )",
+      "options": [
+        "A、贪婪",
+        "B、虚荣",
+        "C、赌博心理",
+        "D、胆小怕事"
+      ],
+      "selected_options": [
+        "A、贪婪",
+        "B、虚荣",
+        "C、赌博心理"
+      ],
+      "answer": [
+        "A、贪婪",
+        "B、虚荣",
+        "C、赌博心理",
+        "D、胆小怕事"
+      ],
+      "match": true,
+      "verification_status": "verified_by_platform_text",
+      "answer_labels": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "selected_options_labels": [
+        "A",
+        "B",
+        "C"
+      ],
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "normalized_options": [
+        "胆小怕事",
+        "虚荣",
+        "贪婪",
+        "赌博心理"
+      ],
+      "question_key": "哪些心理容易陷入诈骗陷阱: ( )|胆小怕事|虚荣|贪婪|赌博心理",
+      "answer_key": [
+        "胆小怕事",
+        "虚荣",
+        "贪婪",
+        "赌博心理"
+      ],
+      "verification_note": "Platform feedback ABCD compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "platform_answer": [
+        "A、贪婪",
+        "B、虚荣",
+        "C、赌博心理",
+        "D、胆小怕事"
+      ]
+    },
+    {
+      "number": 9,
+      "type": "多选题",
+      "question": "防范网络、短信、电话诈骗应做到： ( )",
+      "options": [
+        "A、不随意将个人信息泄露给他人",
+        "B、遇陌生人打来的电话三思而行",
+        "C、上网时谨慎透露个人信息",
+        "D、不相信中奖短信"
+      ],
+      "selected_options": [
+        "A、不随意将个人信息泄露给他人",
+        "B、遇陌生人打来的电话三思而行",
+        "C、上网时谨慎透露个人信息",
+        "D、不相信中奖短信"
+      ],
+      "answer": [
+        "A、不随意将个人信息泄露给他人",
+        "B、遇陌生人打来的电话三思而行",
+        "C、上网时谨慎透露个人信息",
+        "D、不相信中奖短信"
+      ],
+      "match": true,
+      "verification_status": "verified_by_platform_text",
+      "answer_labels": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "selected_options_labels": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "normalized_options": [
+        "上网时谨慎透露个人信息",
+        "不相信中奖短信",
+        "不随意将个人信息泄露给他人",
+        "遇陌生人打来的电话三思而行"
+      ],
+      "question_key": "防范网络、短信、电话诈骗应做到: ( )|上网时谨慎透露个人信息|不相信中奖短信|不随意将个人信息泄露给他人|遇陌生人打来的电话三思而行",
+      "answer_key": [
+        "上网时谨慎透露个人信息",
+        "不相信中奖短信",
+        "不随意将个人信息泄露给他人",
+        "遇陌生人打来的电话三思而行"
+      ],
+      "verification_note": "Platform feedback ABCD compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "platform_answer": [
+        "A、不随意将个人信息泄露给他人",
+        "B、遇陌生人打来的电话三思而行",
+        "C、上网时谨慎透露个人信息",
+        "D、不相信中奖短信"
+      ]
+    },
+    {
+      "number": 10,
+      "type": "单选题",
+      "question": "网友推荐“高回报投资平台”，承诺“稳赚不赔”，你应该：",
+      "options": [
+        "A、投入生活费尝试",
+        "B、向父母借钱加大投资",
+        "C、拒绝并拉黑对方",
+        "D、推荐给舍友一起参与"
+      ],
+      "answer": "C、拒绝并拉黑对方",
+      "answer_labels": [
+        "C"
+      ],
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "normalized_options": [
+        "向父母借钱加大投资",
+        "投入生活费尝试",
+        "拒绝并拉黑对方",
+        "推荐给舍友一起参与"
+      ],
+      "question_key": "网友推荐“高回报投资平台”,承诺“稳赚不赔”,你应该:|向父母借钱加大投资|投入生活费尝试|拒绝并拉黑对方|推荐给舍友一起参与",
+      "answer_key": [
+        "拒绝并拉黑对方"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "verification_note": "Platform feedback C compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "C"
+      ],
+      "platform_answer": [
+        "C、拒绝并拉黑对方"
+      ]
+    },
+    {
+      "number": 11,
+      "type": "单选题",
+      "question": "好朋友通过QQ/微信/短信找我，说急事借钱()",
+      "options": [
+        "A、江湖救急，立马给钱",
+        "B、让他发个语音，听听声音",
+        "C、打电话/开视频/验身份等等，安全放到第一位"
+      ],
+      "answer": "C、打电话/开视频/验身份等等，安全放到第一位",
+      "answer_labels": [
+        "C"
+      ],
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "normalized_options": [
+        "打电话/开视频/验身份等等,安全放到第一位",
+        "江湖救急,立马给钱",
+        "让他发个语音,听听声音"
+      ],
+      "question_key": "好朋友通过QQ/微信/短信找我,说急事借钱()|打电话/开视频/验身份等等,安全放到第一位|江湖救急,立马给钱|让他发个语音,听听声音",
+      "answer_key": [
+        "打电话/开视频/验身份等等,安全放到第一位"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "verification_note": "Platform feedback C compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "C"
+      ],
+      "platform_answer": [
+        "C、打电话/开视频/验身份等等，安全放到第一位"
+      ]
+    },
+    {
+      "number": 12,
+      "type": "单选题",
+      "question": "小钱玩网游时，有网友主动求购，对方建议“平台”交易，双方完成交易后，小钱发现钱到账却无法提现，客服说他银行卡号填错，要充值解冻，小钱该怎么办?",
+      "options": [
+        "A、不确定是不是输错了卡号，听客服的。",
+        "B、没办法，不充，钱就取不出来。",
+        "C、凡是提到充值解冻的都是诈骗。"
+      ],
+      "answer": "C、凡是提到充值解冻的都是诈骗。",
+      "answer_labels": [
+        "C"
+      ],
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "normalized_options": [
+        "不确定是不是输错了卡号,听客服的。",
+        "凡是提到充值解冻的都是诈骗。",
+        "没办法,不充,钱就取不出来。"
+      ],
+      "question_key": "小钱玩网游时,有网友主动求购,对方建议“平台”交易,双方完成交易后,小钱发现钱到账却无法提现,客服说他银行卡号填错,要充值解冻,小钱该怎么办?|不确定是不是输错了卡号,听客服的。|凡是提到充值解冻的都是诈骗。|没办法,不充,钱就取不出来。",
+      "answer_key": [
+        "凡是提到充值解冻的都是诈骗。"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "verification_note": "Platform feedback C compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "C"
+      ],
+      "platform_answer": [
+        "C、凡是提到充值解冻的都是诈骗。"
+      ]
+    },
+    {
+      "number": 13,
+      "type": "多选题",
+      "question": "“免费送”活动可能泄露哪些信息？",
+      "options": [
+        "A、手机通讯录",
+        "B、微信支付密码",
+        "C、公开的社交媒体头像",
+        "D、身份证手持照"
+      ],
+      "selected_options": [
+        "A、手机通讯录",
+        "D、身份证手持照"
+      ],
+      "answer": [
+        "A、手机通讯录",
+        "B、微信支付密码",
+        "D、身份证手持照"
+      ],
+      "match": true,
+      "verification_status": "verified_by_platform_text",
+      "notes": "平台反馈为 ABD；初始候选答案为 AD，遗漏 B。",
+      "answer_labels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "selected_options_labels": [
+        "A",
+        "D"
+      ],
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "normalized_options": [
+        "公开的社交媒体头像",
+        "手机通讯录",
+        "微信支付密码",
+        "身份证手持照"
+      ],
+      "question_key": "“免费送”活动可能泄露哪些信息?|公开的社交媒体头像|手机通讯录|微信支付密码|身份证手持照",
+      "answer_key": [
+        "手机通讯录",
+        "微信支付密码",
+        "身份证手持照"
+      ],
+      "platform_answer_labels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "platform_answer": [
+        "A、手机通讯录",
+        "B、微信支付密码",
+        "D、身份证手持照"
+      ],
+      "verification_note": "Platform feedback ABD compared using normalized unordered option text."
+    },
+    {
+      "number": 14,
+      "type": "单选题",
+      "question": "“数字人民币”试点活动中，官方不会要求：",
+      "options": [
+        "A、下载试点App",
+        "B、提供密码和验证码",
+        "C、填写问卷调查",
+        "D、反馈使用体验"
+      ],
+      "answer": "B、提供密码和验证码",
+      "answer_labels": [
+        "B"
+      ],
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "normalized_options": [
+        "下载试点App",
+        "反馈使用体验",
+        "填写问卷调查",
+        "提供密码和验证码"
+      ],
+      "question_key": "“数字人民币”试点活动中,官方不会要求:|下载试点App|反馈使用体验|填写问卷调查|提供密码和验证码",
+      "answer_key": [
+        "提供密码和验证码"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "verification_note": "Platform feedback B compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "B"
+      ],
+      "platform_answer": [
+        "B、提供密码和验证码"
+      ]
+    },
+    {
+      "number": 15,
+      "type": "多选题",
+      "question": "防范快递理赔诈骗需：",
+      "options": [
+        "A、在购物平台查询物流",
+        "B、拒接+00开头的电话",
+        "C、告知支付宝余额",
+        "D、拒绝共享屏幕"
+      ],
+      "selected_options": [
+        "A、在购物平台查询物流",
+        "B、拒接+00开头的电话",
+        "D、拒绝共享屏幕"
+      ],
+      "answer": [
+        "A、在购物平台查询物流",
+        "B、拒接+00开头的电话",
+        "D、拒绝共享屏幕"
+      ],
+      "match": true,
+      "verification_status": "verified_by_platform_text",
+      "answer_labels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "selected_options_labels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "normalized_options": [
+        "告知支付宝余额",
+        "在购物平台查询物流",
+        "拒接+00开头的电话",
+        "拒绝共享屏幕"
+      ],
+      "question_key": "防范快递理赔诈骗需:|告知支付宝余额|在购物平台查询物流|拒接+00开头的电话|拒绝共享屏幕",
+      "answer_key": [
+        "在购物平台查询物流",
+        "拒接+00开头的电话",
+        "拒绝共享屏幕"
+      ],
+      "verification_note": "Platform feedback ABD compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "platform_answer": [
+        "A、在购物平台查询物流",
+        "B、拒接+00开头的电话",
+        "D、拒绝共享屏幕"
+      ]
+    },
+    {
+      "number": 16,
+      "type": "单选题",
+      "question": "网上“低价代订演唱会门票”要求先付款后取票，应：",
+      "options": [
+        "A、转账后保存截图",
+        "B、要求对方发送身份证照片",
+        "C、通过正规票务平台购买",
+        "D、到付现金交易"
+      ],
+      "answer": "C、通过正规票务平台购买",
+      "answer_labels": [
+        "C"
+      ],
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "normalized_options": [
+        "到付现金交易",
+        "要求对方发送身份证照片",
+        "转账后保存截图",
+        "通过正规票务平台购买"
+      ],
+      "question_key": "网上“低价代订演唱会门票”要求先付款后取票,应:|到付现金交易|要求对方发送身份证照片|转账后保存截图|通过正规票务平台购买",
+      "answer_key": [
+        "通过正规票务平台购买"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "verification_note": "Platform feedback C compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "C"
+      ],
+      "platform_answer": [
+        "C、通过正规票务平台购买"
+      ]
+    },
+    {
+      "number": 17,
+      "type": "多选题",
+      "question": "以下哪些是“冒充客服退款”诈骗的破绽？",
+      "options": [
+        "A、要求提供短信验证码",
+        "B、引导开通借贷功能",
+        "C、通过官方App操作",
+        "D、使用个人账户退款"
+      ],
+      "selected_options": [
+        "A、要求提供短信验证码"
+      ],
+      "answer": [
+        "A、要求提供短信验证码",
+        "B、引导开通借贷功能",
+        "D、使用个人账户退款"
+      ],
+      "match": true,
+      "verification_status": "verified_by_platform_text",
+      "answer_labels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "selected_options_labels": [
+        "A"
+      ],
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "normalized_options": [
+        "使用个人账户退款",
+        "引导开通借贷功能",
+        "要求提供短信验证码",
+        "通过官方App操作"
+      ],
+      "question_key": "以下哪些是“冒充客服退款”诈骗的破绽?|使用个人账户退款|引导开通借贷功能|要求提供短信验证码|通过官方App操作",
+      "answer_key": [
+        "使用个人账户退款",
+        "引导开通借贷功能",
+        "要求提供短信验证码"
+      ],
+      "verification_note": "Platform feedback ABD compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "platform_answer": [
+        "A、要求提供短信验证码",
+        "B、引导开通借贷功能",
+        "D、使用个人账户退款"
+      ]
+    },
+    {
+      "number": 18,
+      "type": "单选题",
+      "question": "“特价实习内推”收费项目的风险是：",
+      "options": [
+        "A、实习含金量低",
+        "B、虚假岗位诈骗钱财",
+        "C、企业保密协议",
+        "D、需额外购买保险"
+      ],
+      "answer": "B、虚假岗位诈骗钱财",
+      "answer_labels": [
+        "B"
+      ],
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "normalized_options": [
+        "企业保密协议",
+        "实习含金量低",
+        "虚假岗位诈骗钱财",
+        "需额外购买保险"
+      ],
+      "question_key": "“特价实习内推”收费项目的风险是:|企业保密协议|实习含金量低|虚假岗位诈骗钱财|需额外购买保险",
+      "answer_key": [
+        "虚假岗位诈骗钱财"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "verification_note": "Platform feedback B compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "B"
+      ],
+      "platform_answer": [
+        "B、虚假岗位诈骗钱财"
+      ]
+    },
+    {
+      "number": 19,
+      "type": "多选题",
+      "question": "电信网络诈骗主要犯罪产业链 ( )。",
+      "options": [
+        "A、组织他人办理买卖银行卡",
+        "B、组织他人办理买卖手机卡",
+        "C、骗取赃款转账、取款",
+        "D、买卖公民信息"
+      ],
+      "selected_options": [
+        "A、组织他人办理买卖银行卡",
+        "B、组织他人办理买卖手机卡",
+        "C、骗取赃款转账、取款",
+        "D、买卖公民信息"
+      ],
+      "answer": [
+        "A、组织他人办理买卖银行卡",
+        "B、组织他人办理买卖手机卡",
+        "C、骗取赃款转账、取款",
+        "D、买卖公民信息"
+      ],
+      "match": true,
+      "verification_status": "verified_by_platform_text",
+      "answer_labels": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "selected_options_labels": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "normalized_options": [
+        "买卖公民信息",
+        "组织他人办理买卖手机卡",
+        "组织他人办理买卖银行卡",
+        "骗取赃款转账、取款"
+      ],
+      "question_key": "电信网络诈骗主要犯罪产业链 ( )。|买卖公民信息|组织他人办理买卖手机卡|组织他人办理买卖银行卡|骗取赃款转账、取款",
+      "answer_key": [
+        "买卖公民信息",
+        "组织他人办理买卖手机卡",
+        "组织他人办理买卖银行卡",
+        "骗取赃款转账、取款"
+      ],
+      "verification_note": "Platform feedback ABCD compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "platform_answer": [
+        "A、组织他人办理买卖银行卡",
+        "B、组织他人办理买卖手机卡",
+        "C、骗取赃款转账、取款",
+        "D、买卖公民信息"
+      ]
+    },
+    {
+      "number": 20,
+      "type": "单选题",
+      "question": "大学生应时刻注重保护自己个人信息，以下选项中符合要求的是",
+      "options": [
+        "A、不随意透露个人和公开个人信息",
+        "B、随意公开隐私信息",
+        "C、同情心泛滥，对陌生人毫无防备"
+      ],
+      "answer": "A、不随意透露个人和公开个人信息",
+      "answer_labels": [
+        "A"
+      ],
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "normalized_options": [
+        "不随意透露个人和公开个人信息",
+        "同情心泛滥,对陌生人毫无防备",
+        "随意公开隐私信息"
+      ],
+      "question_key": "大学生应时刻注重保护自己个人信息,以下选项中符合要求的是|不随意透露个人和公开个人信息|同情心泛滥,对陌生人毫无防备|随意公开隐私信息",
+      "answer_key": [
+        "不随意透露个人和公开个人信息"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "verification_note": "Platform feedback A compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "A"
+      ],
+      "platform_answer": [
+        "A、不随意透露个人和公开个人信息"
+      ]
+    },
+    {
+      "number": 21,
+      "type": "单选题",
+      "question": "“同城交友”软件要求充值解锁联系方式，可能遭遇：",
+      "options": [
+        "A、真爱缘分",
+        "B、诱导付费诈骗",
+        "C、隐私保护机制",
+        "D、平台正常收费"
+      ],
+      "answer": "B、诱导付费诈骗",
+      "answer_labels": [
+        "B"
+      ],
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "normalized_options": [
+        "平台正常收费",
+        "真爱缘分",
+        "诱导付费诈骗",
+        "隐私保护机制"
+      ],
+      "question_key": "“同城交友”软件要求充值解锁联系方式,可能遭遇:|平台正常收费|真爱缘分|诱导付费诈骗|隐私保护机制",
+      "answer_key": [
+        "诱导付费诈骗"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "verification_note": "Platform feedback B compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "B"
+      ],
+      "platform_answer": [
+        "B、诱导付费诈骗"
+      ]
+    },
+    {
+      "number": 22,
+      "type": "单选题",
+      "question": "“助学金转账”要求支付手续费，符合规定的操作是：",
+      "options": [
+        "A、转账后保留凭证",
+        "B、国家助学金无需手续费",
+        "C、向同学借钱支付",
+        "D、要求对方出具收据"
+      ],
+      "answer": "B、国家助学金无需手续费",
+      "answer_labels": [
+        "B"
+      ],
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "normalized_options": [
+        "向同学借钱支付",
+        "国家助学金无需手续费",
+        "要求对方出具收据",
+        "转账后保留凭证"
+      ],
+      "question_key": "“助学金转账”要求支付手续费,符合规定的操作是:|向同学借钱支付|国家助学金无需手续费|要求对方出具收据|转账后保留凭证",
+      "answer_key": [
+        "国家助学金无需手续费"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "verification_note": "Platform feedback B compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "B"
+      ],
+      "platform_answer": [
+        "B、国家助学金无需手续费"
+      ]
+    },
+    {
+      "number": 23,
+      "type": "单选题",
+      "question": "“学生兼职”要求提供银行卡代收货款，可能涉及：",
+      "options": [
+        "A、正常财务流程",
+        "B、洗钱违法犯罪",
+        "C、公司避税操作",
+        "D、工资结算需要"
+      ],
+      "answer": "B、洗钱违法犯罪",
+      "answer_labels": [
+        "B"
+      ],
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "normalized_options": [
+        "公司避税操作",
+        "工资结算需要",
+        "正常财务流程",
+        "洗钱违法犯罪"
+      ],
+      "question_key": "“学生兼职”要求提供银行卡代收货款,可能涉及:|公司避税操作|工资结算需要|正常财务流程|洗钱违法犯罪",
+      "answer_key": [
+        "洗钱违法犯罪"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "verification_note": "Platform feedback B compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "B"
+      ],
+      "platform_answer": [
+        "B、洗钱违法犯罪"
+      ]
+    },
+    {
+      "number": 24,
+      "type": "单选题",
+      "question": "“裸聊”敲诈勒索的常见手段是：",
+      "options": [
+        "A、发送法律文书",
+        "B、威胁公开录像",
+        "C、入侵电脑系统",
+        "D、盗取社交账号"
+      ],
+      "answer": "B、威胁公开录像",
+      "answer_labels": [
+        "B"
+      ],
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "normalized_options": [
+        "入侵电脑系统",
+        "发送法律文书",
+        "威胁公开录像",
+        "盗取社交账号"
+      ],
+      "question_key": "“裸聊”敲诈勒索的常见手段是:|入侵电脑系统|发送法律文书|威胁公开录像|盗取社交账号",
+      "answer_key": [
+        "威胁公开录像"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "verification_note": "Platform feedback B compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "B"
+      ],
+      "platform_answer": [
+        "B、威胁公开录像"
+      ]
+    },
+    {
+      "number": 25,
+      "type": "单选题",
+      "question": "接到自称快递员的来电，对方准确说出了你的身份信息和家庭地址，称把你的快递弄丢了，要全额退款，发送退款链接让你填写银行卡信息，称填完后退款将直接退到银行卡，此时你该怎么做?",
+      "options": [
+        "A、点击链接，按要求输入银行卡、退款验证码。",
+        "B、对方能说出我的信息，肯定是快递员，和他交涉让他多赔点。",
+        "C、挂断电话，直接与商家核对物流信息。"
+      ],
+      "answer": "C、挂断电话，直接与商家核对物流信息。",
+      "answer_labels": [
+        "C"
+      ],
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "normalized_options": [
+        "对方能说出我的信息,肯定是快递员,和他交涉让他多赔点。",
+        "挂断电话,直接与商家核对物流信息。",
+        "点击链接,按要求输入银行卡、退款验证码。"
+      ],
+      "question_key": "接到自称快递员的来电,对方准确说出了你的身份信息和家庭地址,称把你的快递弄丢了,要全额退款,发送退款链接让你填写银行卡信息,称填完后退款将直接退到银行卡,此时你该怎么做?|对方能说出我的信息,肯定是快递员,和他交涉让他多赔点。|挂断电话,直接与商家核对物流信息。|点击链接,按要求输入银行卡、退款验证码。",
+      "answer_key": [
+        "挂断电话,直接与商家核对物流信息。"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "verification_note": "Platform feedback C compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "C"
+      ],
+      "platform_answer": [
+        "C、挂断电话，直接与商家核对物流信息。"
+      ]
+    },
+    {
+      "number": 26,
+      "type": "单选题",
+      "question": "“兼职模特招聘”要求先交摄影费，正确的选择是：",
+      "options": [
+        "A、缴费争取工作机会",
+        "B、签订合同后补交费用",
+        "C、拒绝任何预付费要求",
+        "D、要求开具正规发票"
+      ],
+      "answer": "C、拒绝任何预付费要求",
+      "answer_labels": [
+        "C"
+      ],
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "normalized_options": [
+        "拒绝任何预付费要求",
+        "签订合同后补交费用",
+        "缴费争取工作机会",
+        "要求开具正规发票"
+      ],
+      "question_key": "“兼职模特招聘”要求先交摄影费,正确的选择是:|拒绝任何预付费要求|签订合同后补交费用|缴费争取工作机会|要求开具正规发票",
+      "answer_key": [
+        "拒绝任何预付费要求"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "verification_note": "Platform feedback C compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "C"
+      ],
+      "platform_answer": [
+        "C、拒绝任何预付费要求"
+      ]
+    },
+    {
+      "number": 27,
+      "type": "多选题",
+      "question": "网络刷单诈骗的常见特征包括：",
+      "options": [
+        "A、承诺“高回报、零风险”",
+        "B、要求先垫付资金",
+        "C、提供正规劳动合同",
+        "D、小额返利后加大投入"
+      ],
+      "selected_options": [
+        "A、承诺“高回报、零风险”"
+      ],
+      "answer": [
+        "A、承诺“高回报、零风险”",
+        "B、要求先垫付资金",
+        "D、小额返利后加大投入"
+      ],
+      "match": true,
+      "verification_status": "verified_by_platform_text",
+      "answer_labels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "selected_options_labels": [
+        "A"
+      ],
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "normalized_options": [
+        "小额返利后加大投入",
+        "承诺“高回报、零风险”",
+        "提供正规劳动合同",
+        "要求先垫付资金"
+      ],
+      "question_key": "网络刷单诈骗的常见特征包括:|小额返利后加大投入|承诺“高回报、零风险”|提供正规劳动合同|要求先垫付资金",
+      "answer_key": [
+        "小额返利后加大投入",
+        "承诺“高回报、零风险”",
+        "要求先垫付资金"
+      ],
+      "verification_note": "Platform feedback ABD compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "platform_answer": [
+        "A、承诺“高回报、零风险”",
+        "B、要求先垫付资金",
+        "D、小额返利后加大投入"
+      ]
+    },
+    {
+      "number": 28,
+      "type": "单选题",
+      "question": "以下哪个说法是正确的？",
+      "options": [
+        "A、不能因为“公检法”部门能够讲出自己准确身份信息就相信对方身份",
+        "B、公安民警可以用QQ、微信、邮箱、链接等网络渠道发送通缉令给嫌疑人",
+        "C、被警方通缉的嫌疑人只要选择与警方合作就可以避免被抓捕",
+        "D、被警方通缉后，只要有“能人”出面协调就可以免罪"
+      ],
+      "answer": "A、不能因为“公检法”部门能够讲出自己准确身份信息就相信对方身份",
+      "answer_labels": [
+        "A"
+      ],
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "normalized_options": [
+        "不能因为“公检法”部门能够讲出自己准确身份信息就相信对方身份",
+        "公安民警可以用QQ、微信、邮箱、链接等网络渠道发送通缉令给嫌疑人",
+        "被警方通缉后,只要有“能人”出面协调就可以免罪",
+        "被警方通缉的嫌疑人只要选择与警方合作就可以避免被抓捕"
+      ],
+      "question_key": "以下哪个说法是正确的?|不能因为“公检法”部门能够讲出自己准确身份信息就相信对方身份|公安民警可以用QQ、微信、邮箱、链接等网络渠道发送通缉令给嫌疑人|被警方通缉后,只要有“能人”出面协调就可以免罪|被警方通缉的嫌疑人只要选择与警方合作就可以避免被抓捕",
+      "answer_key": [
+        "不能因为“公检法”部门能够讲出自己准确身份信息就相信对方身份"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "verification_note": "Platform feedback A compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "A"
+      ],
+      "platform_answer": [
+        "A、不能因为“公检法”部门能够讲出自己准确身份信息就相信对方身份"
+      ]
+    },
+    {
+      "number": 29,
+      "type": "单选题",
+      "question": "某日，小张QQ聊天时，同学小刘发来视屏通话请求，两人聊了会天后，小刘称近期手头紧想借2000元，身上没有银行卡，让其把钱转到朋友账号上，账号***，因两人关系不错，小张赶紧把钱转到指定账户后，小张发现小刘QQ号被盗，对方是骗子，自己受骗了。对于此种“冒充QQ好友”的诈骗手段，以下说法正确的是",
+      "options": [
+        "A、都视频确认过了，肯定是他，立即打钱过去",
+        "B、看头像、资料等信息，都没问题，不用核实了",
+        "C、直接打电话联系对方求证"
+      ],
+      "answer": "C、直接打电话联系对方求证",
+      "answer_labels": [
+        "C"
+      ],
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "normalized_options": [
+        "直接打电话联系对方求证",
+        "看头像、资料等信息,都没问题,不用核实了",
+        "都视频确认过了,肯定是他,立即打钱过去"
+      ],
+      "question_key": "某日,小张QQ聊天时,同学小刘发来视屏通话请求,两人聊了会天后,小刘称近期手头紧想借2000元,身上没有银行卡,让其把钱转到朋友账号上,账号***,因两人关系不错,小张赶紧把钱转到指定账户后,小张发现小刘QQ号被盗,对方是骗子,自己受骗了。对于此种“冒充QQ好友”的诈骗手段,以下说法正确的是|直接打电话联系对方求证|看头像、资料等信息,都没问题,不用核实了|都视频确认过了,肯定是他,立即打钱过去",
+      "answer_key": [
+        "直接打电话联系对方求证"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "verification_note": "Platform feedback C compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "C"
+      ],
+      "platform_answer": [
+        "C、直接打电话联系对方求证"
+      ]
+    },
+    {
+      "number": 30,
+      "type": "多选题",
+      "question": "受骗后的紧急处理步骤：",
+      "options": [
+        "A、立即拨打110",
+        "B、冻结银行卡/支付账户",
+        "C、联系骗子周旋",
+        "D、保存聊天和转账证据"
+      ],
+      "selected_options": [
+        "A、立即拨打110"
+      ],
+      "answer": [
+        "A、立即拨打110",
+        "B、冻结银行卡/支付账户",
+        "D、保存聊天和转账证据"
+      ],
+      "match": true,
+      "verification_status": "verified_by_platform_text",
+      "answer_labels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "selected_options_labels": [
+        "A"
+      ],
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "normalized_options": [
+        "保存聊天和转账证据",
+        "冻结银行卡/支付账户",
+        "立即拨打110",
+        "联系骗子周旋"
+      ],
+      "question_key": "受骗后的紧急处理步骤:|保存聊天和转账证据|冻结银行卡/支付账户|立即拨打110|联系骗子周旋",
+      "answer_key": [
+        "保存聊天和转账证据",
+        "冻结银行卡/支付账户",
+        "立即拨打110"
+      ],
+      "verification_note": "Platform feedback ABD compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "platform_answer": [
+        "A、立即拨打110",
+        "B、冻结银行卡/支付账户",
+        "D、保存聊天和转账证据"
+      ]
+    },
+    {
+      "number": 31,
+      "type": "多选题",
+      "question": "“助学金诈骗”的识别要点是：",
+      "options": [
+        "A、要求支付手续费",
+        "B、使用非官方联系方式",
+        "C、通知到财务处现场办理",
+        "D、索要银行卡密码"
+      ],
+      "selected_options": [
+        "A、要求支付手续费"
+      ],
+      "answer": [
+        "A、要求支付手续费",
+        "B、使用非官方联系方式",
+        "D、索要银行卡密码"
+      ],
+      "match": true,
+      "verification_status": "verified_by_platform_text",
+      "answer_labels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "selected_options_labels": [
+        "A"
+      ],
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "normalized_options": [
+        "使用非官方联系方式",
+        "索要银行卡密码",
+        "要求支付手续费",
+        "通知到财务处现场办理"
+      ],
+      "question_key": "“助学金诈骗”的识别要点是:|使用非官方联系方式|索要银行卡密码|要求支付手续费|通知到财务处现场办理",
+      "answer_key": [
+        "使用非官方联系方式",
+        "索要银行卡密码",
+        "要求支付手续费"
+      ],
+      "verification_note": "Platform feedback ABD compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "platform_answer": [
+        "A、要求支付手续费",
+        "B、使用非官方联系方式",
+        "D、索要银行卡密码"
+      ]
+    },
+    {
+      "number": 32,
+      "type": "多选题",
+      "question": "“培训贷”骗局的典型步骤是：",
+      "options": [
+        "A、承诺“包就业”诱导签约",
+        "B、隐瞒分期实为贷款合同",
+        "C、提供免费试听课",
+        "D、失联后仍催收还款"
+      ],
+      "selected_options": [
+        "A、承诺“包就业”诱导签约"
+      ],
+      "answer": [
+        "A、承诺“包就业”诱导签约",
+        "B、隐瞒分期实为贷款合同",
+        "D、失联后仍催收还款"
+      ],
+      "match": true,
+      "verification_status": "verified_by_platform_text",
+      "answer_labels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "selected_options_labels": [
+        "A"
+      ],
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "normalized_options": [
+        "失联后仍催收还款",
+        "承诺“包就业”诱导签约",
+        "提供免费试听课",
+        "隐瞒分期实为贷款合同"
+      ],
+      "question_key": "“培训贷”骗局的典型步骤是:|失联后仍催收还款|承诺“包就业”诱导签约|提供免费试听课|隐瞒分期实为贷款合同",
+      "answer_key": [
+        "失联后仍催收还款",
+        "承诺“包就业”诱导签约",
+        "隐瞒分期实为贷款合同"
+      ],
+      "verification_note": "Platform feedback ABD compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "platform_answer": [
+        "A、承诺“包就业”诱导签约",
+        "B、隐瞒分期实为贷款合同",
+        "D、失联后仍催收还款"
+      ]
+    },
+    {
+      "number": 33,
+      "type": "单选题",
+      "question": "“陌生FaceTime来电”的正确处理方式是：",
+      "options": [
+        "A、接听并开启摄像头",
+        "B、直接挂断并关闭功能",
+        "C、静音后放在一旁",
+        "D、接听后要求文字沟通"
+      ],
+      "answer": "B、直接挂断并关闭功能",
+      "answer_labels": [
+        "B"
+      ],
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "normalized_options": [
+        "接听后要求文字沟通",
+        "接听并开启摄像头",
+        "直接挂断并关闭功能",
+        "静音后放在一旁"
+      ],
+      "question_key": "“陌生FaceTime来电”的正确处理方式是:|接听后要求文字沟通|接听并开启摄像头|直接挂断并关闭功能|静音后放在一旁",
+      "answer_key": [
+        "直接挂断并关闭功能"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "verification_note": "Platform feedback B compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "B"
+      ],
+      "platform_answer": [
+        "B、直接挂断并关闭功能"
+      ]
+    },
+    {
+      "number": 34,
+      "type": "单选题",
+      "question": "看到“无抵押网贷”广告声称“秒放款”，正确的做法是：",
+      "options": [
+        "A、申请贷款购买新手机",
+        "B、向学校资助中心咨询正规渠道",
+        "C、抵押学生证借款",
+        "D、推荐给经济困难的同学"
+      ],
+      "answer": "B、向学校资助中心咨询正规渠道",
+      "answer_labels": [
+        "B"
+      ],
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "normalized_options": [
+        "向学校资助中心咨询正规渠道",
+        "抵押学生证借款",
+        "推荐给经济困难的同学",
+        "申请贷款购买新手机"
+      ],
+      "question_key": "看到“无抵押网贷”广告声称“秒放款”,正确的做法是:|向学校资助中心咨询正规渠道|抵押学生证借款|推荐给经济困难的同学|申请贷款购买新手机",
+      "answer_key": [
+        "向学校资助中心咨询正规渠道"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "verification_note": "Platform feedback B compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "B"
+      ],
+      "platform_answer": [
+        "B、向学校资助中心咨询正规渠道"
+      ]
+    },
+    {
+      "number": 35,
+      "type": "单选题",
+      "question": "“免试拿证书”机构收费后失联，学生损失属于：",
+      "options": [
+        "A、正常教育培训成本",
+        "B、典型考证类诈骗",
+        "C、自愿消费行为",
+        "D、证书工本费"
+      ],
+      "answer": "B、典型考证类诈骗",
+      "answer_labels": [
+        "B"
+      ],
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "normalized_options": [
+        "典型考证类诈骗",
+        "正常教育培训成本",
+        "自愿消费行为",
+        "证书工本费"
+      ],
+      "question_key": "“免试拿证书”机构收费后失联,学生损失属于:|典型考证类诈骗|正常教育培训成本|自愿消费行为|证书工本费",
+      "answer_key": [
+        "典型考证类诈骗"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "verification_note": "Platform feedback B compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "B"
+      ],
+      "platform_answer": [
+        "B、典型考证类诈骗"
+      ]
+    },
+    {
+      "number": 36,
+      "type": "单选题",
+      "question": "“奖学金到账”短信附链接要求填写银行卡信息，应：",
+      "options": [
+        "A、点击链接完善信息",
+        "B、向学校财务处当面确认",
+        "C、提供父母银行卡号",
+        "D、联系短信内“客服电话”"
+      ],
+      "answer": "B、向学校财务处当面确认",
+      "answer_labels": [
+        "B"
+      ],
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "normalized_options": [
+        "向学校财务处当面确认",
+        "提供父母银行卡号",
+        "点击链接完善信息",
+        "联系短信内“客服电话”"
+      ],
+      "question_key": "“奖学金到账”短信附链接要求填写银行卡信息,应:|向学校财务处当面确认|提供父母银行卡号|点击链接完善信息|联系短信内“客服电话”",
+      "answer_key": [
+        "向学校财务处当面确认"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "verification_note": "Platform feedback B compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "B"
+      ],
+      "platform_answer": [
+        "B、向学校财务处当面确认"
+      ]
+    },
+    {
+      "number": 37,
+      "type": "单选题",
+      "question": "“注销京东白条”诈骗中，骗子常伪装成：",
+      "options": [
+        "A、快递员",
+        "B、银监会工作人员",
+        "C、辅导员",
+        "D、学生会干部"
+      ],
+      "answer": "B、银监会工作人员",
+      "answer_labels": [
+        "B"
+      ],
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "normalized_options": [
+        "学生会干部",
+        "快递员",
+        "辅导员",
+        "银监会工作人员"
+      ],
+      "question_key": "“注销京东白条”诈骗中,骗子常伪装成:|学生会干部|快递员|辅导员|银监会工作人员",
+      "answer_key": [
+        "银监会工作人员"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "verification_note": "Platform feedback B compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "B"
+      ],
+      "platform_answer": [
+        "B、银监会工作人员"
+      ]
+    },
+    {
+      "number": 38,
+      "type": "多选题",
+      "question": "QQ、微信等即时通讯平台，好友/亲戚发起视频聊天，接通后对方称话筒坏了，只能通过文字聊天要求借钱，你应该( )。",
+      "options": [
+        "A、按照要求给钱",
+        "B、优先怀疑对方被盗号",
+        "C、怀疑好友/亲戚视频资料被犯罪分子截取",
+        "D、通过手机号码电话联系"
+      ],
+      "selected_options": [
+        "B、优先怀疑对方被盗号",
+        "C、怀疑好友/亲戚视频资料被犯罪分子截取",
+        "D、通过手机号码电话联系"
+      ],
+      "answer": [
+        "B、优先怀疑对方被盗号",
+        "C、怀疑好友/亲戚视频资料被犯罪分子截取",
+        "D、通过手机号码电话联系"
+      ],
+      "match": true,
+      "verification_status": "verified_by_platform_text",
+      "answer_labels": [
+        "B",
+        "C",
+        "D"
+      ],
+      "selected_options_labels": [
+        "B",
+        "C",
+        "D"
+      ],
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "normalized_options": [
+        "优先怀疑对方被盗号",
+        "怀疑好友/亲戚视频资料被犯罪分子截取",
+        "按照要求给钱",
+        "通过手机号码电话联系"
+      ],
+      "question_key": "QQ、微信等即时通讯平台,好友/亲戚发起视频聊天,接通后对方称话筒坏了,只能通过文字聊天要求借钱,你应该( )。|优先怀疑对方被盗号|怀疑好友/亲戚视频资料被犯罪分子截取|按照要求给钱|通过手机号码电话联系",
+      "answer_key": [
+        "优先怀疑对方被盗号",
+        "怀疑好友/亲戚视频资料被犯罪分子截取",
+        "通过手机号码电话联系"
+      ],
+      "verification_note": "Platform feedback BCD compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "B",
+        "C",
+        "D"
+      ],
+      "platform_answer": [
+        "B、优先怀疑对方被盗号",
+        "C、怀疑好友/亲戚视频资料被犯罪分子截取",
+        "D、通过手机号码电话联系"
+      ]
+    },
+    {
+      "number": 39,
+      "type": "单选题",
+      "question": "小明在家上网聊QQ，陌生网友发来一条信息“轻松兼职，每天工作2小时，日入300元”，小明想反正在家也是闲着，找点事赚钱也好，于是询问对方如何兼职。对方说只要“购买”所发链接的商品，确认收货后给好评即可，刷单成功后会将刷单费和购买商品钱一同打到小明账户上。此时小明应该：（ ）",
+      "options": [
+        "A、赚钱这么容易我也试试",
+        "B、先买个小额商品一试",
+        "C、反正闲着无聊，就按照他说的做吧",
+        "D、刷单都是骗人的，不予理睬"
+      ],
+      "answer": "D、刷单都是骗人的，不予理睬",
+      "answer_labels": [
+        "D"
+      ],
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "normalized_options": [
+        "先买个小额商品一试",
+        "刷单都是骗人的,不予理睬",
+        "反正闲着无聊,就按照他说的做吧",
+        "赚钱这么容易我也试试"
+      ],
+      "question_key": "小明在家上网聊QQ,陌生网友发来一条信息“轻松兼职,每天工作2小时,日入300元”,小明想反正在家也是闲着,找点事赚钱也好,于是询问对方如何兼职。对方说只要“购买”所发链接的商品,确认收货后给好评即可,刷单成功后会将刷单费和购买商品钱一同打到小明账户上。此时小明应该:( )|先买个小额商品一试|刷单都是骗人的,不予理睬|反正闲着无聊,就按照他说的做吧|赚钱这么容易我也试试",
+      "answer_key": [
+        "刷单都是骗人的,不予理睬"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "verification_note": "Platform feedback D compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "D"
+      ],
+      "platform_answer": [
+        "D、刷单都是骗人的，不予理睬"
+      ]
+    },
+    {
+      "number": 40,
+      "type": "单选题",
+      "question": "遭遇电信诈骗，想要联系求助，应打哪个电话?",
+      "options": [
+        "A、96110",
+        "B、96119",
+        "C、96122",
+        "D、96113"
+      ],
+      "answer": "A、96110",
+      "answer_labels": [
+        "A"
+      ],
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "normalized_options": [
+        "96110",
+        "96113",
+        "96119",
+        "96122"
+      ],
+      "question_key": "遭遇电信诈骗,想要联系求助,应打哪个电话?|96110|96113|96119|96122",
+      "answer_key": [
+        "96110"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "verification_note": "Platform feedback A compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "A"
+      ],
+      "platform_answer": [
+        "A、96110"
+      ]
+    },
+    {
+      "number": 41,
+      "type": "单选题",
+      "question": "小文接到一个号码是“+998**110”的电话，电话那头自称是东莞市公安局刑侦科的民警，同时还报出了姓名、警号和办公地址，接着又说，她在邮包里有冰毒，涉嫌犯罪，必须将自己银行卡内资金转到警方的安全帐户内，等案件调查清楚再退还给她，小文做法错误的是?",
+      "options": [
+        "A、所有司法机关绝对不会通过电话办案",
+        "B、所有司法机关从未设置过“安全帐户”",
+        "C、所有司法机关不会通过电话要求任何人转帐核查",
+        "D、按照对方要求到银行去汇款转帐"
+      ],
+      "answer": "D、按照对方要求到银行去汇款转帐",
+      "answer_labels": [
+        "D"
+      ],
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "normalized_options": [
+        "所有司法机关不会通过电话要求任何人转帐核查",
+        "所有司法机关从未设置过“安全帐户”",
+        "所有司法机关绝对不会通过电话办案",
+        "按照对方要求到银行去汇款转帐"
+      ],
+      "question_key": "小文接到一个号码是“+998**110”的电话,电话那头自称是东莞市公安局刑侦科的民警,同时还报出了姓名、警号和办公地址,接着又说,她在邮包里有冰毒,涉嫌犯罪,必须将自己银行卡内资金转到警方的安全帐户内,等案件调查清楚再退还给她,小文做法错误的是?|所有司法机关不会通过电话要求任何人转帐核查|所有司法机关从未设置过“安全帐户”|所有司法机关绝对不会通过电话办案|按照对方要求到银行去汇款转帐",
+      "answer_key": [
+        "按照对方要求到银行去汇款转帐"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "verification_note": "Platform feedback D compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "D"
+      ],
+      "platform_answer": [
+        "D、按照对方要求到银行去汇款转帐"
+      ]
+    },
+    {
+      "number": 42,
+      "type": "单选题",
+      "question": "“校园贷”催收电话威胁“不还款就通知学校”，应：",
+      "options": [
+        "A、立即转账还款",
+        "B、向辅导员或保卫处报告",
+        "C、躲藏不接电话",
+        "D、向其他平台借钱还贷"
+      ],
+      "answer": "B、向辅导员或保卫处报告",
+      "answer_labels": [
+        "B"
+      ],
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "normalized_options": [
+        "向其他平台借钱还贷",
+        "向辅导员或保卫处报告",
+        "立即转账还款",
+        "躲藏不接电话"
+      ],
+      "question_key": "“校园贷”催收电话威胁“不还款就通知学校”,应:|向其他平台借钱还贷|向辅导员或保卫处报告|立即转账还款|躲藏不接电话",
+      "answer_key": [
+        "向辅导员或保卫处报告"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "verification_note": "Platform feedback B compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "B"
+      ],
+      "platform_answer": [
+        "B、向辅导员或保卫处报告"
+      ]
+    },
+    {
+      "number": 43,
+      "type": "多选题",
+      "question": "政府网站的可信标识包括：",
+      "options": [
+        "A、域名以.gov.cn结尾",
+        "B、网站底部有公安机关备案号",
+        "C、使用400开头的客服电话",
+        "D、页面有国徽图案"
+      ],
+      "selected_options": [
+        "A、域名以.gov.cn结尾"
+      ],
+      "answer": [
+        "A、域名以.gov.cn结尾",
+        "B、网站底部有公安机关备案号"
+      ],
+      "match": true,
+      "verification_status": "verified_by_platform_text",
+      "answer_labels": [
+        "A",
+        "B"
+      ],
+      "selected_options_labels": [
+        "A"
+      ],
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "normalized_options": [
+        "使用400开头的客服电话",
+        "域名以.gov.cn结尾",
+        "网站底部有公安机关备案号",
+        "页面有国徽图案"
+      ],
+      "question_key": "政府网站的可信标识包括:|使用400开头的客服电话|域名以.gov.cn结尾|网站底部有公安机关备案号|页面有国徽图案",
+      "answer_key": [
+        "域名以.gov.cn结尾",
+        "网站底部有公安机关备案号"
+      ],
+      "verification_note": "Platform feedback AB compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "A",
+        "B"
+      ],
+      "platform_answer": [
+        "A、域名以.gov.cn结尾",
+        "B、网站底部有公安机关备案号"
+      ]
+    },
+    {
+      "number": 44,
+      "type": "单选题",
+      "question": "“共享屏幕”协助操作退款的风险是：",
+      "options": [
+        "A、泄露支付密码和验证码",
+        "B、手机耗电量增加",
+        "C、网络延迟升高",
+        "D、对方看到个人照片"
+      ],
+      "answer": "A、泄露支付密码和验证码",
+      "answer_labels": [
+        "A"
+      ],
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "normalized_options": [
+        "对方看到个人照片",
+        "手机耗电量增加",
+        "泄露支付密码和验证码",
+        "网络延迟升高"
+      ],
+      "question_key": "“共享屏幕”协助操作退款的风险是:|对方看到个人照片|手机耗电量增加|泄露支付密码和验证码|网络延迟升高",
+      "answer_key": [
+        "泄露支付密码和验证码"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "verification_note": "Platform feedback A compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "A"
+      ],
+      "platform_answer": [
+        "A、泄露支付密码和验证码"
+      ]
+    },
+    {
+      "number": 45,
+      "type": "单选题",
+      "question": "学生小魏接到一个陌生手机号打来的电话，对方上来就说“小魏，明天到学院办公室来找我”，还没等小魏弄明白怎么回事，对方又打来电话，说正在和校长谈保送研究生的事情，如果想争取这个名额，就汇款2万元给他，小魏该怎么办?",
+      "options": [
+        "A、为了读研究生，按院领导的意思办吧",
+        "B、通过支付宝转账给对方",
+        "C、跟朋友借点钱汇给对方",
+        "D、绝对是骗子，打110报警"
+      ],
+      "answer": "D、绝对是骗子，打110报警",
+      "answer_labels": [
+        "D"
+      ],
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "normalized_options": [
+        "为了读研究生,按院领导的意思办吧",
+        "绝对是骗子,打110报警",
+        "跟朋友借点钱汇给对方",
+        "通过支付宝转账给对方"
+      ],
+      "question_key": "学生小魏接到一个陌生手机号打来的电话,对方上来就说“小魏,明天到学院办公室来找我”,还没等小魏弄明白怎么回事,对方又打来电话,说正在和校长谈保送研究生的事情,如果想争取这个名额,就汇款2万元给他,小魏该怎么办?|为了读研究生,按院领导的意思办吧|绝对是骗子,打110报警|跟朋友借点钱汇给对方|通过支付宝转账给对方",
+      "answer_key": [
+        "绝对是骗子,打110报警"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "verification_note": "Platform feedback D compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "D"
+      ],
+      "platform_answer": [
+        "D、绝对是骗子，打110报警"
+      ]
+    },
+    {
+      "number": 46,
+      "type": "单选题",
+      "question": "接到自称“公安局”的电话，称你涉嫌洗钱并要求转账到“安全账户”，你应该：",
+      "options": [
+        "A、立即配合转账以证清白",
+        "B、挂断电话并拨打110核实",
+        "C、提供身份证和银行卡信息",
+        "D、按对方指示操作避免被拘捕"
+      ],
+      "answer": "B、挂断电话并拨打110核实",
+      "answer_labels": [
+        "B"
+      ],
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "normalized_options": [
+        "挂断电话并拨打110核实",
+        "按对方指示操作避免被拘捕",
+        "提供身份证和银行卡信息",
+        "立即配合转账以证清白"
+      ],
+      "question_key": "接到自称“公安局”的电话,称你涉嫌洗钱并要求转账到“安全账户”,你应该:|挂断电话并拨打110核实|按对方指示操作避免被拘捕|提供身份证和银行卡信息|立即配合转账以证清白",
+      "answer_key": [
+        "挂断电话并拨打110核实"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "verification_note": "Platform feedback B compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "B"
+      ],
+      "platform_answer": [
+        "B、挂断电话并拨打110核实"
+      ]
+    },
+    {
+      "number": 47,
+      "type": "单选题",
+      "question": "“新冠流调电话”要求提供银行卡号，正确的回应是：",
+      "options": [
+        "A、配合防疫如实告知",
+        "B、挂断并拨打110举报",
+        "C、转接“公安局”核实",
+        "D、提供父母联系方式"
+      ],
+      "answer": "B、挂断并拨打110举报",
+      "answer_labels": [
+        "B"
+      ],
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "normalized_options": [
+        "挂断并拨打110举报",
+        "提供父母联系方式",
+        "转接“公安局”核实",
+        "配合防疫如实告知"
+      ],
+      "question_key": "“新冠流调电话”要求提供银行卡号,正确的回应是:|挂断并拨打110举报|提供父母联系方式|转接“公安局”核实|配合防疫如实告知",
+      "answer_key": [
+        "挂断并拨打110举报"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "verification_note": "Platform feedback B compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "B"
+      ],
+      "platform_answer": [
+        "B、挂断并拨打110举报"
+      ]
+    },
+    {
+      "number": 48,
+      "type": "多选题",
+      "question": "“FaceTime诈骗”的防范措施有：",
+      "options": [
+        "A、关闭FaceTime接听功能",
+        "B、拒接陌生账号来电",
+        "C、接听后静音试探",
+        "D、向苹果官方举报账号"
+      ],
+      "selected_options": [
+        "A、关闭FaceTime接听功能"
+      ],
+      "answer": [
+        "A、关闭FaceTime接听功能",
+        "B、拒接陌生账号来电",
+        "D、向苹果官方举报账号"
+      ],
+      "match": true,
+      "verification_status": "verified_by_platform_text",
+      "answer_labels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "selected_options_labels": [
+        "A"
+      ],
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "normalized_options": [
+        "关闭FaceTime接听功能",
+        "向苹果官方举报账号",
+        "拒接陌生账号来电",
+        "接听后静音试探"
+      ],
+      "question_key": "“FaceTime诈骗”的防范措施有:|关闭FaceTime接听功能|向苹果官方举报账号|拒接陌生账号来电|接听后静音试探",
+      "answer_key": [
+        "关闭FaceTime接听功能",
+        "向苹果官方举报账号",
+        "拒接陌生账号来电"
+      ],
+      "verification_note": "Platform feedback ABD compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "platform_answer": [
+        "A、关闭FaceTime接听功能",
+        "B、拒接陌生账号来电",
+        "D、向苹果官方举报账号"
+      ]
+    },
+    {
+      "number": 49,
+      "type": "多选题",
+      "question": "“注销校园贷”骗局中，骗子可能：",
+      "options": [
+        "A、恐吓“影响征信”",
+        "B、要求下载借贷App提现转账",
+        "C、提供央行红头文件",
+        "D、诱导开启屏幕共享"
+      ],
+      "selected_options": [
+        "A、恐吓“影响征信”"
+      ],
+      "answer": [
+        "A、恐吓“影响征信”",
+        "B、要求下载借贷App提现转账",
+        "D、诱导开启屏幕共享"
+      ],
+      "match": true,
+      "verification_status": "verified_by_platform_text",
+      "answer_labels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "selected_options_labels": [
+        "A"
+      ],
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "normalized_options": [
+        "恐吓“影响征信”",
+        "提供央行红头文件",
+        "要求下载借贷App提现转账",
+        "诱导开启屏幕共享"
+      ],
+      "question_key": "“注销校园贷”骗局中,骗子可能:|恐吓“影响征信”|提供央行红头文件|要求下载借贷App提现转账|诱导开启屏幕共享",
+      "answer_key": [
+        "恐吓“影响征信”",
+        "要求下载借贷App提现转账",
+        "诱导开启屏幕共享"
+      ],
+      "verification_note": "Platform feedback ABD compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "platform_answer": [
+        "A、恐吓“影响征信”",
+        "B、要求下载借贷App提现转账",
+        "D、诱导开启屏幕共享"
+      ]
+    },
+    {
+      "number": 50,
+      "type": "多选题",
+      "question": "游戏账号交易中需警惕：",
+      "options": [
+        "A、要求支付“解冻费”",
+        "B、诱导到非官方平台交易",
+        "C、支持担保交易",
+        "D、索要账号密码“验号”"
+      ],
+      "selected_options": [
+        "A、要求支付“解冻费”",
+        "B、诱导到非官方平台交易",
+        "D、索要账号密码“验号”"
+      ],
+      "answer": [
+        "A、要求支付“解冻费”",
+        "B、诱导到非官方平台交易",
+        "D、索要账号密码“验号”"
+      ],
+      "match": true,
+      "verification_status": "verified_by_platform_text",
+      "answer_labels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "selected_options_labels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "normalized_options": [
+        "支持担保交易",
+        "索要账号密码“验号”",
+        "要求支付“解冻费”",
+        "诱导到非官方平台交易"
+      ],
+      "question_key": "游戏账号交易中需警惕:|支持担保交易|索要账号密码“验号”|要求支付“解冻费”|诱导到非官方平台交易",
+      "answer_key": [
+        "索要账号密码“验号”",
+        "要求支付“解冻费”",
+        "诱导到非官方平台交易"
+      ],
+      "verification_note": "Platform feedback ABD compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "platform_answer": [
+        "A、要求支付“解冻费”",
+        "B、诱导到非官方平台交易",
+        "D、索要账号密码“验号”"
+      ]
+    },
+    {
+      "number": 51,
+      "type": "单选题",
+      "question": "发现被骗后，最应优先做的是：",
+      "options": [
+        "A、删除聊天记录",
+        "B、立即拨打110并冻结账户",
+        "C、联系骗子追回资金",
+        "D、隐瞒不告诉他人"
+      ],
+      "answer": "B、立即拨打110并冻结账户",
+      "answer_labels": [
+        "B"
+      ],
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "normalized_options": [
+        "删除聊天记录",
+        "立即拨打110并冻结账户",
+        "联系骗子追回资金",
+        "隐瞒不告诉他人"
+      ],
+      "question_key": "发现被骗后,最应优先做的是:|删除聊天记录|立即拨打110并冻结账户|联系骗子追回资金|隐瞒不告诉他人",
+      "answer_key": [
+        "立即拨打110并冻结账户"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "verification_note": "Platform feedback B compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "B"
+      ],
+      "platform_answer": [
+        "B、立即拨打110并冻结账户"
+      ]
+    },
+    {
+      "number": 52,
+      "type": "多选题",
+      "question": "以下哪些行为易导致个人信息泄露？",
+      "options": [
+        "A、随意扫描不明二维码",
+        "B、在街边问卷填手机号",
+        "C、使用学校VPN查资料",
+        "D、丢弃未撕毁的快递单"
+      ],
+      "selected_options": [
+        "A、随意扫描不明二维码"
+      ],
+      "answer": [
+        "A、随意扫描不明二维码",
+        "B、在街边问卷填手机号",
+        "D、丢弃未撕毁的快递单"
+      ],
+      "match": true,
+      "verification_status": "verified_by_platform_text",
+      "answer_labels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "selected_options_labels": [
+        "A"
+      ],
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "normalized_options": [
+        "丢弃未撕毁的快递单",
+        "使用学校VPN查资料",
+        "在街边问卷填手机号",
+        "随意扫描不明二维码"
+      ],
+      "question_key": "以下哪些行为易导致个人信息泄露?|丢弃未撕毁的快递单|使用学校VPN查资料|在街边问卷填手机号|随意扫描不明二维码",
+      "answer_key": [
+        "丢弃未撕毁的快递单",
+        "在街边问卷填手机号",
+        "随意扫描不明二维码"
+      ],
+      "verification_note": "Platform feedback ABD compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "platform_answer": [
+        "A、随意扫描不明二维码",
+        "B、在街边问卷填手机号",
+        "D、丢弃未撕毁的快递单"
+      ]
+    },
+    {
+      "number": 53,
+      "type": "单选题",
+      "question": "“信用卡提额”短信要求回拨电话，应：",
+      "options": [
+        "A、立即回电办理",
+        "B、拨打银行官方客服",
+        "C、转发短信给朋友",
+        "D、删除短信"
+      ],
+      "answer": "B、拨打银行官方客服",
+      "answer_labels": [
+        "B"
+      ],
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "normalized_options": [
+        "删除短信",
+        "拨打银行官方客服",
+        "立即回电办理",
+        "转发短信给朋友"
+      ],
+      "question_key": "“信用卡提额”短信要求回拨电话,应:|删除短信|拨打银行官方客服|立即回电办理|转发短信给朋友",
+      "answer_key": [
+        "拨打银行官方客服"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "verification_note": "Platform feedback B compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "B"
+      ],
+      "platform_answer": [
+        "B、拨打银行官方客服"
+      ]
+    },
+    {
+      "number": 54,
+      "type": "多选题",
+      "question": "防范“假冒公检法”需牢记：",
+      "options": [
+        "A、公安机关不会电话办案",
+        "B、没有所谓的“安全账户”",
+        "C、可转接电话至真警察",
+        "D、要求视频验证警号"
+      ],
+      "selected_options": [
+        "A、公安机关不会电话办案"
+      ],
+      "answer": [
+        "A、公安机关不会电话办案",
+        "B、没有所谓的“安全账户”"
+      ],
+      "match": true,
+      "verification_status": "verified_by_platform_text",
+      "answer_labels": [
+        "A",
+        "B"
+      ],
+      "selected_options_labels": [
+        "A"
+      ],
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "normalized_options": [
+        "公安机关不会电话办案",
+        "可转接电话至真警察",
+        "没有所谓的“安全账户”",
+        "要求视频验证警号"
+      ],
+      "question_key": "防范“假冒公检法”需牢记:|公安机关不会电话办案|可转接电话至真警察|没有所谓的“安全账户”|要求视频验证警号",
+      "answer_key": [
+        "公安机关不会电话办案",
+        "没有所谓的“安全账户”"
+      ],
+      "verification_note": "Platform feedback AB compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "A",
+        "B"
+      ],
+      "platform_answer": [
+        "A、公安机关不会电话办案",
+        "B、没有所谓的“安全账户”"
+      ]
+    },
+    {
+      "number": 55,
+      "type": "单选题",
+      "question": "“游戏账号交易平台”客服要求支付“解冻费”才能提现，应：",
+      "options": [
+        "A、付款后催促对方操作",
+        "B、停止交易并举报平台",
+        "C、联系平台官方电话核实",
+        "D、借钱继续支付费用"
+      ],
+      "answer": "B、停止交易并举报平台",
+      "answer_labels": [
+        "B"
+      ],
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "normalized_options": [
+        "付款后催促对方操作",
+        "借钱继续支付费用",
+        "停止交易并举报平台",
+        "联系平台官方电话核实"
+      ],
+      "question_key": "“游戏账号交易平台”客服要求支付“解冻费”才能提现,应:|付款后催促对方操作|借钱继续支付费用|停止交易并举报平台|联系平台官方电话核实",
+      "answer_key": [
+        "停止交易并举报平台"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "verification_note": "Platform feedback B compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "B"
+      ],
+      "platform_answer": [
+        "B、停止交易并举报平台"
+      ]
+    },
+    {
+      "number": 56,
+      "type": "多选题",
+      "question": "网络交友诈骗的警示信号是：",
+      "options": [
+        "A、短期内表达爱意",
+        "B、推荐投资或赌博平台",
+        "C、分享日常生活照片",
+        "D、索要红包或借款"
+      ],
+      "selected_options": [
+        "A、短期内表达爱意"
+      ],
+      "answer": [
+        "A、短期内表达爱意",
+        "B、推荐投资或赌博平台",
+        "D、索要红包或借款"
+      ],
+      "match": true,
+      "verification_status": "verified_by_platform_text",
+      "answer_labels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "selected_options_labels": [
+        "A"
+      ],
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "normalized_options": [
+        "分享日常生活照片",
+        "推荐投资或赌博平台",
+        "短期内表达爱意",
+        "索要红包或借款"
+      ],
+      "question_key": "网络交友诈骗的警示信号是:|分享日常生活照片|推荐投资或赌博平台|短期内表达爱意|索要红包或借款",
+      "answer_key": [
+        "推荐投资或赌博平台",
+        "短期内表达爱意",
+        "索要红包或借款"
+      ],
+      "verification_note": "Platform feedback ABD compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "platform_answer": [
+        "A、短期内表达爱意",
+        "B、推荐投资或赌博平台",
+        "D、索要红包或借款"
+      ]
+    },
+    {
+      "number": 57,
+      "type": "单选题",
+      "question": "在QQ上，一个陌生人加小强为好友，在备注信息里写道：“2024年四六级考试内部试卷，百分之百真实，每套5000元，可以先付30%首付款，尾款等考试结束确认题目真实性再还支付”。如果你看到这样的信息会怎么做?",
+      "options": [
+        "A、马上就要考试了，自己的成绩不理想，应该试试",
+        "B、宁可信其有，不可信其无，买吧",
+        "C、骗子的脑洞开的好大，这么低级的骗术我不会上当",
+        "D、和对方聊聊，看看能不能便宜点"
+      ],
+      "answer": "C、骗子的脑洞开的好大，这么低级的骗术我不会上当",
+      "answer_labels": [
+        "C"
+      ],
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "normalized_options": [
+        "和对方聊聊,看看能不能便宜点",
+        "宁可信其有,不可信其无,买吧",
+        "马上就要考试了,自己的成绩不理想,应该试试",
+        "骗子的脑洞开的好大,这么低级的骗术我不会上当"
+      ],
+      "question_key": "在QQ上,一个陌生人加小强为好友,在备注信息里写道:“2024年四六级考试内部试卷,百分之百真实,每套5000元,可以先付30%首付款,尾款等考试结束确认题目真实性再还支付”。如果你看到这样的信息会怎么做?|和对方聊聊,看看能不能便宜点|宁可信其有,不可信其无,买吧|马上就要考试了,自己的成绩不理想,应该试试|骗子的脑洞开的好大,这么低级的骗术我不会上当",
+      "answer_key": [
+        "骗子的脑洞开的好大,这么低级的骗术我不会上当"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "verification_note": "Platform feedback C compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "C"
+      ],
+      "platform_answer": [
+        "C、骗子的脑洞开的好大，这么低级的骗术我不会上当"
+      ]
+    },
+    {
+      "number": 58,
+      "type": "单选题",
+      "question": "收到的手机验证码，您会告诉其他人吗?",
+      "options": [
+        "A、会",
+        "B、可以给熟人",
+        "C、谁都不给",
+        "D、不重要，给别人看也不损失"
+      ],
+      "answer": "C、谁都不给",
+      "answer_labels": [
+        "C"
+      ],
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "normalized_options": [
+        "不重要,给别人看也不损失",
+        "会",
+        "可以给熟人",
+        "谁都不给"
+      ],
+      "question_key": "收到的手机验证码,您会告诉其他人吗?|不重要,给别人看也不损失|会|可以给熟人|谁都不给",
+      "answer_key": [
+        "谁都不给"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "verification_note": "Platform feedback C compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "C"
+      ],
+      "platform_answer": [
+        "C、谁都不给"
+      ]
+    },
+    {
+      "number": 59,
+      "type": "单选题",
+      "question": "“ETC禁用”短信附链接更新信息，正确的做法：",
+      "options": [
+        "A、立即点击链接办理",
+        "B、通过官方APP或银行核实",
+        "C、转发给有车的家人",
+        "D、拨打短信内客服电话"
+      ],
+      "answer": "B、通过官方APP或银行核实",
+      "answer_labels": [
+        "B"
+      ],
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "normalized_options": [
+        "拨打短信内客服电话",
+        "立即点击链接办理",
+        "转发给有车的家人",
+        "通过官方APP或银行核实"
+      ],
+      "question_key": "“ETC禁用”短信附链接更新信息,正确的做法:|拨打短信内客服电话|立即点击链接办理|转发给有车的家人|通过官方APP或银行核实",
+      "answer_key": [
+        "通过官方APP或银行核实"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "verification_note": "Platform feedback B compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "B"
+      ],
+      "platform_answer": [
+        "B、通过官方APP或银行核实"
+      ]
+    },
+    {
+      "number": 60,
+      "type": "单选题",
+      "question": "“0元学配音”培训诱导学生签署的分期合同实质是：",
+      "options": [
+        "A、教育分期协议",
+        "B、网络贷款合同",
+        "C、就业保障合同",
+        "D、试听课程协议"
+      ],
+      "answer": "B、网络贷款合同",
+      "answer_labels": [
+        "B"
+      ],
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "normalized_options": [
+        "就业保障合同",
+        "教育分期协议",
+        "网络贷款合同",
+        "试听课程协议"
+      ],
+      "question_key": "“0元学配音”培训诱导学生签署的分期合同实质是:|就业保障合同|教育分期协议|网络贷款合同|试听课程协议",
+      "answer_key": [
+        "网络贷款合同"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "verification_note": "Platform feedback B compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "B"
+      ],
+      "platform_answer": [
+        "B、网络贷款合同"
+      ]
+    },
+    {
+      "number": 61,
+      "type": "单选题",
+      "question": "小梁某天在抖音短视频里认识一个美女，美女邀请一起裸聊，让他先下载并登录某交友APP一起裸聊，小梁的手机通讯录因此被诈骗团伙获取，最后诈骗团伙向小明要删除裸聊视频费，不处理就将视频发送小梁的亲朋好友，小梁该怎么办?",
+      "options": [
+        "A、不支付并向当地派出所报警求助。",
+        "B、支付删除视频费",
+        "C、继续裸聊"
+      ],
+      "answer": "A、不支付并向当地派出所报警求助。",
+      "answer_labels": [
+        "A"
+      ],
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "normalized_options": [
+        "不支付并向当地派出所报警求助。",
+        "支付删除视频费",
+        "继续裸聊"
+      ],
+      "question_key": "小梁某天在抖音短视频里认识一个美女,美女邀请一起裸聊,让他先下载并登录某交友APP一起裸聊,小梁的手机通讯录因此被诈骗团伙获取,最后诈骗团伙向小明要删除裸聊视频费,不处理就将视频发送小梁的亲朋好友,小梁该怎么办?|不支付并向当地派出所报警求助。|支付删除视频费|继续裸聊",
+      "answer_key": [
+        "不支付并向当地派出所报警求助。"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "verification_note": "Platform feedback A compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "A"
+      ],
+      "platform_answer": [
+        "A、不支付并向当地派出所报警求助。"
+      ]
+    },
+    {
+      "number": 62,
+      "type": "单选题",
+      "question": "收到“教务处”短信称“点击链接查处分通知”，应如何操作？",
+      "options": [
+        "A、立即点击链接查看",
+        "B、联系辅导员核实短信真伪",
+        "C、转发给同学确认",
+        "D、登录短信内提供的网站"
+      ],
+      "answer": "B、联系辅导员核实短信真伪",
+      "answer_labels": [
+        "B"
+      ],
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "normalized_options": [
+        "登录短信内提供的网站",
+        "立即点击链接查看",
+        "联系辅导员核实短信真伪",
+        "转发给同学确认"
+      ],
+      "question_key": "收到“教务处”短信称“点击链接查处分通知”,应如何操作?|登录短信内提供的网站|立即点击链接查看|联系辅导员核实短信真伪|转发给同学确认",
+      "answer_key": [
+        "联系辅导员核实短信真伪"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "verification_note": "Platform feedback B compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "B"
+      ],
+      "platform_answer": [
+        "B、联系辅导员核实短信真伪"
+      ]
+    },
+    {
+      "number": 63,
+      "type": "单选题",
+      "question": "网购过程中，如果接到电话或短信称：“您网购的物品因系统升级导致订单失效，需要联系淘宝客服办理激活或解冻，电话：xxxx；网址：xxxx。”正确的做法是",
+      "options": [
+        "A、直接点击短信中的网址进行查询",
+        "B、登录官方购物网站查询订单详情",
+        "C、按照客服要求前往银行ATM机办理业务"
+      ],
+      "answer": "B、登录官方购物网站查询订单详情",
+      "answer_labels": [
+        "B"
+      ],
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "normalized_options": [
+        "按照客服要求前往银行ATM机办理业务",
+        "登录官方购物网站查询订单详情",
+        "直接点击短信中的网址进行查询"
+      ],
+      "question_key": "网购过程中,如果接到电话或短信称:“您网购的物品因系统升级导致订单失效,需要联系淘宝客服办理激活或解冻,电话:xxxx;网址:xxxx。”正确的做法是|按照客服要求前往银行ATM机办理业务|登录官方购物网站查询订单详情|直接点击短信中的网址进行查询",
+      "answer_key": [
+        "登录官方购物网站查询订单详情"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "verification_note": "Platform feedback B compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "B"
+      ],
+      "platform_answer": [
+        "B、登录官方购物网站查询订单详情"
+      ]
+    },
+    {
+      "number": 64,
+      "type": "单选题",
+      "question": "当你收到短信称你的家人或朋友因事故急需用钱，电话又打不通时，此时正确的做法是()",
+      "options": [
+        "A、立即汇钱",
+        "B、不予理睬",
+        "C、保持头脑清醒，查看情况是否属实"
+      ],
+      "answer": "C、保持头脑清醒，查看情况是否属实",
+      "answer_labels": [
+        "C"
+      ],
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "normalized_options": [
+        "不予理睬",
+        "保持头脑清醒,查看情况是否属实",
+        "立即汇钱"
+      ],
+      "question_key": "当你收到短信称你的家人或朋友因事故急需用钱,电话又打不通时,此时正确的做法是()|不予理睬|保持头脑清醒,查看情况是否属实|立即汇钱",
+      "answer_key": [
+        "保持头脑清醒,查看情况是否属实"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "verification_note": "Platform feedback C compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "C"
+      ],
+      "platform_answer": [
+        "C、保持头脑清醒，查看情况是否属实"
+      ]
+    },
+    {
+      "number": 65,
+      "type": "单选题",
+      "question": "“演唱会内部票”交易时应坚持：",
+      "options": [
+        "A、到付现金",
+        "B、面交时验票再付款",
+        "C、微信预付50%定金",
+        "D、信任对方直接转账"
+      ],
+      "answer": "B、面交时验票再付款",
+      "answer_labels": [
+        "B"
+      ],
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "normalized_options": [
+        "信任对方直接转账",
+        "到付现金",
+        "微信预付50%定金",
+        "面交时验票再付款"
+      ],
+      "question_key": "“演唱会内部票”交易时应坚持:|信任对方直接转账|到付现金|微信预付50%定金|面交时验票再付款",
+      "answer_key": [
+        "面交时验票再付款"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "verification_note": "Platform feedback B compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "B"
+      ],
+      "platform_answer": [
+        "B、面交时验票再付款"
+      ]
+    },
+    {
+      "number": 66,
+      "type": "单选题",
+      "question": "“免费送游戏皮肤”需扫描二维码授权账号，风险在于：",
+      "options": [
+        "A、消耗手机流量",
+        "B、泄露社交账号密码",
+        "C、导致游戏卡顿",
+        "D、收到广告短信"
+      ],
+      "answer": "B、泄露社交账号密码",
+      "answer_labels": [
+        "B"
+      ],
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "normalized_options": [
+        "导致游戏卡顿",
+        "收到广告短信",
+        "泄露社交账号密码",
+        "消耗手机流量"
+      ],
+      "question_key": "“免费送游戏皮肤”需扫描二维码授权账号,风险在于:|导致游戏卡顿|收到广告短信|泄露社交账号密码|消耗手机流量",
+      "answer_key": [
+        "泄露社交账号密码"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "verification_note": "Platform feedback B compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "B"
+      ],
+      "platform_answer": [
+        "B、泄露社交账号密码"
+      ]
+    },
+    {
+      "number": 67,
+      "type": "单选题",
+      "question": "“公益捐款”群要求每日转账30元，承诺返利50元，应：",
+      "options": [
+        "A、连续参与三天试试",
+        "B、举报群聊并退出",
+        "C、动员同学一起捐款",
+        "D、要求群主提供资质证明"
+      ],
+      "answer": "B、举报群聊并退出",
+      "answer_labels": [
+        "B"
+      ],
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "normalized_options": [
+        "举报群聊并退出",
+        "动员同学一起捐款",
+        "要求群主提供资质证明",
+        "连续参与三天试试"
+      ],
+      "question_key": "“公益捐款”群要求每日转账30元,承诺返利50元,应:|举报群聊并退出|动员同学一起捐款|要求群主提供资质证明|连续参与三天试试",
+      "answer_key": [
+        "举报群聊并退出"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "verification_note": "Platform feedback B compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "B"
+      ],
+      "platform_answer": [
+        "B、举报群聊并退出"
+      ]
+    },
+    {
+      "number": 68,
+      "type": "单选题",
+      "question": "张某收到短信，称可以帮其升级信用卡额度，只要将信用卡账号发给对方，后来收到一个短信验证提示，对方说要短信验证码才能完成操作，张某应该怎么做?",
+      "options": [
+        "A、发短信验证码给对方。",
+        "B、只要能帮我提升额度就按照对方的指示完成各项操作。",
+        "C、删除短信不理睬，因为信用卡额度是靠自己还款良好记录来提升的。"
+      ],
+      "answer": "C、删除短信不理睬，因为信用卡额度是靠自己还款良好记录来提升的。",
+      "answer_labels": [
+        "C"
+      ],
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "normalized_options": [
+        "删除短信不理睬,因为信用卡额度是靠自己还款良好记录来提升的。",
+        "发短信验证码给对方。",
+        "只要能帮我提升额度就按照对方的指示完成各项操作。"
+      ],
+      "question_key": "张某收到短信,称可以帮其升级信用卡额度,只要将信用卡账号发给对方,后来收到一个短信验证提示,对方说要短信验证码才能完成操作,张某应该怎么做?|删除短信不理睬,因为信用卡额度是靠自己还款良好记录来提升的。|发短信验证码给对方。|只要能帮我提升额度就按照对方的指示完成各项操作。",
+      "answer_key": [
+        "删除短信不理睬,因为信用卡额度是靠自己还款良好记录来提升的。"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "verification_note": "Platform feedback C compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "C"
+      ],
+      "platform_answer": [
+        "C、删除短信不理睬，因为信用卡额度是靠自己还款良好记录来提升的。"
+      ]
+    },
+    {
+      "number": 69,
+      "type": "单选题",
+      "question": "自称“淘宝客服”来电赔偿商品质量问题，要求你提供验证码，应：",
+      "options": [
+        "A、告知验证码加快流程",
+        "B、挂断后联系官方客服核实",
+        "C、按对方指导操作支付宝",
+        "D、提供银行卡号方便退款"
+      ],
+      "answer": "B、挂断后联系官方客服核实",
+      "answer_labels": [
+        "B"
+      ],
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "normalized_options": [
+        "告知验证码加快流程",
+        "挂断后联系官方客服核实",
+        "按对方指导操作支付宝",
+        "提供银行卡号方便退款"
+      ],
+      "question_key": "自称“淘宝客服”来电赔偿商品质量问题,要求你提供验证码,应:|告知验证码加快流程|挂断后联系官方客服核实|按对方指导操作支付宝|提供银行卡号方便退款",
+      "answer_key": [
+        "挂断后联系官方客服核实"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "verification_note": "Platform feedback B compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "B"
+      ],
+      "platform_answer": [
+        "B、挂断后联系官方客服核实"
+      ]
+    },
+    {
+      "number": 70,
+      "type": "多选题",
+      "question": "校园贷陷阱可能表现为：",
+      "options": [
+        "A、“零利息” 但收取高额服务费",
+        "B、要求抵押学生证",
+        "C、签订电子合同",
+        "D、暴力催收威胁"
+      ],
+      "selected_options": [
+        "A、“零利息” 但收取高额服务费"
+      ],
+      "answer": [
+        "A、“零利息” 但收取高额服务费",
+        "B、要求抵押学生证",
+        "D、暴力催收威胁"
+      ],
+      "match": true,
+      "verification_status": "verified_by_platform_text",
+      "answer_labels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "selected_options_labels": [
+        "A"
+      ],
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "normalized_options": [
+        "“零利息” 但收取高额服务费",
+        "暴力催收威胁",
+        "签订电子合同",
+        "要求抵押学生证"
+      ],
+      "question_key": "校园贷陷阱可能表现为:|“零利息” 但收取高额服务费|暴力催收威胁|签订电子合同|要求抵押学生证",
+      "answer_key": [
+        "“零利息” 但收取高额服务费",
+        "暴力催收威胁",
+        "要求抵押学生证"
+      ],
+      "verification_note": "Platform feedback ABD compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "platform_answer": [
+        "A、“零利息” 但收取高额服务费",
+        "B、要求抵押学生证",
+        "D、暴力催收威胁"
+      ]
+    },
+    {
+      "number": 71,
+      "type": "单选题",
+      "question": "“扫码测性格”活动要求微信授权，可能导致：",
+      "options": [
+        "A、朋友圈被点赞",
+        "B、好友列表被盗取",
+        "C、获得专业报告",
+        "D、微信自动更新"
+      ],
+      "answer": "B、好友列表被盗取",
+      "answer_labels": [
+        "B"
+      ],
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "normalized_options": [
+        "好友列表被盗取",
+        "微信自动更新",
+        "朋友圈被点赞",
+        "获得专业报告"
+      ],
+      "question_key": "“扫码测性格”活动要求微信授权,可能导致:|好友列表被盗取|微信自动更新|朋友圈被点赞|获得专业报告",
+      "answer_key": [
+        "好友列表被盗取"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "verification_note": "Platform feedback B compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "B"
+      ],
+      "platform_answer": [
+        "B、好友列表被盗取"
+      ]
+    },
+    {
+      "number": 72,
+      "type": "单选题",
+      "question": "一天，你手机接到客服电话，说你以前购买的物品有质量上的问题，现在要求对你补偿，并能详细报出你以前购买物品的订单号及内容还有你的地址，然后要求你点击他发来的链接，你会?",
+      "options": [
+        "A、加对方好友，并点击对方发来的链接，在链接里输入银行卡号等个人信息",
+        "B、半信半疑，要求对方直接退款到支付宝",
+        "C、通过淘宝官方网站，访问淘宝专门客服询问怎么退款，是否真实"
+      ],
+      "answer": "C、通过淘宝官方网站，访问淘宝专门客服询问怎么退款，是否真实",
+      "answer_labels": [
+        "C"
+      ],
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "normalized_options": [
+        "加对方好友,并点击对方发来的链接,在链接里输入银行卡号等个人信息",
+        "半信半疑,要求对方直接退款到支付宝",
+        "通过淘宝官方网站,访问淘宝专门客服询问怎么退款,是否真实"
+      ],
+      "question_key": "一天,你手机接到客服电话,说你以前购买的物品有质量上的问题,现在要求对你补偿,并能详细报出你以前购买物品的订单号及内容还有你的地址,然后要求你点击他发来的链接,你会?|加对方好友,并点击对方发来的链接,在链接里输入银行卡号等个人信息|半信半疑,要求对方直接退款到支付宝|通过淘宝官方网站,访问淘宝专门客服询问怎么退款,是否真实",
+      "answer_key": [
+        "通过淘宝官方网站,访问淘宝专门客服询问怎么退款,是否真实"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "verification_note": "Platform feedback C compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "C"
+      ],
+      "platform_answer": [
+        "C、通过淘宝官方网站，访问淘宝专门客服询问怎么退款，是否真实"
+      ]
+    },
+    {
+      "number": 73,
+      "type": "单选题",
+      "question": "防范钓鱼邮件的关键是：",
+      "options": [
+        "A、击前核对发件人",
+        "B、绝不点击陌生链接",
+        "C、回复询问真实性",
+        "D、下载附件查看内容"
+      ],
+      "answer": "B、绝不点击陌生链接",
+      "answer_labels": [
+        "B"
+      ],
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "normalized_options": [
+        "下载附件查看内容",
+        "击前核对发件人",
+        "回复询问真实性",
+        "绝不点击陌生链接"
+      ],
+      "question_key": "防范钓鱼邮件的关键是:|下载附件查看内容|击前核对发件人|回复询问真实性|绝不点击陌生链接",
+      "answer_key": [
+        "绝不点击陌生链接"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "verification_note": "Platform feedback B compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "B"
+      ],
+      "platform_answer": [
+        "B、绝不点击陌生链接"
+      ]
+    },
+    {
+      "number": 74,
+      "type": "多选题",
+      "question": "“游戏代练”诈骗可能要求：",
+      "options": [
+        "A、提供账号密码",
+        "B、支付“保证金”",
+        "C、签订服务协议",
+        "D、先付款后操作"
+      ],
+      "selected_options": [
+        "A、提供账号密码"
+      ],
+      "answer": [
+        "A、提供账号密码",
+        "B、支付“保证金”",
+        "D、先付款后操作"
+      ],
+      "match": true,
+      "verification_status": "verified_by_platform_text",
+      "answer_labels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "selected_options_labels": [
+        "A"
+      ],
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "normalized_options": [
+        "先付款后操作",
+        "提供账号密码",
+        "支付“保证金”",
+        "签订服务协议"
+      ],
+      "question_key": "“游戏代练”诈骗可能要求:|先付款后操作|提供账号密码|支付“保证金”|签订服务协议",
+      "answer_key": [
+        "先付款后操作",
+        "提供账号密码",
+        "支付“保证金”"
+      ],
+      "verification_note": "Platform feedback ABD compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "platform_answer": [
+        "A、提供账号密码",
+        "B、支付“保证金”",
+        "D、先付款后操作"
+      ]
+    },
+    {
+      "number": 75,
+      "type": "单选题",
+      "question": "收到“航班取消”短信并要求点击链接退改签，第一步应：",
+      "options": [
+        "A、点击链接办理退款",
+        "B、拨打航空公司官方电话核实",
+        "C、提供银行卡信息收补偿",
+        "D、转发短信到同学群求证"
+      ],
+      "answer": "B、拨打航空公司官方电话核实",
+      "answer_labels": [
+        "B"
+      ],
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "normalized_options": [
+        "拨打航空公司官方电话核实",
+        "提供银行卡信息收补偿",
+        "点击链接办理退款",
+        "转发短信到同学群求证"
+      ],
+      "question_key": "收到“航班取消”短信并要求点击链接退改签,第一步应:|拨打航空公司官方电话核实|提供银行卡信息收补偿|点击链接办理退款|转发短信到同学群求证",
+      "answer_key": [
+        "拨打航空公司官方电话核实"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "verification_note": "Platform feedback B compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "B"
+      ],
+      "platform_answer": [
+        "B、拨打航空公司官方电话核实"
+      ]
+    },
+    {
+      "number": 76,
+      "type": "单选题",
+      "question": "以下关于出租、出借、出售个人银行账户表述中那一项是正确的?",
+      "options": [
+        "A、银行账户属于个人私有财产，账户所有人可以自主决定出租、出售、出借",
+        "B、出租、出借、出售账户给亲人或朋友，肯定不会有问题",
+        "C、账户出租、出借、出售之后，发生法律纠纷与我无关",
+        "D、出租、出借、出售银行账户是违法行为，严重影响个人征信记录，且要承担相应的法律责任"
+      ],
+      "answer": "D、出租、出借、出售银行账户是违法行为，严重影响个人征信记录，且要承担相应的法律责任",
+      "answer_labels": [
+        "D"
+      ],
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "normalized_options": [
+        "出租、出借、出售账户给亲人或朋友,肯定不会有问题",
+        "出租、出借、出售银行账户是违法行为,严重影响个人征信记录,且要承担相应的法律责任",
+        "账户出租、出借、出售之后,发生法律纠纷与我无关",
+        "银行账户属于个人私有财产,账户所有人可以自主决定出租、出售、出借"
+      ],
+      "question_key": "以下关于出租、出借、出售个人银行账户表述中那一项是正确的?|出租、出借、出售账户给亲人或朋友,肯定不会有问题|出租、出借、出售银行账户是违法行为,严重影响个人征信记录,且要承担相应的法律责任|账户出租、出借、出售之后,发生法律纠纷与我无关|银行账户属于个人私有财产,账户所有人可以自主决定出租、出售、出借",
+      "answer_key": [
+        "出租、出借、出售银行账户是违法行为,严重影响个人征信记录,且要承担相应的法律责任"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "verification_note": "Platform feedback D compared using normalized unordered option text.",
+      "match": true,
+      "platform_answer_labels": [
+        "D"
+      ],
+      "platform_answer": [
+        "D、出租、出借、出售银行账户是违法行为，严重影响个人征信记录，且要承担相应的法律责任"
+      ]
+    },
+    {
+      "number": 77,
+      "type": "单选题",
+      "question": "某来电自称是快递客服，能说出你买的商品和地址，称快递车出车祸，发来网站链接登记理赔，你应该",
+      "options": [
+        "A、按对方指示操作",
+        "B、打开其发来的链接做相应登记",
+        "C、联系正规客服询问自己快递情况"
+      ],
+      "answer": "C、联系正规客服询问自己快递情况",
+      "answer_labels": [
+        "C"
+      ],
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "normalized_options": [
+        "打开其发来的链接做相应登记",
+        "按对方指示操作",
+        "联系正规客服询问自己快递情况"
+      ],
+      "question_key": "某来电自称是快递客服,能说出你买的商品和地址,称快递车出车祸,发来网站链接登记理赔,你应该|打开其发来的链接做相应登记|按对方指示操作|联系正规客服询问自己快递情况",
+      "answer_key": [
+        "联系正规客服询问自己快递情况"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "verification_note": "Platform feedback C compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "C"
+      ],
+      "platform_answer": [
+        "C、联系正规客服询问自己快递情况"
+      ]
+    },
+    {
+      "number": 78,
+      "type": "单选题",
+      "question": "同学QQ发消息说“手机欠费，帮忙充500元话费”，最安全的做法是：",
+      "options": [
+        "A、直接转账帮忙",
+        "B、打电话给该同学确认",
+        "C、要求对方发语音验证",
+        "D、通过QQ红包付款"
+      ],
+      "answer": "B、打电话给该同学确认",
+      "answer_labels": [
+        "B"
+      ],
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "normalized_options": [
+        "打电话给该同学确认",
+        "直接转账帮忙",
+        "要求对方发语音验证",
+        "通过QQ红包付款"
+      ],
+      "question_key": "同学QQ发消息说“手机欠费,帮忙充500元话费”,最安全的做法是:|打电话给该同学确认|直接转账帮忙|要求对方发语音验证|通过QQ红包付款",
+      "answer_key": [
+        "打电话给该同学确认"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "verification_note": "Platform feedback B compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "B"
+      ],
+      "platform_answer": [
+        "B、打电话给该同学确认"
+      ]
+    },
+    {
+      "number": 79,
+      "type": "多选题",
+      "question": "接到“医保卡异常”电话时，哪些操作存在风险？",
+      "options": [
+        "A、按提示转账到“安全账户”",
+        "B、提供身份证号、银行卡号",
+        "C、拨打12333官方电话核实",
+        "D、立即挂断并报警"
+      ],
+      "selected_options": [
+        "A、按提示转账到“安全账户”"
+      ],
+      "answer": [
+        "A、按提示转账到“安全账户”",
+        "B、提供身份证号、银行卡号"
+      ],
+      "match": true,
+      "verification_status": "verified_by_platform_text",
+      "answer_labels": [
+        "A",
+        "B"
+      ],
+      "selected_options_labels": [
+        "A"
+      ],
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "normalized_options": [
+        "拨打12333官方电话核实",
+        "按提示转账到“安全账户”",
+        "提供身份证号、银行卡号",
+        "立即挂断并报警"
+      ],
+      "question_key": "接到“医保卡异常”电话时,哪些操作存在风险?|拨打12333官方电话核实|按提示转账到“安全账户”|提供身份证号、银行卡号|立即挂断并报警",
+      "answer_key": [
+        "按提示转账到“安全账户”",
+        "提供身份证号、银行卡号"
+      ],
+      "verification_note": "Platform feedback AB compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "A",
+        "B"
+      ],
+      "platform_answer": [
+        "A、按提示转账到“安全账户”",
+        "B、提供身份证号、银行卡号"
+      ]
+    },
+    {
+      "number": 80,
+      "type": "单选题",
+      "question": "某天你接到一个电话，对方自称是公安局的警官，并直接报出你的名字和身份证号。警官称你的银行卡涉嫌洗钱犯罪，正在被警方通缉，如果要洗清嫌疑，需要把卡内的钱转到一个指定安全账户，核实排除嫌疑后，再把钱打回原账户，你应该怎么做?",
+      "options": [
+        "A、不相信，因为公安机关办案有严格程序，绝对不会在电话里办案，挂掉电话并拨打110报警",
+        "B、对方知道我的名字和身份证号，应该是真的",
+        "C、按对方要求到银行柜员机去转账，尽快洗清自己的嫌疑"
+      ],
+      "answer": "A、不相信，因为公安机关办案有严格程序，绝对不会在电话里办案，挂掉电话并拨打110报警",
+      "answer_labels": [
+        "A"
+      ],
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "normalized_options": [
+        "不相信,因为公安机关办案有严格程序,绝对不会在电话里办案,挂掉电话并拨打110报警",
+        "对方知道我的名字和身份证号,应该是真的",
+        "按对方要求到银行柜员机去转账,尽快洗清自己的嫌疑"
+      ],
+      "question_key": "某天你接到一个电话,对方自称是公安局的警官,并直接报出你的名字和身份证号。警官称你的银行卡涉嫌洗钱犯罪,正在被警方通缉,如果要洗清嫌疑,需要把卡内的钱转到一个指定安全账户,核实排除嫌疑后,再把钱打回原账户,你应该怎么做?|不相信,因为公安机关办案有严格程序,绝对不会在电话里办案,挂掉电话并拨打110报警|对方知道我的名字和身份证号,应该是真的|按对方要求到银行柜员机去转账,尽快洗清自己的嫌疑",
+      "answer_key": [
+        "不相信,因为公安机关办案有严格程序,绝对不会在电话里办案,挂掉电话并拨打110报警"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "verification_note": "Platform feedback A compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "A"
+      ],
+      "platform_answer": [
+        "A、不相信，因为公安机关办案有严格程序，绝对不会在电话里办案，挂掉电话并拨打110报警"
+      ]
+    },
+    {
+      "number": 81,
+      "type": "单选题",
+      "question": "阅读下述案例，以下说法正确的是",
+      "options": [
+        "A、闲鱼、转转是正规的二手物品交易网站，平台中发布的购物信息都是真实可靠的。",
+        "B、可以通过微商购买二手物品，谈妥价格后转账汇款，等待卖家发货。",
+        "C、可脱离闲鱼、转转等平台，添加卖家的微信或qq，在微信或qq上完成转账汇款交易。",
+        "D、卖家通过微信或qq发送的物品链接，通常都是钓鱼链接，决不能脱离平台交易。"
+      ],
+      "answer": "D、卖家通过微信或qq发送的物品链接，通常都是钓鱼链接，决不能脱离平台交易。",
+      "answer_labels": [
+        "D"
+      ],
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "normalized_options": [
+        "卖家通过微信或qq发送的物品链接,通常都是钓鱼链接,决不能脱离平台交易。",
+        "可以通过微商购买二手物品,谈妥价格后转账汇款,等待卖家发货。",
+        "可脱离闲鱼、转转等平台,添加卖家的微信或qq,在微信或qq上完成转账汇款交易。",
+        "闲鱼、转转是正规的二手物品交易网站,平台中发布的购物信息都是真实可靠的。"
+      ],
+      "question_key": "阅读下述案例,以下说法正确的是|卖家通过微信或qq发送的物品链接,通常都是钓鱼链接,决不能脱离平台交易。|可以通过微商购买二手物品,谈妥价格后转账汇款,等待卖家发货。|可脱离闲鱼、转转等平台,添加卖家的微信或qq,在微信或qq上完成转账汇款交易。|闲鱼、转转是正规的二手物品交易网站,平台中发布的购物信息都是真实可靠的。",
+      "answer_key": [
+        "卖家通过微信或qq发送的物品链接,通常都是钓鱼链接,决不能脱离平台交易。"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "verification_note": "Platform feedback D compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "D"
+      ],
+      "platform_answer": [
+        "D、卖家通过微信或qq发送的物品链接，通常都是钓鱼链接，决不能脱离平台交易。"
+      ]
+    },
+    {
+      "number": 82,
+      "type": "单选题",
+      "question": "“校方退费”群要求下载App操作，第一步应：",
+      "options": [
+        "A、立即下载注册",
+        "B、向学校财务处确认",
+        "C、联系群管理员",
+        "D、转发给班委"
+      ],
+      "answer": "B、向学校财务处确认",
+      "answer_labels": [
+        "B"
+      ],
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "normalized_options": [
+        "向学校财务处确认",
+        "立即下载注册",
+        "联系群管理员",
+        "转发给班委"
+      ],
+      "question_key": "“校方退费”群要求下载App操作,第一步应:|向学校财务处确认|立即下载注册|联系群管理员|转发给班委",
+      "answer_key": [
+        "向学校财务处确认"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "verification_note": "Platform feedback B compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "B"
+      ],
+      "platform_answer": [
+        "B、向学校财务处确认"
+      ]
+    },
+    {
+      "number": 83,
+      "type": "单选题",
+      "question": "某高校学生小李在网上买了一件衣服，支付完毕后收到“淘宝客服”短信，称其支付没有成功，需要重新操作，此时小李应该()",
+      "options": [
+        "A、根据短信提示再次进行付款",
+        "B、查看订单状态，联系卖家核实",
+        "C、在网上搜“淘宝客服”电话询问"
+      ],
+      "answer": "B、查看订单状态，联系卖家核实",
+      "answer_labels": [
+        "B"
+      ],
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "normalized_options": [
+        "在网上搜“淘宝客服”电话询问",
+        "查看订单状态,联系卖家核实",
+        "根据短信提示再次进行付款"
+      ],
+      "question_key": "某高校学生小李在网上买了一件衣服,支付完毕后收到“淘宝客服”短信,称其支付没有成功,需要重新操作,此时小李应该()|在网上搜“淘宝客服”电话询问|查看订单状态,联系卖家核实|根据短信提示再次进行付款",
+      "answer_key": [
+        "查看订单状态,联系卖家核实"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "verification_note": "本轮平台反馈与本地完整选项文本匹配（含受控 Unicode 字符变体规范化）。"
+    },
+    {
+      "number": 84,
+      "type": "多选题",
+      "question": "提升防诈意识的长期措施：",
+      "options": [
+        "A、定期学习反诈案例",
+        "B、安装国家反诈中心App",
+        "C、关闭所有消息通知",
+        "D、向亲友普及防诈知识"
+      ],
+      "selected_options": [
+        "A、定期学习反诈案例"
+      ],
+      "answer": [
+        "A、定期学习反诈案例",
+        "B、安装国家反诈中心App",
+        "D、向亲友普及防诈知识"
+      ],
+      "match": true,
+      "verification_status": "verified_by_platform_text",
+      "answer_labels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "selected_options_labels": [
+        "A"
+      ],
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "normalized_options": [
+        "关闭所有消息通知",
+        "向亲友普及防诈知识",
+        "安装国家反诈中心App",
+        "定期学习反诈案例"
+      ],
+      "question_key": "提升防诈意识的长期措施:|关闭所有消息通知|向亲友普及防诈知识|安装国家反诈中心App|定期学习反诈案例",
+      "answer_key": [
+        "向亲友普及防诈知识",
+        "安装国家反诈中心App",
+        "定期学习反诈案例"
+      ],
+      "verification_note": "Platform feedback ABD compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "platform_answer": [
+        "A、定期学习反诈案例",
+        "B、安装国家反诈中心App",
+        "D、向亲友普及防诈知识"
+      ]
+    },
+    {
+      "number": 85,
+      "type": "多选题",
+      "question": "小吴在网上购买了一双球鞋，支付完毕后突然收到“淘宝客服 ”短信，称未支付成功，需要重新操作。这时小吴该怎么做？",
+      "options": [
+        "A、进入自己的淘宝、支付宝账户查看订单状态",
+        "B、按照短信提示进入相关链接进行操作",
+        "C、和短信上提供的“淘宝客服”电话联系，询问详情",
+        "D、自己联系卖家或淘宝网客服进行核实"
+      ],
+      "selected_options": [
+        "A、进入自己的淘宝、支付宝账户查看订单状态"
+      ],
+      "answer": [
+        "A、进入自己的淘宝、支付宝账户查看订单状态",
+        "D、自己联系卖家或淘宝网客服进行核实"
+      ],
+      "match": true,
+      "verification_status": "verified_by_platform_text",
+      "answer_labels": [
+        "A",
+        "D"
+      ],
+      "selected_options_labels": [
+        "A"
+      ],
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "normalized_options": [
+        "和短信上提供的“淘宝客服”电话联系,询问详情",
+        "按照短信提示进入相关链接进行操作",
+        "自己联系卖家或淘宝网客服进行核实",
+        "进入自己的淘宝、支付宝账户查看订单状态"
+      ],
+      "question_key": "小吴在网上购买了一双球鞋,支付完毕后突然收到“淘宝客服 ”短信,称未支付成功,需要重新操作。这时小吴该怎么做?|和短信上提供的“淘宝客服”电话联系,询问详情|按照短信提示进入相关链接进行操作|自己联系卖家或淘宝网客服进行核实|进入自己的淘宝、支付宝账户查看订单状态",
+      "answer_key": [
+        "自己联系卖家或淘宝网客服进行核实",
+        "进入自己的淘宝、支付宝账户查看订单状态"
+      ],
+      "verification_note": "Platform feedback AD compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "A",
+        "D"
+      ],
+      "platform_answer": [
+        "A、进入自己的淘宝、支付宝账户查看订单状态",
+        "D、自己联系卖家或淘宝网客服进行核实"
+      ]
+    },
+    {
+      "number": 86,
+      "type": "多选题",
+      "question": "“冒充熟人借钱”的核实方式：",
+      "options": [
+        "A、通过原有联系方式确认",
+        "B、询问共同经历细节",
+        "C、要求发送实时照片",
+        "D、视频通话验证"
+      ],
+      "selected_options": [
+        "A、通过原有联系方式确认"
+      ],
+      "answer": [
+        "A、通过原有联系方式确认",
+        "B、询问共同经历细节",
+        "D、视频通话验证"
+      ],
+      "match": true,
+      "verification_status": "verified_by_platform_text",
+      "answer_labels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "selected_options_labels": [
+        "A"
+      ],
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "normalized_options": [
+        "要求发送实时照片",
+        "视频通话验证",
+        "询问共同经历细节",
+        "通过原有联系方式确认"
+      ],
+      "question_key": "“冒充熟人借钱”的核实方式:|要求发送实时照片|视频通话验证|询问共同经历细节|通过原有联系方式确认",
+      "answer_key": [
+        "视频通话验证",
+        "询问共同经历细节",
+        "通过原有联系方式确认"
+      ],
+      "verification_note": "Platform feedback ABD compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "platform_answer": [
+        "A、通过原有联系方式确认",
+        "B、询问共同经历细节",
+        "D、视频通话验证"
+      ]
+    },
+    {
+      "number": 87,
+      "type": "单选题",
+      "question": "二手平台交易时，买家要求“绕过平台直接转账”，卖家应：",
+      "options": [
+        "A、提供微信收款码",
+        "B、坚持平台担保交易",
+        "C、接受银行转账",
+        "D、发送货到付款"
+      ],
+      "answer": "B、坚持平台担保交易",
+      "answer_labels": [
+        "B"
+      ],
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "normalized_options": [
+        "发送货到付款",
+        "坚持平台担保交易",
+        "接受银行转账",
+        "提供微信收款码"
+      ],
+      "question_key": "二手平台交易时,买家要求“绕过平台直接转账”,卖家应:|发送货到付款|坚持平台担保交易|接受银行转账|提供微信收款码",
+      "answer_key": [
+        "坚持平台担保交易"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "verification_note": "Platform feedback B compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "B"
+      ],
+      "platform_answer": [
+        "B、坚持平台担保交易"
+      ]
+    },
+    {
+      "number": 88,
+      "type": "多选题",
+      "question": "“扫码领充电宝”可能泄露：",
+      "options": [
+        "A、微信好友关系链",
+        "B、手机相册权限",
+        "C、公开朋友圈内容",
+        "D、地理位置信息"
+      ],
+      "selected_options": [
+        "A、微信好友关系链"
+      ],
+      "answer": [
+        "A、微信好友关系链",
+        "B、手机相册权限",
+        "D、地理位置信息"
+      ],
+      "match": true,
+      "verification_status": "verified_by_platform_text",
+      "answer_labels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "selected_options_labels": [
+        "A"
+      ],
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "normalized_options": [
+        "公开朋友圈内容",
+        "地理位置信息",
+        "微信好友关系链",
+        "手机相册权限"
+      ],
+      "question_key": "“扫码领充电宝”可能泄露:|公开朋友圈内容|地理位置信息|微信好友关系链|手机相册权限",
+      "answer_key": [
+        "地理位置信息",
+        "微信好友关系链",
+        "手机相册权限"
+      ],
+      "verification_note": "Platform feedback ABD compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "platform_answer": [
+        "A、微信好友关系链",
+        "B、手机相册权限",
+        "D、地理位置信息"
+      ]
+    },
+    {
+      "number": 89,
+      "type": "单选题",
+      "question": "一天你接到学校导师的电话，你们寒暄了一会儿，他突然说急需一笔钱，麻烦你转账给他，你会?",
+      "options": [
+        "A、碍于导师面子，转账给他。",
+        "B、委婉拒绝。",
+        "C、先核实情况，再汇款。"
+      ],
+      "answer": "C、先核实情况，再汇款。",
+      "answer_labels": [
+        "C"
+      ],
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "normalized_options": [
+        "先核实情况,再汇款。",
+        "委婉拒绝。",
+        "碍于导师面子,转账给他。"
+      ],
+      "question_key": "一天你接到学校导师的电话,你们寒暄了一会儿,他突然说急需一笔钱,麻烦你转账给他,你会?|先核实情况,再汇款。|委婉拒绝。|碍于导师面子,转账给他。",
+      "answer_key": [
+        "先核实情况,再汇款。"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "verification_note": "Platform feedback C compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "C"
+      ],
+      "platform_answer": [
+        "C、先核实情况，再汇款。"
+      ]
+    },
+    {
+      "number": 90,
+      "type": "多选题",
+      "question": "哪些银行账户信息不能向他人透露？",
+      "options": [
+        "A、信用卡背面三位数的验证码",
+        "B、银行卡、第三方支付工具绑定预留手机收到的各类验证码",
+        "C、银行卡取款密码",
+        "D、网银、支付工具登录密码"
+      ],
+      "selected_options": [
+        "A、信用卡背面三位数的验证码"
+      ],
+      "answer": [
+        "A、信用卡背面三位数的验证码",
+        "B、银行卡、第三方支付工具绑定预留手机收到的各类验证码",
+        "C、银行卡取款密码",
+        "D、网银、支付工具登录密码"
+      ],
+      "match": true,
+      "verification_status": "verified_by_platform_text",
+      "answer_labels": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "selected_options_labels": [
+        "A"
+      ],
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "normalized_options": [
+        "信用卡背面三位数的验证码",
+        "网银、支付工具登录密码",
+        "银行卡、第三方支付工具绑定预留手机收到的各类验证码",
+        "银行卡取款密码"
+      ],
+      "question_key": "哪些银行账户信息不能向他人透露?|信用卡背面三位数的验证码|网银、支付工具登录密码|银行卡、第三方支付工具绑定预留手机收到的各类验证码|银行卡取款密码",
+      "answer_key": [
+        "信用卡背面三位数的验证码",
+        "网银、支付工具登录密码",
+        "银行卡、第三方支付工具绑定预留手机收到的各类验证码",
+        "银行卡取款密码"
+      ],
+      "verification_note": "Platform feedback ABCD compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "platform_answer": [
+        "A、信用卡背面三位数的验证码",
+        "B、银行卡、第三方支付工具绑定预留手机收到的各类验证码",
+        "C、银行卡取款密码",
+        "D、网银、支付工具登录密码"
+      ]
+    },
+    {
+      "number": 91,
+      "type": "单选题",
+      "question": "“论文代写”机构要求预付定金，可能的结果是：",
+      "options": [
+        "A、收到高质量论文",
+        "B、被勒索加价或失联",
+        "C、获得全额退款",
+        "D、被学校表扬效率高"
+      ],
+      "answer": "B、被勒索加价或失联",
+      "answer_labels": [
+        "B"
+      ],
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "normalized_options": [
+        "收到高质量论文",
+        "获得全额退款",
+        "被勒索加价或失联",
+        "被学校表扬效率高"
+      ],
+      "question_key": "“论文代写”机构要求预付定金,可能的结果是:|收到高质量论文|获得全额退款|被勒索加价或失联|被学校表扬效率高",
+      "answer_key": [
+        "被勒索加价或失联"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "verification_note": "Platform feedback B compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "B"
+      ],
+      "platform_answer": [
+        "B、被勒索加价或失联"
+      ]
+    },
+    {
+      "number": 92,
+      "type": "单选题",
+      "question": "“快递客服”称包裹丢失要双倍赔偿，需扫描二维码填写信息，应：",
+      "options": [
+        "A、扫码填写银行卡号",
+        "B、登录购物平台核对物流",
+        "C、提供身份证照片验证",
+        "D、要求微信转账赔偿"
+      ],
+      "answer": "B、登录购物平台核对物流",
+      "answer_labels": [
+        "B"
+      ],
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "normalized_options": [
+        "扫码填写银行卡号",
+        "提供身份证照片验证",
+        "登录购物平台核对物流",
+        "要求微信转账赔偿"
+      ],
+      "question_key": "“快递客服”称包裹丢失要双倍赔偿,需扫描二维码填写信息,应:|扫码填写银行卡号|提供身份证照片验证|登录购物平台核对物流|要求微信转账赔偿",
+      "answer_key": [
+        "登录购物平台核对物流"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "verification_note": "Platform feedback B compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "B"
+      ],
+      "platform_answer": [
+        "B、登录购物平台核对物流"
+      ]
+    },
+    {
+      "number": 93,
+      "type": "单选题",
+      "question": "接到银行工作人员电话，说你银行卡欠费，解释半天，对方帮你转接公安局，王警官称你可能身份证被冒用，涉嫌犯罪，给你发送“资金验证系统”链接，让你填写银行卡信息，帮你查银行账户流水，你该怎么办?",
+      "options": [
+        "A、自己没做过，查一查也好。",
+        "B、挂断电话，真正的警察是不会通过电话和网络办案。",
+        "C、添加对方好友，点开链接，配合调查"
+      ],
+      "answer": "B、挂断电话，真正的警察是不会通过电话和网络办案。",
+      "answer_labels": [
+        "B"
+      ],
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "normalized_options": [
+        "挂断电话,真正的警察是不会通过电话和网络办案。",
+        "添加对方好友,点开链接,配合调查",
+        "自己没做过,查一查也好。"
+      ],
+      "question_key": "接到银行工作人员电话,说你银行卡欠费,解释半天,对方帮你转接公安局,王警官称你可能身份证被冒用,涉嫌犯罪,给你发送“资金验证系统”链接,让你填写银行卡信息,帮你查银行账户流水,你该怎么办?|挂断电话,真正的警察是不会通过电话和网络办案。|添加对方好友,点开链接,配合调查|自己没做过,查一查也好。",
+      "answer_key": [
+        "挂断电话,真正的警察是不会通过电话和网络办案。"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "verification_note": "Platform feedback B compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "B"
+      ],
+      "platform_answer": [
+        "B、挂断电话，真正的警察是不会通过电话和网络办案。"
+      ]
+    },
+    {
+      "number": 94,
+      "type": "多选题",
+      "question": "二手交易风险行为包括：",
+      "options": [
+        "A、绕过平台担保交易",
+        "B、提前确认收货",
+        "C、要求出具购买凭证",
+        "D、支付“定金”到个人账户"
+      ],
+      "selected_options": [
+        "A、绕过平台担保交易"
+      ],
+      "answer": [
+        "A、绕过平台担保交易",
+        "B、提前确认收货",
+        "D、支付“定金”到个人账户"
+      ],
+      "match": true,
+      "verification_status": "verified_by_platform_text",
+      "answer_labels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "selected_options_labels": [
+        "A"
+      ],
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "normalized_options": [
+        "提前确认收货",
+        "支付“定金”到个人账户",
+        "绕过平台担保交易",
+        "要求出具购买凭证"
+      ],
+      "question_key": "二手交易风险行为包括:|提前确认收货|支付“定金”到个人账户|绕过平台担保交易|要求出具购买凭证",
+      "answer_key": [
+        "提前确认收货",
+        "支付“定金”到个人账户",
+        "绕过平台担保交易"
+      ],
+      "verification_note": "Platform feedback ABD compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "platform_answer": [
+        "A、绕过平台担保交易",
+        "B、提前确认收货",
+        "D、支付“定金”到个人账户"
+      ]
+    },
+    {
+      "number": 95,
+      "type": "单选题",
+      "question": "收到“银行卡异常消费”短信，应首先：",
+      "options": [
+        "A、点击链接冻结账户",
+        "B、拨打银行官方客服电话",
+        "C、回复短信“取消交易”",
+        "D、删除短信不予理会"
+      ],
+      "answer": "B、拨打银行官方客服电话",
+      "answer_labels": [
+        "B"
+      ],
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "normalized_options": [
+        "删除短信不予理会",
+        "回复短信“取消交易”",
+        "拨打银行官方客服电话",
+        "点击链接冻结账户"
+      ],
+      "question_key": "收到“银行卡异常消费”短信,应首先:|删除短信不予理会|回复短信“取消交易”|拨打银行官方客服电话|点击链接冻结账户",
+      "answer_key": [
+        "拨打银行官方客服电话"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "verification_note": "Platform feedback B compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "B"
+      ],
+      "platform_answer": [
+        "B、拨打银行官方客服电话"
+      ]
+    },
+    {
+      "number": 96,
+      "type": "多选题",
+      "question": "防范虚假“实习内推”：",
+      "options": [
+        "A、核实企业官网招聘信息",
+        "B、拒绝支付“岗位预留费”",
+        "C、接受电话面试",
+        "D、查询公司工商注册信息"
+      ],
+      "selected_options": [
+        "A、核实企业官网招聘信息"
+      ],
+      "answer": [
+        "A、核实企业官网招聘信息",
+        "B、拒绝支付“岗位预留费”",
+        "D、查询公司工商注册信息"
+      ],
+      "match": true,
+      "verification_status": "verified_by_platform_text",
+      "answer_labels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "selected_options_labels": [
+        "A"
+      ],
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "normalized_options": [
+        "拒绝支付“岗位预留费”",
+        "接受电话面试",
+        "查询公司工商注册信息",
+        "核实企业官网招聘信息"
+      ],
+      "question_key": "防范虚假“实习内推”:|拒绝支付“岗位预留费”|接受电话面试|查询公司工商注册信息|核实企业官网招聘信息",
+      "answer_key": [
+        "拒绝支付“岗位预留费”",
+        "查询公司工商注册信息",
+        "核实企业官网招聘信息"
+      ],
+      "verification_note": "Platform feedback ABD compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "platform_answer": [
+        "A、核实企业官网招聘信息",
+        "B、拒绝支付“岗位预留费”",
+        "D、查询公司工商注册信息"
+      ]
+    },
+    {
+      "number": 97,
+      "type": "多选题",
+      "question": "收到“银行卡盗刷”短信时，正确做法是：",
+      "options": [
+        "A、拨打银行卡背面客服电话",
+        "B、冻结账户并报警",
+        "C、点击链接修改密码",
+        "D、回复“TD”退订"
+      ],
+      "selected_options": [
+        "A、拨打银行卡背面客服电话"
+      ],
+      "answer": [
+        "A、拨打银行卡背面客服电话",
+        "B、冻结账户并报警"
+      ],
+      "match": true,
+      "verification_status": "verified_by_platform_text",
+      "answer_labels": [
+        "A",
+        "B"
+      ],
+      "selected_options_labels": [
+        "A"
+      ],
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "normalized_options": [
+        "冻结账户并报警",
+        "回复“TD”退订",
+        "拨打银行卡背面客服电话",
+        "点击链接修改密码"
+      ],
+      "question_key": "收到“银行卡盗刷”短信时,正确做法是:|冻结账户并报警|回复“TD”退订|拨打银行卡背面客服电话|点击链接修改密码",
+      "answer_key": [
+        "冻结账户并报警",
+        "拨打银行卡背面客服电话"
+      ],
+      "verification_note": "Platform feedback AB compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "A",
+        "B"
+      ],
+      "platform_answer": [
+        "A、拨打银行卡背面客服电话",
+        "B、冻结账户并报警"
+      ]
+    },
+    {
+      "number": 98,
+      "type": "单选题",
+      "question": "“机票退改签”诈骗的典型话术是：",
+      "options": [
+        "A、“请提供航班号和身份证”",
+        "B、“需转账到个人账户操作”",
+        "C、“请登录航空公司官网”",
+        "D、“稍后发送短信确认码”"
+      ],
+      "answer": "B、“需转账到个人账户操作”",
+      "answer_labels": [
+        "B"
+      ],
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "normalized_options": [
+        "“稍后发送短信确认码”",
+        "“请提供航班号和身份证”",
+        "“请登录航空公司官网”",
+        "“需转账到个人账户操作”"
+      ],
+      "question_key": "“机票退改签”诈骗的典型话术是:|“稍后发送短信确认码”|“请提供航班号和身份证”|“请登录航空公司官网”|“需转账到个人账户操作”",
+      "answer_key": [
+        "“需转账到个人账户操作”"
+      ],
+      "verification_status": "verified_by_platform_text",
+      "match": true,
+      "verification_note": "Platform feedback B compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "B"
+      ],
+      "platform_answer": [
+        "B、“需转账到个人账户操作”"
+      ]
+    },
+    {
+      "number": 99,
+      "type": "多选题",
+      "question": "机票退改签诈骗的防范要点包括：",
+      "options": [
+        "A、核实航空公司官方电话",
+        "B、拒绝转账到个人账户",
+        "C、点击短信链接操作",
+        "D、通过购票平台办理"
+      ],
+      "selected_options": [
+        "A、核实航空公司官方电话"
+      ],
+      "answer": [
+        "A、核实航空公司官方电话",
+        "B、拒绝转账到个人账户",
+        "D、通过购票平台办理"
+      ],
+      "match": true,
+      "verification_status": "verified_by_platform_text",
+      "answer_labels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "selected_options_labels": [
+        "A"
+      ],
+      "answer_match_key": "normalized_unordered_option_text_set",
+      "normalized_options": [
+        "拒绝转账到个人账户",
+        "核实航空公司官方电话",
+        "点击短信链接操作",
+        "通过购票平台办理"
+      ],
+      "question_key": "机票退改签诈骗的防范要点包括:|拒绝转账到个人账户|核实航空公司官方电话|点击短信链接操作|通过购票平台办理",
+      "answer_key": [
+        "拒绝转账到个人账户",
+        "核实航空公司官方电话",
+        "通过购票平台办理"
+      ],
+      "verification_note": "Platform feedback ABD compared using normalized unordered option text.",
+      "platform_answer_labels": [
+        "A",
+        "B",
+        "D"
+      ],
+      "platform_answer": [
+        "A、核实航空公司官方电话",
+        "B、拒绝转账到个人账户",
+        "D、通过购票平台办理"
+      ]
+    }
+  ],
+  "notes": [
+    "第1至7题均由平台页面显示正确答案后记录。",
+    "第8题平台显示答案为ABCD；基于题意选择ABC后结果不匹配，已标记 needs_review，未重试。",
+    "第9至13题由平台页面反馈确认。",
+    "未保存账号、密码、Cookie、令牌或完整网络响应。"
+  ],
+  "answer_schema": {
+    "primary_answer_field": "answer",
+    "primary_answer_unit": "full_option_text",
+    "auxiliary_label_fields": [
+      "answer_labels",
+      "selected_options_labels"
+    ],
+    "matching_rule": "normalize option text (trim whitespace and punctuation; preserve meaning) and compare option text, not labels alone",
+    "label_role": "A/B/C/D labels are retained only as positional metadata",
+    "normalization": "Unicode NFKC; trim whitespace; remove one leading A-D option label plus presentation delimiter; collapse internal whitespace",
+    "option_count": "variable; observed options are preserved and no four-option assumption is made",
+    "ordering": "display order preserved; canonical question and answer keys sort normalized option texts",
+    "canonical_fields": [
+      "normalized_options",
+      "question_key",
+      "answer_key"
+    ]
+  }
+}

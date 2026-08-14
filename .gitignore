@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Local exam state, credentials, and generated certificates
+data/exam-runs/
+*.pdf
+*.log
+.env
+.env.*
+!.env.example
+
+# Editors and operating systems
+.DS_Store
+.vscode/
