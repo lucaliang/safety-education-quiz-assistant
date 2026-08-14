@@ -1,16 +1,19 @@
 ---
 name: safety-education-quiz-assistant
-description: Use when a GUET user asks to collect safety-education questions, answer a safety question, or complete the GUET safety-education online or simulation exam through OpenCLI and local quiz banks.
+description: Use when an authorized GUET user asks to collect safety-education questions, answer a safety question, or complete the GUET safety-education online or simulation exam through a compatible Agent, OpenCLI, and local quiz banks.
 ---
 
 # Safety Education Quiz Assistant
 
-Use the bundled scripts for browser automation. Do not place identity numbers,
-passwords, cookies, or tokens in Markdown, JSON, shell history, or Git.
+Use the bundled scripts for browser automation from any Agent host that can load
+this skill and run local shell commands, such as Codex CLI, Claude Code, or
+another compatible Agent. The scripts do not require a specific Agent vendor's
+CLI. Do not place identity numbers, passwords, cookies, or tokens in Markdown,
+JSON, shell history, or Git.
 
 ## Automated Online Exam
 
-1. Run `python3 scripts/take_online_exam.py preflight`. Report every failed dependency and provide its installation instruction; install only when the user authorizes it.
+1. Run `python3 scripts/take_online_exam.py preflight`. Report every failed dependency and provide its installation instruction; install only when the user authorizes it. The preflight checks the local runtime and OpenCLI, not the Agent vendor.
 2. Ask the user for the identity number, password, and whether to remember the account. State that an empty password prompt uses the last six identity-number digits. Pass neither credential as a command-line argument.
 3. Run `python3 scripts/take_online_exam.py take --login [--remember-account]`.
 4. The script opens the platform, enters the login page through “打开安全大门”, navigates to 考试 → 在线考试, and answers with complete option-text matches from all four local banks.
@@ -21,7 +24,7 @@ passwords, cookies, or tokens in Markdown, JSON, shell history, or Git.
 
 - Main banks: `data/*-security.sample.json` and `data/traffic-safety.sample.json`.
 - Exam records: `data/exam-runs/online-exam-*.json`; records contain answers and results but never credentials.
-- Browser workflow detail: `quiz-bank-collection-workflow.md`.
+- Browser workflow detail: `docs/使用教程.md`.
 
 ## Core workflow
 

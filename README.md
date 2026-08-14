@@ -1,12 +1,12 @@
 # Safety Education Quiz Assistant
 
-用于桂林电子科技大学安全教育平台的 Codex Skill：检查运行环境、通过 OpenCLI 驱动已授权的 Chrome、根据本地题库完成模拟考试或在线考试，并下载考试证书。
+用于桂林电子科技大学安全教育平台的通用 Agent Skill：检查运行环境、通过 OpenCLI 驱动已授权的 Chrome、根据本地题库完成模拟考试或在线考试，并下载考试证书。支持 Codex CLI、Claude Code 及其他能够加载本地 Skill 并执行 shell 命令的 Agent 宿主。
 
 > 仅供已获授权的学生个人学习使用。请遵守学校平台规则、课程要求和适用法律；不要使用本项目规避身份验证、伪造考试结果或商业化分发题库。
 
 ## 功能
 
-- 环境预检：Python、Node.js、Codex CLI、OpenCLI、Chrome Browser Bridge 和题库文件。
+- 环境预检：Python、Node.js、OpenCLI、Chrome Browser Bridge 和题库文件；不依赖特定 Agent CLI。
 - 安全登录：运行时询问身份证号和密码，不将凭据写入 JSON、日志或命令行参数。
 - 题库匹配：按题干和完整选项文本匹配，不依赖随机题号或 A/B/C/D 的显示位置。
 - 考试自动化：支持模拟考试和在线考试；在线考试只有得分 100 才视为通过。
@@ -14,7 +14,7 @@
 
 ## 快速开始
 
-1. 安装 Codex CLI、Node.js 20+、Python 3.10+ 和 [OpenCLI](https://github.com/jackwener/OpenCLI)。
+1. 准备一个支持本地 Skill 和 shell 命令的 Agent 宿主（例如 Codex CLI 或 Claude Code），并安装 Node.js 20+、Python 3.10+ 和 [OpenCLI](https://github.com/jackwener/OpenCLI)。
 2. 在 Chrome 安装并连接 OpenCLI Browser Bridge，然后确认：
 
    ```bash
@@ -27,7 +27,9 @@
    python3 scripts/take_online_exam.py preflight
    ```
 
-4. 在 Codex 中调用 `$safety-education-quiz-assistant`，或按 Skill 指引执行在线考试。脚本会在运行时安全地询问账号信息。
+4. 将本目录安装到所用 Agent 的 Skill 目录，并在 Agent 中加载 `safety-education-quiz-assistant`。不同宿主的发现目录和调用方式可能不同，请遵循对应宿主的 Skill 文档。脚本会在运行时安全地询问账号信息。
+
+`agents/openai.yaml` 是 OpenAI/Codex 兼容宿主可选的界面元数据，不是核心运行依赖；Claude Code 等其他宿主只需加载 `SKILL.md`、脚本和题库即可。
 
 详见 [使用教程](docs/使用教程.md)。
 

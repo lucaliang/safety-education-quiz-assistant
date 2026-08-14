@@ -103,7 +103,6 @@ def preflight(session: str) -> dict[str, Any]:
         "python": sys.version.split()[0],
         "node": shutil.which("node"),
         "opencli": shutil.which("opencli"),
-        "codex": shutil.which("codex"),
         "banks": {},
         "errors": [],
     }
@@ -113,8 +112,6 @@ def preflight(session: str) -> dict[str, Any]:
         report["errors"].append("Node.js is missing. Install Node.js 20+.")
     if not report["opencli"]:
         report["errors"].append("OpenCLI is missing. Install/configure OpenCLI and its Chrome extension.")
-    if not report["codex"]:
-        report["errors"].append("Codex CLI was not found in PATH; run this Skill from a Codex agent environment.")
     records = 0
     for filename in BANKS:
         path = DATA_DIR / filename
