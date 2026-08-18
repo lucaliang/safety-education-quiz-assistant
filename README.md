@@ -1,53 +1,33 @@
-# Safety Education Quiz Assistant
+# 安全教育答题助手
 
-用于桂林电子科技大学安全教育平台的通用 Agent Skill：检查运行环境、通过 OpenCLI 驱动已授权的 Chrome、根据本地题库完成模拟考试或在线考试，并下载考试证书。支持 Codex CLI、Claude Code 及其他能够加载本地 Skill 并执行 shell 命令的 Agent 宿主。
+本 skill 支持两套相互独立的考试部署。使用时先在对话中选择部署方案；没有明确选择时，助手必须先询问。
 
-> 仅供已获授权的学生个人学习使用。请遵守学校平台规则、课程要求和适用法律；不要使用本项目规避身份验证、伪造考试结果或商业化分发题库。
+| 方案 | 依赖 | 答题数据来源 |
+|---|---|---|
+| 浏览器辅助 | Chrome、OpenCLI、本地题库 | 本地已核验题库 |
+| HTTP 协议 | Python、`requests` | 服务器返回的 `correctAnswer` |
 
-## 功能
+HTTP 方案快速运行：
 
-- 环境预检：Python、Node.js、OpenCLI、Chrome Browser Bridge 和题库文件；不依赖特定 Agent CLI。
-- 安全登录：运行时询问身份证号和密码，不将凭据写入 JSON、日志或命令行参数。
-- 题库匹配：按题干和完整选项文本匹配，不依赖随机题号或 A/B/C/D 的显示位置。
-- 考试自动化：支持模拟考试和在线考试；在线考试只有得分 100 才视为通过。
-- 证书下载：通过后自动下载“安全教育培训证书” PDF。
+```bash
+python3 scripts/take_online_exam_http.py --fetch-page-assets \
+  --output ./exam-result.json
+```
 
-## 快速开始
+程序会提示身份证号、密码和答题时长。密码直接回车时使用身份证号后 6 位；时长默认 299 秒，可输入 `120秒`、`5分钟` 等，最长 45 分钟。执行过程中会打印登录、题目、等待、提交、保存、成绩和证书阶段。
 
-1. 准备一个支持本地 Skill 和 shell 命令的 Agent 宿主（例如 Codex CLI 或 Claude Code），并安装 Node.js 20+、Python 3.10+ 和 [OpenCLI](https://github.com/jackwener/OpenCLI)。
-2. 在 Chrome 安装并连接 OpenCLI Browser Bridge，然后确认：
+默认不生成 HAR；证书会保存到系统 `Downloads` 目录，并在结果中报告实际路径。只有需要本地协议调试时才增加 `--har`，因为该文件未脱敏。
 
-   ```bash
-   opencli doctor
-   ```
+登录成功后先检查 `studentModel.isPassed`：值为 `1` 时立即停止，不会继续考试。HTTP 方案只使用服务器返回的正确答案，不读取本地题库。
 
-3. 进入本目录，检查环境和题库：
+如果结果阶段为 `saving_full_questions`，表示 submit 已经执行但 mongo 保存失败。不要直接重新运行完整考试，以免重复提交；当前版本未保存可独立重试的完整 mongo payload，只能保留失败记录并等待后续恢复功能。
 
-   ```bash
-   python3 scripts/take_online_exam.py preflight
-   ```
+本仓库不包含账号密码、Cookie、考试运行记录、个人证书或未脱敏 HAR。请只在已获授权的环境中使用。
 
-4. 将本目录安装到所用 Agent 的 Skill 目录，并在 Agent 中加载 `safety-education-quiz-assistant`。不同宿主的发现目录和调用方式可能不同，请遵循对应宿主的 Skill 文档。脚本会在运行时安全地询问账号信息。
+详细内容：
 
-`agents/openai.yaml` 是 OpenAI/Codex 兼容宿主可选的界面元数据，不是核心运行依赖；Claude Code 等其他宿主只需加载 `SKILL.md`、脚本和题库即可。
-
-详见 [使用教程](docs/使用教程.md)。
-
-## 题库状态
-
-| 专题 | 记录数 | 平台验证 |
-| --- | ---: | ---: |
-| 反诈安全 | 99 | 99 |
-| 消防安全 | 97 | 97 |
-| 国家安全 | 100 | 100 |
-| 交通安全 | 100 | 100 |
-
-记录数小于 100 的专题已经按“题干 + 无序完整选项”去重；学习页面的显示题号可能随机复用，不能仅凭编号判断题目缺失。
-
-## 发布内容
-
-本仓库不含账号密码、Cookie、考试运行记录、个人证书、题库清理备份或个人身份信息。详见 [NOTICE.md](NOTICE.md)。
-
-## License
-
-代码以 [MIT License](LICENSE) 发布。题库内容及平台相关材料受其来源和平台条款约束，见 [NOTICE.md](NOTICE.md)。
+- [HTTP 协议部署教程](docs/deployment-http-protocol.md)
+- [浏览器/OpenCLI 部署教程](docs/deployment-browser-opencli.md)
+- [HTTP 环境配置](environments/http-protocol/README.md)
+- [浏览器环境配置](environments/browser-opencli/README.md)
+- [Skill 入口规则](SKILL.md)

@@ -1,4 +1,4 @@
 interface:
   display_name: "安全教育答题助手"
-  short_description: "采集题库并自动完成桂电安全教育考试"
-  default_prompt: "使用 $safety-education-quiz-assistant 完成桂电安全教育在线考试。"
+  short_description: "选择浏览器题库或 HTTP 协议方式完成桂电安全教育考试"
+  default_prompt: "使用 $safety-education-quiz-assistant。先询问我选择浏览器/OpenCLI+本地题库，还是直接 HTTP 协议方案；若选择 HTTP 方案，再提示输入身份证号、密码和答题时长。"

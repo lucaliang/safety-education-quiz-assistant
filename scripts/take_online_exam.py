@@ -82,6 +82,11 @@ class Browser:
     def click_button(self, label: str) -> None:
         if self.try_run("click", "--role", "button", "--name", label):
             return
+        entries = parse_json(self.run("find", "--text", label, "--limit", "20"))
+        for entry in entries.get("entries", []):
+            if entry.get("visible") and entry.get("text", "").strip() == label:
+                self.run("click", str(entry["ref"]))
+                return
         # Vant's login button is rendered as “登 录”, with presentation
         # whitespace that does not always match its semantic name.
         if label == "登录" and self.try_run("click", "button", "--nth", "0"):
@@ -345,7 +350,9 @@ def take_exam(args: argparse.Namespace) -> None:
         view = read_view(browser)
         if "登录" in view["text"] or not view["url"].startswith("https://gdse.guet.edu.cn/"):
             raise RuntimeError("No authenticated safety-education page. Re-run with --login.")
-    enter_online_exam(browser)
+    current_view = read_view(browser)
+    if not current_view["number"]:
+        enter_online_exam(browser)
     output = Path(args.record) if args.record else run_path(args.run_id)
     if output.exists():
         record = json.loads(output.read_text())
