@@ -90,23 +90,13 @@ are recorded as ordinary `GET` requests and do not affect the exam workflow.
 The hashed asset names are tied to the captured frontend build and should be
 refreshed if the site publishes a new build.
 
-If a run reaches `stage: saving_full_questions`, `submit` has already been
-sent but the mongo persistence request failed. Do not restart the full exam:
-that would create another record and submit again. The current client does not
-persist the complete mongo payload before submit, so it cannot safely retry
-mongo for that historical run. A future recovery implementation should save
-the exact payload atomically before submit and expose a record-bound mongo-only
-retry command.
-
 At startup the HTTP client randomly selects one Chrome `User-Agent` from its
 Linux, Windows, and macOS pool, then reuses that value for every request in
 the run so the capture remains internally consistent.
 
 The protocol client uses bounded timeouts and retries only `GET`/`OPTIONS`
 requests for transient failures. It never automatically retries an exam
-submission `POST`. Run records include a `stage` checkpoint and are written
-atomically so an interruption can be diagnosed without a partially written
-JSON file.
+submission `POST`. Run records are written atomically.
 
 Read `docs/deployment-http-protocol.md` for the complete HTTP request order and
 `docs/deployment-browser-opencli.md` for the browser workflow. Their runtime

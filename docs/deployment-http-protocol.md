@@ -34,22 +34,3 @@
 证书默认保存到系统 `Downloads` 目录：优先采用服务器 `Content-Disposition` 提供的文件名，否则使用 `安全教育学习考试证书.pdf`。不传 `--certificate` 时，最终结果会报告实际保存路径。
 
 如需只验证登录和取题而不提交，可增加 `--dry-run`。
-
-## 提交失败后的恢复边界
-
-如果日志显示：
-
-```text
-submit 成功
-mongo 保存失败
-stage: saving_full_questions
-```
-
-不要重新运行完整考试。重新运行会重新获取考试记录编号并再次 submit，可能产生重复考试记录。当前版本没有把完整 mongo 请求体在 submit 前保存下来，因此无法仅凭结果 JSON 安全重试原记录的 mongo 请求；重新获取题目也不能保证与原记录一致。
-
-后续恢复功能应满足：
-
-1. 在 submit 前原子保存完整 mongo payload；
-2. payload 固定绑定 `recordId`、`templateId` 和时间字段；
-3. 提供只执行 `OPTIONS` + `POST /examinationRecord/questions/mongo` 的重试入口；
-4. 重试前校验账号、记录编号和 payload 的一致性。

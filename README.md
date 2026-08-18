@@ -20,8 +20,6 @@ python3 scripts/take_online_exam_http.py --fetch-page-assets \
 
 登录成功后先检查 `studentModel.isPassed`：值为 `1` 时立即停止，不会继续考试。HTTP 方案只使用服务器返回的正确答案，不读取本地题库。
 
-如果结果阶段为 `saving_full_questions`，表示 submit 已经执行但 mongo 保存失败。不要直接重新运行完整考试，以免重复提交；当前版本未保存可独立重试的完整 mongo payload，只能保留失败记录并等待后续恢复功能。
-
 本仓库不包含账号密码、Cookie、考试运行记录、个人证书或未脱敏 HAR。请只在已获授权的环境中使用。
 
 详细内容：
